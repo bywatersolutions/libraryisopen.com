@@ -5,6 +5,7 @@ layout: post
 author: ByWater Solutions
 explicit: 'no'
 duration: '0:31:26'
+episode_cover: /img/everylibrarypodcastimage.png
 audio:
   m4a: podcast-everylibrary.mp4
 chapters:

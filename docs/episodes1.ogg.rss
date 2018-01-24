@@ -1,0 +1,110 @@
+<?xml version="1.0"
+      encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:bitlove="http://bitlove.org"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:psc="http://podlove.org/simple-chapters"
+     version="2.0">
+
+  <channel>
+    <title>The Library is Open</title>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/episodes.ogg.rss" rel="self" type="application/rss+xml" title="ogg Episode RSS-Feed"/>
+    <atom:link href="http://localhost:4000/episodes.ogg.rss" rel="first" type="application/rss+xml" />
+    <atom:link href="http://localhost:4000/episodes.ogg.rss" rel="last" type="application/rss+xml" />
+    
+    
+
+    <atom:link rel="alternate" href="http://localhost:4000/episodes.mp3.rss" type="application/rss+xml" title="mp3 Episode RSS-Feed"/>
+<atom:link rel="alternate" href="http://localhost:4000/episodes.m4a.rss" type="application/rss+xml" title="m4a Episode RSS-Feed"/>
+    <description>A podcast for libraries interested in Koha and Open Source Software
+</description>
+    <lastBuildDate>Wed, 24 Jan 2018 14:22:22 -0500</lastBuildDate>
+    <language>en</language>
+    <generator>Jekyll-Octopod 0.9.3</generator>
+
+    <itunes:summary>A podcast for libraries interested in Koha and Open Source Software
+</itunes:summary>
+    <itunes:author>ByWater Solutions</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="http://localhost:4000/img/logo-itunes.jpg" />
+    <itunes:owner>
+      <itunes:name>ByWater Solutions</itunes:name>
+      <itunes:email>info@libraryisopen.com</itunes:email>
+    </itunes:owner>
+    <managingEditor>info@libraryisopen.com (ByWater Solutions)</managingEditor>
+    <copyright>CC BY 4.0</copyright>
+    <itunes:subtitle>Libraries, Koha, and Open Source</itunes:subtitle>
+    <itunes:keywords>koha, foss, library, libraries</itunes:keywords>
+    <image>
+      <title>The Library is Open</title>
+      <url>http://localhost:4000/img/logo-itunes.jpg</url>
+      <link>http://localhost:4000</link>
+    </image>
+    
+    <itunes:category text="Technology" />
+    
+    
+    
+      
+    
+      
+    
+      
+        
+        
+          <item>
+            <title>Episode 0 - Getting Started Is Never Easy</title>
+            <link>http://localhost:4000/2016/03/22/episode0.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="http://localhost:4000/players/episode0"/>
+            <comments>http://localhost:4000/2016/03/22/episode0.html#disqus_thread</comments>
+            <pubDate>Tue, 22 Mar 2016 00:00:00 -0400</pubDate>
+            
+            <guid isPermaLink="false">http://localhost:4000/2016/03/22/episode0.html</guid>
+            <description><![CDATA[
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+
+<ul>
+  <li>Well this is the place for the Show Notes.</li>
+  <li>Send Feedback either in the <a href="https://github.com/haslinger/jekyll-octopod">Github Repo</a> or at the Twitter account <a href="http://twitter.com/@AuaUffCode">@AuaUffCode</a>.</li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+
+<ul>
+  <li>Well this is the place for the Show Notes.</li>
+  <li>Send Feedback either in the <a href="https://github.com/haslinger/jekyll-octopod">Github Repo</a> or at the Twitter account <a href="http://twitter.com/@AuaUffCode">@AuaUffCode</a>.</li>
+</ul>
+]]></content:encoded>
+            
+            <enclosure url="http://localhost:4000/episodes/episode0.ogg" length="58927" type="audio/ogg; codecs=vorbis" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle>Getting Started Is Never Easy</itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Arne and Stefan</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>0:03:13</itunes:duration>
+            
+            
+            <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters">
+              
+              <psc:chapter start="00:00:00.000" title="Intro." />
+              
+              <psc:chapter start="00:00:01.000" title="... Shoubidoubidoo ..." />
+              
+              <psc:chapter start="00:00:02.000" title="Outro." />
+              
+            </psc:chapters>
+            
+            
+            
+          </item>
+        
+      
+    
+  </channel>
+</rss>

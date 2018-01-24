@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>The Library is Open</title>
+  <link href="http://localhost:4000/general_feed.xml" rel="self"/>
+  <link href="http://localhost:4000"/>
+  <updated>2018-01-24T14:22:22-05:00</updated>
+  <id>http://localhost:4000/</id>
+  <author>
+    <name>ByWater Solutions</name>
+    <email>info@libraryisopen.com</email>
+  </author>
+
+  
+    <entry>
+      <title>The Library is Open Podcast Featuring Brendan Gallagher and Nate Curulla</title>
+      <link href="http://localhost:4000/2016/12/14/nate-brendan.html"/>
+      <updated>2016-12-14T00:00:00-05:00</updated>
+      <id>http://localhost:4000/2016/12/14/nate-brendan</id>
+      <content type="html">&lt;script&gt;
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;m4a&quot;:&quot;http://localhost:4000/episodes/Podcast-brendan-nate.m4a&quot;},&quot;coverUrl&quot;:&quot;http://localhost:4000/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;The Library is Open Podcast Featuring Brendan Gallagher and Nate Curulla&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;http://localhost:4000/2016/12/14/nate-brendan.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:[{&quot;start&quot;:&quot;00:00:00.000 &quot;,&quot;title&quot;:&quot;Intro.&quot;}]}}
+&lt;/script&gt;
+
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;http://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;/script&gt;
+
+&lt;p&gt;We are happy to announce the second of our monthly podcast series titled The Library is Open! It features an interview with Brendan Gallagher, Co-Owner and Chief Executive Officer and Nate Curulla, Co-Owner and Chief Revenue Officer.  Join us as we talk through the journey of friendship, librarianship and starting the ByWater Solutions Company. You can see our pretty faces on the video version of this conversation on our &lt;a href=&quot;https://www.youtube.com/user/bywatersolutions&quot;&gt;YouTube&lt;/a&gt; channel, listen right here, subscribe to our podcast, or all of the above. Enjoy!&lt;/p&gt;
+</content>
+      
+        <link rel="enclosure" type="audio/mp4a-latm" length="10641407" href="http://localhost:4000/episodes/Podcast-brendan-nate.m4a"/>
+      
+      
+    </entry>
+  
+    <entry>
+      <title>Introducing The Library is Open Podcast Featuring Joann Ransom</title>
+      <link href="http://localhost:4000/2016/11/14/introducing-the-library-is-open-podcast-featuring-joann-ransom.html"/>
+      <updated>2016-11-14T00:00:00-05:00</updated>
+      <id>http://localhost:4000/2016/11/14/introducing-the-library-is-open-podcast-featuring-joann-ransom</id>
+      <content type="html">&lt;script&gt;
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://localhost:4000/episodes/TheLibraryisOPEN_Podcast_11_4_16.mp3&quot;},&quot;coverUrl&quot;:&quot;http://localhost:4000/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Introducing The Library is Open Podcast Featuring Joann Ransom&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;http://localhost:4000/2016/11/14/introducing-the-library-is-open-podcast-featuring-joann-ransom.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:[{&quot;start&quot;:&quot;00:00:00.000 &quot;,&quot;title&quot;:&quot;Intro.&quot;}]}}
+&lt;/script&gt;
+
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;http://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;/script&gt;
+
+&lt;p&gt;Welcome to our new podcast. We are happy to announce the first of our 30 minute monthly series titled The Library is Open! This first session features an interview with Joann Ransom, who was integral in the initial funding and development of Koha, the first web based and open source integrated library system. Hear about the challenges she faced when spearheading this monumental task and learn what she has been up to since, including her world tour of Koha libraries! You can see our pretty faces on the video version of this conversation on our &lt;a href=&quot;https://www.youtube.com/user/bywatersolutions&quot;&gt;YouTube&lt;/a&gt; channel, listen right here, subscribe to our podcast, or all of the above. Enjoy!&lt;/p&gt;
+</content>
+      
+        <link rel="enclosure" type="audio/mpeg" length="18857978" href="http://localhost:4000/episodes/TheLibraryisOPEN_Podcast_11_4_16.mp3"/>
+      
+      
+    </entry>
+  
+    <entry>
+      <title>Episode 0</title>
+      <link href="http://localhost:4000/2016/03/22/episode0.html"/>
+      <updated>2016-03-22T00:00:00-04:00</updated>
+      <id>http://localhost:4000/2016/03/22/episode0</id>
+      <content type="html">&lt;script&gt;
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://localhost:4000/episodes/episode0.mp3&quot;,&quot;ogg&quot;:&quot;http://localhost:4000/episodes/episode0.ogg&quot;,&quot;m4a&quot;:&quot;http://localhost:4000/episodes/episode0.m4a&quot;},&quot;coverUrl&quot;:&quot;http://localhost:4000/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Episode 0&quot;,&quot;subtitle&quot;:&quot;Getting Started Is Never Easy&quot;,&quot;url&quot;:&quot;http://localhost:4000/2016/03/22/episode0.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:[{&quot;start&quot;:&quot;00:00:00.000 &quot;,&quot;title&quot;:&quot;Intro.&quot;},{&quot;start&quot;:&quot;00:00:01.000 &quot;,&quot;title&quot;:&quot;... Shoubidoubidoo ...&quot;},{&quot;start&quot;:&quot;00:00:02.000 &quot;,&quot;title&quot;:&quot;Outro.&quot;}]}}
+&lt;/script&gt;
+
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;http://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;/script&gt;
+
+&lt;h2 id=&quot;show-notes-and-links&quot;&gt;Show Notes and Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Well this is the place for the Show Notes.&lt;/li&gt;
+  &lt;li&gt;Send Feedback either in the &lt;a href=&quot;https://github.com/haslinger/jekyll-octopod&quot;&gt;Github Repo&lt;/a&gt; or at the Twitter account &lt;a href=&quot;http://twitter.com/@AuaUffCode&quot;&gt;@AuaUffCode&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+      
+        <link rel="enclosure" type="audio/mpeg" length="45750" href="http://localhost:4000/episodes/episode0.mp3"/>
+      
+        <link rel="enclosure" type="audio/ogg; codecs=vorbis" length="58927" href="http://localhost:4000/episodes/episode0.ogg"/>
+      
+        <link rel="enclosure" type="audio/mp4a-latm" length="212562" href="http://localhost:4000/episodes/episode0.m4a"/>
+      
+      
+    </entry>
+  
+</feed>

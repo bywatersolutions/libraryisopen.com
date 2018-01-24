@@ -12,6 +12,18 @@
    "url": "http://bywatersolutions.com/"
  },
  "items": [
+   {"id": "7912a379",
+    "title": "The Library is Open Podcast featuring EveryLibrary",
+    "summary": "",
+    "content_text": "We are happy to announce the third of our monthly podcast series titled The Library is Open! It features an interview with John Chrastka, Executive Director and Patrick Sweeney, Political Director of EveryLibrary.  Your hosts Nate Curulla and Jessica Zairo discuss the current political climate affecting libraries in 2017, advocating for libraries and “get out and vote” techniques with John and Patrick. EveryLibrary is the first and only national organization dedicated to building voter support for libraries. Learn more about about what they do and how they support libraries at Action. Enjoy!",
+    "content_html": "<script>  window.playerConfiguration = {\"options\":{\"theme\":\"default\",\"startPanel\":\"ChapterMarks\"},\"extensions\":{\"ChapterMarks\":{},\"EpisodeInfo\":{},\"Playlist\":{}},\"title\":null,\"episode\":{\"media\":{\"m4a\":\"https://bywatersolutions.github.io/libraryisopen.com/episodes/podcast-everylibrary.mp4\"},\"coverUrl\":\"https://bywatersolutions.github.io/libraryisopen.com//img/logo-360x360.png\",\"title\":\"The Library is Open Podcast featuring EveryLibrary\",\"subtitle\":\"Featuring John Chrastka and Patrick Sweeney\",\"url\":\"https://bywatersolutions.github.io/libraryisopen.com//2017/01/12/everylibrary.html\",\"description\":null,\"chaptermarks\":[{\"start\":\"00:00:00.000 \",\"title\":\"Intro.\"}]}}</script><script class=\"podigee-podcast-player\" data-configuration=\"playerConfiguration\" src=\"https://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js\"></script><p>We are happy to announce the third of our monthly podcast series titled The Library is Open! It features an interview with John Chrastka, Executive Director and Patrick Sweeney, Political Director of EveryLibrary.  Your hosts Nate Curulla and Jessica Zairo discuss the current political climate affecting libraries in 2017, advocating for libraries and “get out and vote” techniques with John and Patrick. EveryLibrary is the first and only national organization dedicated to building voter support for libraries. Learn more about about what they do and how they support libraries at <a href=\"http://action.everylibrary.org/\">Action</a>. Enjoy!</p>",
+    "url": "https://bywatersolutions.github.io/libraryisopen.com//2017/01/12/everylibrary.html",
+    "date_published": "2017-01-12T00:00:00-05:00",
+    "date_modified": "2017-01-12T00:00:00-05:00",
+    "author": {
+      "name": "ByWater Solutions"
+    }
+  },
    {"id": "0ccf77b1",
     "title": "The Library is Open Podcast Featuring Brendan Gallagher and Nate Curulla",
     "summary": "",
@@ -34,24 +46,6 @@
     "date_modified": "2016-11-14T00:00:00-05:00",
     "author": {
       "name": "ByWater Solutions"
-    }
-  },
-   {"id": "5133c65a",
-    "title": "Episode 0",
-    "summary": "",
-    "content_text": "Show Notes and Links  Well this is the place for the Show Notes.  Send Feedback either in the Github Repo or at the Twitter account @AuaUffCode.",
-    "content_html": "<script>  window.playerConfiguration = {\"options\":{\"theme\":\"default\",\"startPanel\":\"ChapterMarks\"},\"extensions\":{\"ChapterMarks\":{},\"EpisodeInfo\":{},\"Playlist\":{}},\"title\":null,\"episode\":{\"media\":{\"mp3\":\"https://bywatersolutions.github.io/libraryisopen.com/episodes/episode0.mp3\",\"ogg\":\"https://bywatersolutions.github.io/libraryisopen.com/episodes/episode0.ogg\",\"m4a\":\"https://bywatersolutions.github.io/libraryisopen.com/episodes/episode0.m4a\"},\"coverUrl\":\"https://bywatersolutions.github.io/libraryisopen.com//img/logo-360x360.png\",\"title\":\"Episode 0\",\"subtitle\":\"Getting Started Is Never Easy\",\"url\":\"https://bywatersolutions.github.io/libraryisopen.com//2016/03/22/episode0.html\",\"description\":null,\"chaptermarks\":[{\"start\":\"00:00:00.000 \",\"title\":\"Intro.\"},{\"start\":\"00:00:01.000 \",\"title\":\"... Shoubidoubidoo ...\"},{\"start\":\"00:00:02.000 \",\"title\":\"Outro.\"}]}}</script><script class=\"podigee-podcast-player\" data-configuration=\"playerConfiguration\" src=\"https://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js\"></script><h2 id=\"show-notes-and-links\">Show Notes and Links</h2><ul>  <li>Well this is the place for the Show Notes.</li>  <li>Send Feedback either in the <a href=\"https://github.com/haslinger/jekyll-octopod\">Github Repo</a> or at the Twitter account <a href=\"http://twitter.com/@AuaUffCode\">@AuaUffCode</a>.</li></ul>",
-    "url": "https://bywatersolutions.github.io/libraryisopen.com//2016/03/22/episode0.html",
-    "attachments": [
-      {"url": "https://bywatersolutions.github.io/libraryisopen.com/episodes/episode0.m4a",
-       "mime_type": "audio/mpeg",
-       "size_in_bytes": "45750"
-      }
-    ],
-    "date_published": "2016-03-22T00:00:00-04:00",
-    "date_modified": "2016-03-22T00:00:00-04:00",
-    "author": {
-      "name": "Arne and Stefan"
     }
   }]
 }

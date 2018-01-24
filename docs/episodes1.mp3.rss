@@ -20,7 +20,7 @@
 <atom:link rel="alternate" href="https://bywatersolutions.github.io/libraryisopen.com//episodes.m4a.rss" type="application/rss+xml" title="m4a Episode RSS-Feed"/>
     <description>A podcast for libraries interested in Koha and Open Source Software
 </description>
-    <lastBuildDate>Wed, 24 Jan 2018 14:28:37 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jan 2018 15:03:27 -0500</lastBuildDate>
     <language>en</language>
     <generator>Jekyll-Octopod 0.9.3</generator>
 
@@ -46,6 +46,8 @@
     <itunes:category text="Technology" />
     
     
+    
+      
     
       
     
@@ -81,61 +83,6 @@
             <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters">
               
               <psc:chapter start="00:00:00.000" title="Intro." />
-              
-            </psc:chapters>
-            
-            
-            
-          </item>
-        
-      
-    
-      
-        
-        
-          <item>
-            <title>Episode 0 - Getting Started Is Never Easy</title>
-            <link>https://bywatersolutions.github.io/libraryisopen.com//2016/03/22/episode0.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://bywatersolutions.github.io/libraryisopen.com//players/episode0"/>
-            <comments>https://bywatersolutions.github.io/libraryisopen.com//2016/03/22/episode0.html#disqus_thread</comments>
-            <pubDate>Tue, 22 Mar 2016 00:00:00 -0400</pubDate>
-            
-            <guid isPermaLink="false">https://bywatersolutions.github.io/libraryisopen.com//2016/03/22/episode0.html</guid>
-            <description><![CDATA[
-
-<h2 id="show-notes-and-links">Show Notes and Links</h2>
-
-<ul>
-  <li>Well this is the place for the Show Notes.</li>
-  <li>Send Feedback either in the <a href="https://github.com/haslinger/jekyll-octopod">Github Repo</a> or at the Twitter account <a href="http://twitter.com/@AuaUffCode">@AuaUffCode</a>.</li>
-</ul>
-]]></description>
-            <content:encoded><![CDATA[
-
-<h2 id="show-notes-and-links">Show Notes and Links</h2>
-
-<ul>
-  <li>Well this is the place for the Show Notes.</li>
-  <li>Send Feedback either in the <a href="https://github.com/haslinger/jekyll-octopod">Github Repo</a> or at the Twitter account <a href="http://twitter.com/@AuaUffCode">@AuaUffCode</a>.</li>
-</ul>
-]]></content:encoded>
-            
-            <enclosure url="https://bywatersolutions.github.io/libraryisopen.com/episodes/episode0.mp3" length="45750" type="audio/mpeg" />
-            <itunes:keywords></itunes:keywords>
-            <itunes:subtitle>Getting Started Is Never Easy</itunes:subtitle>
-            <itunes:summary></itunes:summary>
-            <itunes:author>Arne and Stefan</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>0:03:13</itunes:duration>
-            
-            
-            <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters">
-              
-              <psc:chapter start="00:00:00.000" title="Intro." />
-              
-              <psc:chapter start="00:00:01.000" title="... Shoubidoubidoo ..." />
-              
-              <psc:chapter start="00:00:02.000" title="Outro." />
               
             </psc:chapters>
             

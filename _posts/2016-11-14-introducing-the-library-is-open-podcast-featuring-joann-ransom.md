@@ -5,6 +5,7 @@ layout: post
 author: ByWater Solutions
 explicit: 'no'
 duration: '0:31:26'
+episode_cover: /img/joann_ransom.png
 audio:
   mp3: TheLibraryisOPEN_Podcast_11_4_16.mp3
 chapters:

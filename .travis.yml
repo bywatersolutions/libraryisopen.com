@@ -5,7 +5,7 @@ branches:
   - master
 
 before_install:
-- gem install bundler jekyll
+- gem install bundler
 
 install:
 - bundle install

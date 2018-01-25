@@ -4,13 +4,35 @@
   <title>The Library is Open</title>
   <link href="https://bywatersolutions.github.io/libraryisopen.com//general_feed.xml" rel="self"/>
   <link href="https://bywatersolutions.github.io/libraryisopen.com/"/>
-  <updated>2018-01-25T19:37:09+00:00</updated>
+  <updated>2018-01-25T19:48:59+00:00</updated>
   <id>https://bywatersolutions.github.io/libraryisopen.com//</id>
   <author>
     <name>ByWater Solutions</name>
     <email>info@libraryisopen.com</email>
   </author>
 
+  
+    <entry>
+      <title>The Library is Open Podcast Featuring Henry Bankhead</title>
+      <link href="https://bywatersolutions.github.io/libraryisopen.com//2017/02/13/henry-bankhead.html"/>
+      <updated>2017-02-13T00:00:00+00:00</updated>
+      <id>https://bywatersolutions.github.io/libraryisopen.com//2017/02/13/henry-bankhead</id>
+      <content type="html">&lt;script&gt;
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://bywatersolutions.github.io/libraryisopen.com/episodes/HenryBankhead.mp3&quot;},&quot;coverUrl&quot;:&quot;https://bywatersolutions.github.io/libraryisopen.com//img/henry.png&quot;,&quot;title&quot;:&quot;The Library is Open Podcast Featuring Henry Bankhead&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;https://bywatersolutions.github.io/libraryisopen.com//2017/02/13/henry-bankhead.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:[{&quot;start&quot;:&quot;00:00:00.000 &quot;,&quot;title&quot;:&quot;Intro.&quot;}]}}
+&lt;/script&gt;
+
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;/script&gt;
+
+&lt;p&gt;We are happy to announce our newest podcast for The Library is Open! Today’s session features an interview with Henry Bankhead, Assistant Library Director at the &lt;a href=&quot;https://srpubliclibrary.org/&quot;&gt;City San Rafael&lt;/a&gt; in California. Henry has been working in libraries for more than a decade. His degrees in Art and Library Science have added a creative twist to his career, broadened his outlook, and given him the energy to be a risk taker. Hear his views on embracing change in the library world through the use of open source, as well as his outlook on providing outstanding customer service to the public, colleagues and partners.&lt;/p&gt;
+
+&lt;p&gt;You can watch the video version of this conversation on our &lt;a href=&quot;https://www.youtube.com/playlist?list=PLV_OXyJ1D3Bi8zmgDWnaDz2d35FkC6j-v&quot;&gt;YouTube channel&lt;/a&gt;, listen right here, subscribe to our podcast, or all of the above. Enjoy!&lt;/p&gt;
+</content>
+      
+        <link rel="enclosure" type="audio/mpeg" length="19056619" href="https://bywatersolutions.github.io/libraryisopen.com//episodes/HenryBankhead.mp3"/>
+      
+      
+    </entry>
   
     <entry>
       <title>The Library is Open Podcast featuring EveryLibrary</title>

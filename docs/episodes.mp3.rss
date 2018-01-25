@@ -20,7 +20,7 @@
 <atom:link rel="alternate" href="https://bywatersolutions.github.io/libraryisopen.com//episodes.ogg.rss" type="application/rss+xml" title="ogg Episode RSS-Feed"/>
     <description>A podcast for libraries interested in Koha and Open Source Software
 </description>
-    <lastBuildDate>Thu, 25 Jan 2018 19:37:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jan 2018 19:48:59 +0000</lastBuildDate>
     <language>en</language>
     <generator>Jekyll-Octopod 0.9.3</generator>
 
@@ -46,6 +46,51 @@
     <itunes:category text="Technology" />
     
     
+    
+      
+        
+        
+          <item>
+            <title>The Library is Open Podcast Featuring Henry Bankhead - </title>
+            <link>https://bywatersolutions.github.io/libraryisopen.com//2017/02/13/henry-bankhead.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://bywatersolutions.github.io/libraryisopen.com//players/henry-bankhead"/>
+            <comments>https://bywatersolutions.github.io/libraryisopen.com//2017/02/13/henry-bankhead.html#disqus_thread</comments>
+            <pubDate>Mon, 13 Feb 2017 00:00:00 +0000</pubDate>
+            
+            <guid isPermaLink="false">https://bywatersolutions.github.io/libraryisopen.com//2017/02/13/henry-bankhead.html</guid>
+            <description><![CDATA[
+
+<p>We are happy to announce our newest podcast for The Library is Open! Today’s session features an interview with Henry Bankhead, Assistant Library Director at the <a href="https://srpubliclibrary.org/">City San Rafael</a> in California. Henry has been working in libraries for more than a decade. His degrees in Art and Library Science have added a creative twist to his career, broadened his outlook, and given him the energy to be a risk taker. Hear his views on embracing change in the library world through the use of open source, as well as his outlook on providing outstanding customer service to the public, colleagues and partners.</p>
+
+<p>You can watch the video version of this conversation on our <a href="https://www.youtube.com/playlist?list=PLV_OXyJ1D3Bi8zmgDWnaDz2d35FkC6j-v">YouTube channel</a>, listen right here, subscribe to our podcast, or all of the above. Enjoy!</p>
+]]></description>
+            <content:encoded><![CDATA[
+
+<p>We are happy to announce our newest podcast for The Library is Open! Today’s session features an interview with Henry Bankhead, Assistant Library Director at the <a href="https://srpubliclibrary.org/">City San Rafael</a> in California. Henry has been working in libraries for more than a decade. His degrees in Art and Library Science have added a creative twist to his career, broadened his outlook, and given him the energy to be a risk taker. Hear his views on embracing change in the library world through the use of open source, as well as his outlook on providing outstanding customer service to the public, colleagues and partners.</p>
+
+<p>You can watch the video version of this conversation on our <a href="https://www.youtube.com/playlist?list=PLV_OXyJ1D3Bi8zmgDWnaDz2d35FkC6j-v">YouTube channel</a>, listen right here, subscribe to our podcast, or all of the above. Enjoy!</p>
+]]></content:encoded>
+            
+            <enclosure url="https://bywatersolutions.github.io/libraryisopen.com/episodes/HenryBankhead.mp3" length="19056619" type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>ByWater Solutions</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>0:31:26</itunes:duration>
+            
+            
+            <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters">
+              
+              <psc:chapter start="00:00:00.000" title="Intro." />
+              
+            </psc:chapters>
+            
+            
+            
+          </item>
+        
+      
     
       
     

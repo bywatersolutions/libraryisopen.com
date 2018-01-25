@@ -4,7 +4,7 @@
   <title>The Library is Open</title>
   <link href="https://bywatersolutions.github.io/libraryisopen.com//general_feed.xml" rel="self"/>
   <link href="https://bywatersolutions.github.io/libraryisopen.com/"/>
-  <updated>2018-01-25T10:41:29-05:00</updated>
+  <updated>2018-01-25T15:44:05+00:00</updated>
   <id>https://bywatersolutions.github.io/libraryisopen.com//</id>
   <author>
     <name>ByWater Solutions</name>
@@ -15,7 +15,7 @@
     <entry>
       <title>The Library is Open Podcast featuring EveryLibrary</title>
       <link href="https://bywatersolutions.github.io/libraryisopen.com//2017/01/12/everylibrary.html"/>
-      <updated>2017-01-12T00:00:00-05:00</updated>
+      <updated>2017-01-12T00:00:00+00:00</updated>
       <id>https://bywatersolutions.github.io/libraryisopen.com//2017/01/12/everylibrary</id>
       <content type="html">&lt;script&gt;
   window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;m4a&quot;:&quot;https://bywatersolutions.github.io/libraryisopen.com/episodes/podcast-everylibrary.mp4&quot;},&quot;coverUrl&quot;:&quot;https://bywatersolutions.github.io/libraryisopen.com//img/everylibrarypodcastimage.png&quot;,&quot;title&quot;:&quot;The Library is Open Podcast featuring EveryLibrary&quot;,&quot;subtitle&quot;:&quot;Featuring John Chrastka and Patrick Sweeney&quot;,&quot;url&quot;:&quot;https://bywatersolutions.github.io/libraryisopen.com//2017/01/12/everylibrary.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:[{&quot;start&quot;:&quot;00:00:00.000 &quot;,&quot;title&quot;:&quot;Intro.&quot;}]}}
@@ -35,7 +35,7 @@
     <entry>
       <title>The Library is Open Podcast Featuring Brendan Gallagher and Nate Curulla</title>
       <link href="https://bywatersolutions.github.io/libraryisopen.com//2016/12/14/nate-brendan.html"/>
-      <updated>2016-12-14T00:00:00-05:00</updated>
+      <updated>2016-12-14T00:00:00+00:00</updated>
       <id>https://bywatersolutions.github.io/libraryisopen.com//2016/12/14/nate-brendan</id>
       <content type="html">&lt;script&gt;
   window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;m4a&quot;:&quot;https://bywatersolutions.github.io/libraryisopen.com/episodes/Podcast-brendan-nate.m4a&quot;},&quot;coverUrl&quot;:&quot;https://bywatersolutions.github.io/libraryisopen.com//img/logo-360x360.png&quot;,&quot;title&quot;:&quot;The Library is Open Podcast Featuring Brendan Gallagher and Nate Curulla&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;https://bywatersolutions.github.io/libraryisopen.com//2016/12/14/nate-brendan.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:[{&quot;start&quot;:&quot;00:00:00.000 &quot;,&quot;title&quot;:&quot;Intro.&quot;}]}}
@@ -55,7 +55,7 @@
     <entry>
       <title>Introducing The Library is Open Podcast Featuring Joann Ransom</title>
       <link href="https://bywatersolutions.github.io/libraryisopen.com//2016/11/14/introducing-the-library-is-open-podcast-featuring-joann-ransom.html"/>
-      <updated>2016-11-14T00:00:00-05:00</updated>
+      <updated>2016-11-14T00:00:00+00:00</updated>
       <id>https://bywatersolutions.github.io/libraryisopen.com//2016/11/14/introducing-the-library-is-open-podcast-featuring-joann-ransom</id>
       <content type="html">&lt;script&gt;
   window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://bywatersolutions.github.io/libraryisopen.com/episodes/TheLibraryisOPEN_Podcast_11_4_16.mp3&quot;},&quot;coverUrl&quot;:&quot;https://bywatersolutions.github.io/libraryisopen.com//img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Introducing The Library is Open Podcast Featuring Joann Ransom&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;https://bywatersolutions.github.io/libraryisopen.com//2016/11/14/introducing-the-library-is-open-podcast-featuring-joann-ransom.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:[{&quot;start&quot;:&quot;00:00:00.000 &quot;,&quot;title&quot;:&quot;Intro.&quot;}]}}

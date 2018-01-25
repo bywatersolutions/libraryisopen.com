@@ -10176,5 +10176,8 @@ a:hover {
 .btn-primary:hover, .btn-primary:focus {
   background-color: #EF3743; }
 
+.navbar-default {
+  border-color: #3bafda; }
+
 a[href$="thanks.html"] {
   display: none !important; }

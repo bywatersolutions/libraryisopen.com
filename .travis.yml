@@ -16,10 +16,10 @@ before_script:
 
 script:
 # Short circuite infinite loop of site updating
-- git log -1 --pretty=oneline | grep 'Site auto-updated' || octopod build -d ./docs
+- octopod build -d ./docs
 - git add docs
 - git status
-- git log -1 --pretty=oneline | grep 'Site auto-updated' || git commit -m 'Site auto-updated'
+- git commit --allow-empty -m 'Site auto-updated [ci skip]'
 - git status
 - git remote add github https://$GH_TOKEN@github.com/bywatersolutions/libraryisopen.com.git
 - git push github HEAD:master

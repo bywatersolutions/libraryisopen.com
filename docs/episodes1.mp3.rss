@@ -20,7 +20,7 @@
 <atom:link rel="alternate" href="https://bywatersolutions.github.io/libraryisopen.com//episodes.ogg.rss" type="application/rss+xml" title="ogg Episode RSS-Feed"/>
     <description>A podcast for libraries interested in Koha and Open Source Software
 </description>
-    <lastBuildDate>Thu, 25 Jan 2018 19:48:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jan 2018 19:58:44 +0000</lastBuildDate>
     <language>en</language>
     <generator>Jekyll-Octopod 0.9.3</generator>
 
@@ -46,6 +46,59 @@
     <itunes:category text="Technology" />
     
     
+    
+      
+        
+        
+          <item>
+            <title>The Library is Open Podcast Featuring Lori Ayre and Jessamyn West - </title>
+            <link>https://bywatersolutions.github.io/libraryisopen.com//2017/03/17/lori-ayre-and-jessamyn-west.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://bywatersolutions.github.io/libraryisopen.com//players/lori-ayre-and-jessamyn-west"/>
+            <comments>https://bywatersolutions.github.io/libraryisopen.com//2017/03/17/lori-ayre-and-jessamyn-west.html#disqus_thread</comments>
+            <pubDate>Fri, 17 Mar 2017 00:00:00 +0000</pubDate>
+            
+            <guid isPermaLink="false">https://bywatersolutions.github.io/libraryisopen.com//2017/03/17/lori-ayre-and-jessamyn-west.html</guid>
+            <description><![CDATA[
+
+<p>n this week’s podcast are guests Lori Ayre, Library Technology Consultant at Galecia Group, and Jessamyn West, Librarian and Community Technologist.  Lori works with libraries to optimize their operations and find ways to leverage state-of-the-art technologies to reduce operating expenses without reducing service quality to library patrons. Jessamyn can teach anyone to use a computer and enjoys using free and open source tools to help libraries better serve their patrons.</p>
+
+<p>Join us as we talk about Bookpoints, software that helps public libraries manage their summer reading programs. Bookpoints allows library staff to connect more people with summer reading through gamification and an engaging interface. This program helps librarians assess and demonstrate the their programs’ impact using built-in evaluation tools. Bookpoints also efficiently manage and report on their summer program.</p>
+
+<p>You can watch the video version of this conversation on our <a href="https://www.youtube.com/playlist?list=PLV_OXyJ1D3Bi8zmgDWnaDz2d35FkC6j-v">YouTube channel</a>, listen right here, subscribe to our podcast, or all of the above. Enjoy!</p>
+
+<p>Interested in Learning more about Bookpoints? Check out <a href="http://readingbydesign.org/">Reading By Design</a> for more information.</p>
+]]></description>
+            <content:encoded><![CDATA[
+
+<p>n this week’s podcast are guests Lori Ayre, Library Technology Consultant at Galecia Group, and Jessamyn West, Librarian and Community Technologist.  Lori works with libraries to optimize their operations and find ways to leverage state-of-the-art technologies to reduce operating expenses without reducing service quality to library patrons. Jessamyn can teach anyone to use a computer and enjoys using free and open source tools to help libraries better serve their patrons.</p>
+
+<p>Join us as we talk about Bookpoints, software that helps public libraries manage their summer reading programs. Bookpoints allows library staff to connect more people with summer reading through gamification and an engaging interface. This program helps librarians assess and demonstrate the their programs’ impact using built-in evaluation tools. Bookpoints also efficiently manage and report on their summer program.</p>
+
+<p>You can watch the video version of this conversation on our <a href="https://www.youtube.com/playlist?list=PLV_OXyJ1D3Bi8zmgDWnaDz2d35FkC6j-v">YouTube channel</a>, listen right here, subscribe to our podcast, or all of the above. Enjoy!</p>
+
+<p>Interested in Learning more about Bookpoints? Check out <a href="http://readingbydesign.org/">Reading By Design</a> for more information.</p>
+]]></content:encoded>
+            
+            <enclosure url="https://bywatersolutions.github.io/libraryisopen.com/episodes/LOP-Lori-Jess.mp3" length="17726466" type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>ByWater Solutions</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>0:31:26</itunes:duration>
+            
+            
+            <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters">
+              
+              <psc:chapter start="00:00:00.000" title="Intro." />
+              
+            </psc:chapters>
+            
+            
+            
+          </item>
+        
+      
     
       
         

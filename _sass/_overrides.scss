@@ -64,3 +64,8 @@ a:hover {
 .btn-primary:hover, .btn-primary:focus {
   background-color: #EF3743;
 }
+
+// Hide the 'thanks for submission' page from the navbar
+a[href$="thanks.html"] {
+  display: none !important;
+}

@@ -16,11 +16,11 @@
     
     
 
-    <atom:link rel="alternate" href="https://bywatersolutions.github.io/libraryisopen.com//episodes.ogg.rss" type="application/rss+xml" title="ogg Episode RSS-Feed"/>
-<atom:link rel="alternate" href="https://bywatersolutions.github.io/libraryisopen.com//episodes.mp3.rss" type="application/rss+xml" title="mp3 Episode RSS-Feed"/>
+    <atom:link rel="alternate" href="https://bywatersolutions.github.io/libraryisopen.com//episodes.mp3.rss" type="application/rss+xml" title="mp3 Episode RSS-Feed"/>
+<atom:link rel="alternate" href="https://bywatersolutions.github.io/libraryisopen.com//episodes.ogg.rss" type="application/rss+xml" title="ogg Episode RSS-Feed"/>
     <description>A podcast for libraries interested in Koha and Open Source Software
 </description>
-    <lastBuildDate>Thu, 25 Jan 2018 10:41:29 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jan 2018 15:44:05 +0000</lastBuildDate>
     <language>en</language>
     <generator>Jekyll-Octopod 0.9.3</generator>
 
@@ -55,7 +55,7 @@
             <link>https://bywatersolutions.github.io/libraryisopen.com//2017/01/12/everylibrary.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://bywatersolutions.github.io/libraryisopen.com//players/everylibrary"/>
             <comments>https://bywatersolutions.github.io/libraryisopen.com//2017/01/12/everylibrary.html#disqus_thread</comments>
-            <pubDate>Thu, 12 Jan 2017 00:00:00 -0500</pubDate>
+            <pubDate>Thu, 12 Jan 2017 00:00:00 +0000</pubDate>
             
             <guid isPermaLink="false">https://bywatersolutions.github.io/libraryisopen.com//2017/01/12/everylibrary.html</guid>
             <description><![CDATA[
@@ -96,7 +96,7 @@
             <link>https://bywatersolutions.github.io/libraryisopen.com//2016/12/14/nate-brendan.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://bywatersolutions.github.io/libraryisopen.com//players/nate-brendan"/>
             <comments>https://bywatersolutions.github.io/libraryisopen.com//2016/12/14/nate-brendan.html#disqus_thread</comments>
-            <pubDate>Wed, 14 Dec 2016 00:00:00 -0500</pubDate>
+            <pubDate>Wed, 14 Dec 2016 00:00:00 +0000</pubDate>
             
             <guid isPermaLink="false">https://bywatersolutions.github.io/libraryisopen.com//2016/12/14/nate-brendan.html</guid>
             <description><![CDATA[

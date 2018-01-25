@@ -16,11 +16,11 @@
     
     
 
-    <atom:link rel="alternate" href="https://bywatersolutions.github.io/libraryisopen.com//episodes.mp3.rss" type="application/rss+xml" title="mp3 Episode RSS-Feed"/>
-<atom:link rel="alternate" href="https://bywatersolutions.github.io/libraryisopen.com//episodes.m4a.rss" type="application/rss+xml" title="m4a Episode RSS-Feed"/>
+    <atom:link rel="alternate" href="https://bywatersolutions.github.io/libraryisopen.com//episodes.m4a.rss" type="application/rss+xml" title="m4a Episode RSS-Feed"/>
+<atom:link rel="alternate" href="https://bywatersolutions.github.io/libraryisopen.com//episodes.mp3.rss" type="application/rss+xml" title="mp3 Episode RSS-Feed"/>
     <description>A podcast for libraries interested in Koha and Open Source Software
 </description>
-    <lastBuildDate>Wed, 24 Jan 2018 18:23:58 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jan 2018 15:36:57 +0000</lastBuildDate>
     <language>en</language>
     <generator>Jekyll-Octopod 0.9.3</generator>
 

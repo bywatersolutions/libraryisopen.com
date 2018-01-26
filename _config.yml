@@ -46,3 +46,50 @@ use_isso: no # set to 'yes' to include isso comments form
 
 gems: [jekyll-octopod]
 theme: jekyll-bootflat
+
+prose:
+  siteurl: "https://bywatersolutions.github.io/libraryisopen.com/"
+  rooturl: "_posts"
+  media: "img"
+  ignore:
+    - _config.yml
+    - /_layouts
+    - /_includes
+  metadata:
+    source/_posts:
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+
+      - name: "subtitle"
+        field:
+          element: "text"
+          label: "Subtitle"
+
+      - name: "author"
+        field:
+          element: "text"
+          label: "Author"
+          value: "Bywater Solutions"
+
+      - name: "duration"
+        field:
+          element: "text"
+          label: "Duration"
+          placeholder: "h:mm:ss"
+
+      - name: "episode_cover"
+        field:
+          element: "text"
+          label: "Episode Cover"
+          placeholder: "/img/cover.png"
+
+      - name: "explicit"
+        field:
+          element: "hidden"
+          value: "no"
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"

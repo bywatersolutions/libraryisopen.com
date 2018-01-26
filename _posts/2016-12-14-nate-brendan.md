@@ -7,7 +7,7 @@ explicit: 'no'
 duration: '0:31:26'
 episode_cover: /img/natebrenpod.png
 audio:
-  m4a: Podcast-brendan-nate.m4a
+  mp3: Podcast-brendan-nate.mp3
 chapters:
 - 00:00:00.000 Intro.
 ---

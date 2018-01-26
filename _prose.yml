@@ -1,7 +1,7 @@
 prose:
   siteurl: "https://bywatersolutions.github.io/libraryisopen.com/"
-  rooturl: "source/_posts"
-  media: "source/img"
+  rooturl: "_posts"
+  media: "img"
   ignore:
     - _config.yml
     - /_layouts

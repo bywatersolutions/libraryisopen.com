@@ -20,7 +20,7 @@
 <atom:link rel="alternate" href="https://bywatersolutions.github.io/libraryisopen.com//episodes.ogg.rss" type="application/rss+xml" title="ogg Episode RSS-Feed"/>
     <description>A podcast for libraries interested in Koha and Open Source Software
 </description>
-    <lastBuildDate>Fri, 26 Jan 2018 14:18:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jan 2018 14:26:19 +0000</lastBuildDate>
     <language>en</language>
     <generator>Jekyll-Octopod 0.9.3</generator>
 
@@ -62,85 +62,7 @@
       
     
       
-        
-        
-          <item>
-            <title>The Library is Open Podcast featuring EveryLibrary - Featuring John Chrastka and Patrick Sweeney</title>
-            <link>https://bywatersolutions.github.io/libraryisopen.com//2017/01/12/everylibrary.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://bywatersolutions.github.io/libraryisopen.com//players/everylibrary"/>
-            <comments>https://bywatersolutions.github.io/libraryisopen.com//2017/01/12/everylibrary.html#disqus_thread</comments>
-            <pubDate>Thu, 12 Jan 2017 00:00:00 +0000</pubDate>
-            
-            <guid isPermaLink="false">https://bywatersolutions.github.io/libraryisopen.com//2017/01/12/everylibrary.html</guid>
-            <description><![CDATA[
-
-<p>We are happy to announce the third of our monthly podcast series titled The Library is Open! It features an interview with John Chrastka, Executive Director and Patrick Sweeney, Political Director of EveryLibrary.  Your hosts Nate Curulla and Jessica Zairo discuss the current political climate affecting libraries in 2017, advocating for libraries and “get out and vote” techniques with John and Patrick. EveryLibrary is the first and only national organization dedicated to building voter support for libraries. Learn more about about what they do and how they support libraries at <a href="http://action.everylibrary.org/">Action</a>. Enjoy!</p>
-]]></description>
-            <content:encoded><![CDATA[
-
-<p>We are happy to announce the third of our monthly podcast series titled The Library is Open! It features an interview with John Chrastka, Executive Director and Patrick Sweeney, Political Director of EveryLibrary.  Your hosts Nate Curulla and Jessica Zairo discuss the current political climate affecting libraries in 2017, advocating for libraries and “get out and vote” techniques with John and Patrick. EveryLibrary is the first and only national organization dedicated to building voter support for libraries. Learn more about about what they do and how they support libraries at <a href="http://action.everylibrary.org/">Action</a>. Enjoy!</p>
-]]></content:encoded>
-            
-            <enclosure url="https://bywatersolutions.github.io/libraryisopen.com/episodes/podcast-everylibrary.mp4" length="40096269" type="audio/mp4a-latm" />
-            <itunes:keywords></itunes:keywords>
-            <itunes:subtitle>Featuring John Chrastka and Patrick Sweeney</itunes:subtitle>
-            <itunes:summary></itunes:summary>
-            <itunes:author>ByWater Solutions</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>0:31:26</itunes:duration>
-            
-            
-            <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters">
-              
-              <psc:chapter start="00:00:00.000" title="Intro." />
-              
-            </psc:chapters>
-            
-            
-            
-          </item>
-        
-      
     
-      
-        
-        
-          <item>
-            <title>The Library is Open Podcast Featuring Brendan Gallagher and Nate Curulla - </title>
-            <link>https://bywatersolutions.github.io/libraryisopen.com//2016/12/14/nate-brendan.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://bywatersolutions.github.io/libraryisopen.com//players/nate-brendan"/>
-            <comments>https://bywatersolutions.github.io/libraryisopen.com//2016/12/14/nate-brendan.html#disqus_thread</comments>
-            <pubDate>Wed, 14 Dec 2016 00:00:00 +0000</pubDate>
-            
-            <guid isPermaLink="false">https://bywatersolutions.github.io/libraryisopen.com//2016/12/14/nate-brendan.html</guid>
-            <description><![CDATA[
-
-<p>We are happy to announce the second of our monthly podcast series titled The Library is Open! It features an interview with Brendan Gallagher, Co-Owner and Chief Executive Officer and Nate Curulla, Co-Owner and Chief Revenue Officer.  Join us as we talk through the journey of friendship, librarianship and starting the ByWater Solutions Company. You can see our pretty faces on the video version of this conversation on our <a href="https://www.youtube.com/user/bywatersolutions">YouTube</a> channel, listen right here, subscribe to our podcast, or all of the above. Enjoy!</p>
-]]></description>
-            <content:encoded><![CDATA[
-
-<p>We are happy to announce the second of our monthly podcast series titled The Library is Open! It features an interview with Brendan Gallagher, Co-Owner and Chief Executive Officer and Nate Curulla, Co-Owner and Chief Revenue Officer.  Join us as we talk through the journey of friendship, librarianship and starting the ByWater Solutions Company. You can see our pretty faces on the video version of this conversation on our <a href="https://www.youtube.com/user/bywatersolutions">YouTube</a> channel, listen right here, subscribe to our podcast, or all of the above. Enjoy!</p>
-]]></content:encoded>
-            
-            <enclosure url="https://bywatersolutions.github.io/libraryisopen.com/episodes/Podcast-brendan-nate.m4a" length="10641407" type="audio/mp4a-latm" />
-            <itunes:keywords></itunes:keywords>
-            <itunes:subtitle></itunes:subtitle>
-            <itunes:summary></itunes:summary>
-            <itunes:author>ByWater Solutions</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>0:31:26</itunes:duration>
-            
-            
-            <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters">
-              
-              <psc:chapter start="00:00:00.000" title="Intro." />
-              
-            </psc:chapters>
-            
-            
-            
-          </item>
-        
       
     
       

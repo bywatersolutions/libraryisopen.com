@@ -4,7 +4,7 @@
   <title>The Library is Open</title>
   <link href="https://bywatersolutions.github.io/libraryisopen.com//general_feed.xml" rel="self"/>
   <link href="https://bywatersolutions.github.io/libraryisopen.com/"/>
-  <updated>2018-01-26T14:18:14+00:00</updated>
+  <updated>2018-01-26T14:26:19+00:00</updated>
   <id>https://bywatersolutions.github.io/libraryisopen.com//</id>
   <author>
     <name>ByWater Solutions</name>
@@ -192,7 +192,7 @@
       <updated>2017-01-12T00:00:00+00:00</updated>
       <id>https://bywatersolutions.github.io/libraryisopen.com//2017/01/12/everylibrary</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;m4a&quot;:&quot;https://bywatersolutions.github.io/libraryisopen.com/episodes/podcast-everylibrary.mp4&quot;},&quot;coverUrl&quot;:&quot;https://bywatersolutions.github.io/libraryisopen.com//img/everylibrarypodcastimage.png&quot;,&quot;title&quot;:&quot;The Library is Open Podcast featuring EveryLibrary&quot;,&quot;subtitle&quot;:&quot;Featuring John Chrastka and Patrick Sweeney&quot;,&quot;url&quot;:&quot;https://bywatersolutions.github.io/libraryisopen.com//2017/01/12/everylibrary.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:[{&quot;start&quot;:&quot;00:00:00.000 &quot;,&quot;title&quot;:&quot;Intro.&quot;}]}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://bywatersolutions.github.io/libraryisopen.com/episodes/podcast-everylibrary.mp3&quot;},&quot;coverUrl&quot;:&quot;https://bywatersolutions.github.io/libraryisopen.com//img/everylibrarypodcastimage.png&quot;,&quot;title&quot;:&quot;The Library is Open Podcast featuring EveryLibrary&quot;,&quot;subtitle&quot;:&quot;Featuring John Chrastka and Patrick Sweeney&quot;,&quot;url&quot;:&quot;https://bywatersolutions.github.io/libraryisopen.com//2017/01/12/everylibrary.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:[{&quot;start&quot;:&quot;00:00:00.000 &quot;,&quot;title&quot;:&quot;Intro.&quot;}]}}
 &lt;/script&gt;
 
 &lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js&quot;&gt;
@@ -201,7 +201,7 @@
 &lt;p&gt;We are happy to announce the third of our monthly podcast series titled The Library is Open! It features an interview with John Chrastka, Executive Director and Patrick Sweeney, Political Director of EveryLibrary.  Your hosts Nate Curulla and Jessica Zairo discuss the current political climate affecting libraries in 2017, advocating for libraries and “get out and vote” techniques with John and Patrick. EveryLibrary is the first and only national organization dedicated to building voter support for libraries. Learn more about about what they do and how they support libraries at &lt;a href=&quot;http://action.everylibrary.org/&quot;&gt;Action&lt;/a&gt;. Enjoy!&lt;/p&gt;
 </content>
       
-        <link rel="enclosure" type="audio/mp4a-latm" length="40096269" href="https://bywatersolutions.github.io/libraryisopen.com//episodes/podcast-everylibrary.mp4"/>
+        <link rel="enclosure" type="audio/mpeg" length="27107092" href="https://bywatersolutions.github.io/libraryisopen.com//episodes/podcast-everylibrary.mp3"/>
       
       
     </entry>
@@ -212,7 +212,7 @@
       <updated>2016-12-14T00:00:00+00:00</updated>
       <id>https://bywatersolutions.github.io/libraryisopen.com//2016/12/14/nate-brendan</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;m4a&quot;:&quot;https://bywatersolutions.github.io/libraryisopen.com/episodes/Podcast-brendan-nate.m4a&quot;},&quot;coverUrl&quot;:&quot;https://bywatersolutions.github.io/libraryisopen.com//img/natebrenpod.png&quot;,&quot;title&quot;:&quot;The Library is Open Podcast Featuring Brendan Gallagher and Nate Curulla&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;https://bywatersolutions.github.io/libraryisopen.com//2016/12/14/nate-brendan.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:[{&quot;start&quot;:&quot;00:00:00.000 &quot;,&quot;title&quot;:&quot;Intro.&quot;}]}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://bywatersolutions.github.io/libraryisopen.com/episodes/Podcast-brendan-nate.mp3&quot;},&quot;coverUrl&quot;:&quot;https://bywatersolutions.github.io/libraryisopen.com//img/natebrenpod.png&quot;,&quot;title&quot;:&quot;The Library is Open Podcast Featuring Brendan Gallagher and Nate Curulla&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;https://bywatersolutions.github.io/libraryisopen.com//2016/12/14/nate-brendan.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:[{&quot;start&quot;:&quot;00:00:00.000 &quot;,&quot;title&quot;:&quot;Intro.&quot;}]}}
 &lt;/script&gt;
 
 &lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js&quot;&gt;
@@ -221,7 +221,7 @@
 &lt;p&gt;We are happy to announce the second of our monthly podcast series titled The Library is Open! It features an interview with Brendan Gallagher, Co-Owner and Chief Executive Officer and Nate Curulla, Co-Owner and Chief Revenue Officer.  Join us as we talk through the journey of friendship, librarianship and starting the ByWater Solutions Company. You can see our pretty faces on the video version of this conversation on our &lt;a href=&quot;https://www.youtube.com/user/bywatersolutions&quot;&gt;YouTube&lt;/a&gt; channel, listen right here, subscribe to our podcast, or all of the above. Enjoy!&lt;/p&gt;
 </content>
       
-        <link rel="enclosure" type="audio/mp4a-latm" length="10641407" href="https://bywatersolutions.github.io/libraryisopen.com//episodes/Podcast-brendan-nate.m4a"/>
+        <link rel="enclosure" type="audio/mpeg" length="10670821" href="https://bywatersolutions.github.io/libraryisopen.com//episodes/Podcast-brendan-nate.mp3"/>
       
       
     </entry>

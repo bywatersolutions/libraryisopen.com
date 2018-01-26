@@ -4,13 +4,139 @@
   <title>The Library is Open</title>
   <link href="https://bywatersolutions.github.io/libraryisopen.com//general_feed.xml" rel="self"/>
   <link href="https://bywatersolutions.github.io/libraryisopen.com/"/>
-  <updated>2018-01-25T20:02:48+00:00</updated>
+  <updated>2018-01-26T14:18:14+00:00</updated>
   <id>https://bywatersolutions.github.io/libraryisopen.com//</id>
   <author>
     <name>ByWater Solutions</name>
     <email>info@libraryisopen.com</email>
   </author>
 
+  
+    <entry>
+      <title>The Library is Open Podcast with Spencer Smith</title>
+      <link href="https://bywatersolutions.github.io/libraryisopen.com//2017/12/31/spencer-smith.html"/>
+      <updated>2017-12-31T00:00:00+00:00</updated>
+      <id>https://bywatersolutions.github.io/libraryisopen.com//2017/12/31/spencer-smith</id>
+      <content type="html">&lt;script&gt;
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://bywatersolutions.github.io/libraryisopen.com/episodes/spencer.mp3&quot;},&quot;coverUrl&quot;:&quot;https://bywatersolutions.github.io/libraryisopen.com//img/spencer.jpg&quot;,&quot;title&quot;:&quot;The Library is Open Podcast with Spencer Smith&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;https://bywatersolutions.github.io/libraryisopen.com//2017/12/31/spencer-smith.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:[{&quot;start&quot;:&quot;00:00:00.000 &quot;,&quot;title&quot;:&quot;Intro.&quot;}]}}
+&lt;/script&gt;
+
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;/script&gt;
+
+&lt;p&gt;We are happy to announce our newest session for The Library is Open Podcast! Today’s session features an interview with Spencer Smith, McKinney Public Library. Spencer Smith is currently the &lt;a href=&quot;https://mckinney.bywatersolutions.com/cgi-bin/koha/opac-main.pl&quot;&gt;Director of Libraries at City of McKinney&lt;/a&gt;. As a library leader, Spencer’s goal is to provide top quality service to his citizens.&lt;/p&gt;
+
+&lt;p&gt;In this session of The Library is Open Podcast, Spencer discusses how his library uses statistics from Koha’s Reports Module to generate collection development at their library.&lt;/p&gt;
+
+&lt;p&gt;Read more about &lt;a href=&quot;https://www.mckinneytexas.org/116/Library&quot;&gt;McKinney Public Library&lt;/a&gt;. McKinney, Texas, is unique by nature; as one of the fastest-growing cities in the U.S., McKinney has a current population of nearly 168,000. Incorporated in 1848, the city is located 30 miles north of Dallas and is the county seat of Collin County. McKinney offers rolling hills, lush trees, a historic downtown square and unique neighborhoods and developments. In 2014, Money Magazine ranked McKinney as the #1 Best Place to Live in America. Visit the city’s website at &lt;a href=&quot;www.mckinneytexas.org&quot;&gt;www.mckinneytexas.org&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;You can watch the video version of this conversation on our &lt;a href=&quot;https://www.youtube.com/playlist?list=PLV_OXyJ1D3Bi8zmgDWnaDz2d35FkC6j-v&quot;&gt;YouTube channel&lt;/a&gt;, listen right here, subscribe to our podcast, or all of the above. Enjoy!&lt;/p&gt;
+</content>
+      
+        <link rel="enclosure" type="audio/mpeg" length="25882674" href="https://bywatersolutions.github.io/libraryisopen.com//episodes/spencer.mp3"/>
+      
+      
+    </entry>
+  
+    <entry>
+      <title>The Library is Open Podcast with Michael Sauers</title>
+      <link href="https://bywatersolutions.github.io/libraryisopen.com//2017/11/27/michael-sauers.html"/>
+      <updated>2017-11-27T00:00:00+00:00</updated>
+      <id>https://bywatersolutions.github.io/libraryisopen.com//2017/11/27/michael-sauers</id>
+      <content type="html">&lt;script&gt;
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://bywatersolutions.github.io/libraryisopen.com/episodes/michael-do-space.mp3&quot;},&quot;coverUrl&quot;:&quot;https://bywatersolutions.github.io/libraryisopen.com//img/MichaelSauers.png&quot;,&quot;title&quot;:&quot;The Library is Open Podcast with Michael Sauers&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;https://bywatersolutions.github.io/libraryisopen.com//2017/11/27/michael-sauers.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:[{&quot;start&quot;:&quot;00:00:00.000 &quot;,&quot;title&quot;:&quot;Intro.&quot;}]}}
+&lt;/script&gt;
+
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;/script&gt;
+
+&lt;p&gt;We are happy to announce our newest session for The Library is Open Podcast! Today’s session features an interview with Michael Sauers from Do Space in Omaha, Nebraska. Michael Sauers is currently the Director of Technology for &lt;a href=&quot;http://dospace.org/&quot;&gt;Do Space&lt;/a&gt;. Michael has been training librarians in technology for the past twenty years and has also been a public library trustee, a bookstore manager for a library friends group, a reference librarian, serials cataloger, technology consultant, and bookseller since earning his MLS in 1995 from the University at Albany’s School of Information Science and Policy.&lt;/p&gt;
+
+&lt;p&gt;Michael publishes a blog entitled “&lt;a href=&quot;https://travelinlibrarian.info/&quot;&gt;The Travelin’ Librarian&lt;/a&gt;” where he talks about everything libraries,  technology traveling and more! This session of our podcast explores Michael’s role at Do Space, their programs, and their plans to expand the project.&lt;/p&gt;
+
+&lt;p&gt;Read more about the &lt;a href=&quot;http://www.dospace.org/about/&quot;&gt;Do Space&lt;/a&gt; Library here.&lt;/p&gt;
+
+&lt;p&gt;You can watch the video version of this conversation on our &lt;a href=&quot;https://www.youtube.com/playlist?list=PLV_OXyJ1D3Bi8zmgDWnaDz2d35FkC6j-v&quot;&gt;YouTube channel&lt;/a&gt;, listen right here, subscribe to our podcast, or all of the above. Enjoy!&lt;/p&gt;
+</content>
+      
+        <link rel="enclosure" type="audio/mpeg" length="25260969" href="https://bywatersolutions.github.io/libraryisopen.com//episodes/michael-do-space.mp3"/>
+      
+      
+    </entry>
+  
+    <entry>
+      <title>The Library is Open Podcast Featuring Rob Hilliker</title>
+      <link href="https://bywatersolutions.github.io/libraryisopen.com//2017/09/06/rob-hilliker.html"/>
+      <updated>2017-09-06T00:00:00+00:00</updated>
+      <id>https://bywatersolutions.github.io/libraryisopen.com//2017/09/06/rob-hilliker</id>
+      <content type="html">&lt;script&gt;
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://bywatersolutions.github.io/libraryisopen.com/episodes/LIO-Podcast-RH.mp3&quot;},&quot;coverUrl&quot;:&quot;https://bywatersolutions.github.io/libraryisopen.com//img/RobHilliker.png&quot;,&quot;title&quot;:&quot;The Library is Open Podcast Featuring Rob Hilliker&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;https://bywatersolutions.github.io/libraryisopen.com//2017/09/06/rob-hilliker.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:[{&quot;start&quot;:&quot;00:00:00.000 &quot;,&quot;title&quot;:&quot;Intro.&quot;}]}}
+&lt;/script&gt;
+
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;/script&gt;
+
+&lt;p&gt;We are happy to announce our newest session for The Library is Open Podcast! Today’s session features an interview with Robert Hilliker from &lt;a href=&quot;https://www.hotchkiss.org/&quot;&gt;the Hotchkiss School&lt;/a&gt; in Lakeville, Connecticut. Rob is the Director of the Edsel Ford Memorial Library. He joined the School in 2013 and set the stage by rolling out the new ILS for students by switching to Koha.&lt;/p&gt;
+
+&lt;p&gt;The Edsel Ford Memorial Library provides students with a wealth of research tools — and an ideal place for both individual and group study. Beyond the library’s collection of books and multimedia, students can access a wide range of online databases for research. Each academic department has a designated librarian to help students make the most of the library’s resources, and a knowledgeable staff is available during library hours to provide assistance.&lt;/p&gt;
+
+&lt;p&gt;Read more about the &lt;a href=&quot;https://www.hotchkiss.org/academics/edsel-ford-memorial-library/about&quot;&gt;Edsel Ford Memorial Library&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;You can watch the video version of this conversation on our &lt;a href=&quot;https://www.youtube.com/playlist?list=PLV_OXyJ1D3Bi8zmgDWnaDz2d35FkC6j-v&quot;&gt;YouTube channel&lt;/a&gt;, listen right here, subscribe to our podcast, or all of the above. Enjoy!&lt;/p&gt;
+</content>
+      
+        <link rel="enclosure" type="audio/mpeg" length="34843203" href="https://bywatersolutions.github.io/libraryisopen.com//episodes/LIO-Podcast-RH.mp3"/>
+      
+      
+    </entry>
+  
+    <entry>
+      <title>The Library is Open Podcast Featuring Kyle Hall</title>
+      <link href="https://bywatersolutions.github.io/libraryisopen.com//2017/06/09/kyle-hall.html"/>
+      <updated>2017-06-09T00:00:00+00:00</updated>
+      <id>https://bywatersolutions.github.io/libraryisopen.com//2017/06/09/kyle-hall</id>
+      <content type="html">&lt;script&gt;
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://bywatersolutions.github.io/libraryisopen.com/episodes/HenryBankhead.mp3&quot;},&quot;coverUrl&quot;:&quot;https://bywatersolutions.github.io/libraryisopen.com//img/kylehall.png&quot;,&quot;title&quot;:&quot;The Library is Open Podcast Featuring Kyle Hall&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;https://bywatersolutions.github.io/libraryisopen.com//2017/06/09/kyle-hall.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:[{&quot;start&quot;:&quot;00:00:00.000 &quot;,&quot;title&quot;:&quot;Intro.&quot;}]}}
+&lt;/script&gt;
+
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;/script&gt;
+
+&lt;p&gt;We are happy to announce our newest session for The Library is Open Podcast! Today’s session features question and answer with Kyle Hall, Lead Developer or otherwise known as Lord of the Code for ByWater Solutions. Join us as we discuss the 17.05 release for Koha Open Source ILS where Kyle volunteered as Release Manager. Listen to what is on the horizon and what we will see in &lt;a href=&quot;https://koha-community.org/&quot;&gt;Koha 17.05&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Kyle received his M.S. in Information Technology from Edinboro University of PA. He has been fulfilling the IT needs of librarians for over a decade at the Crawford County Federated Library System, where his department secured sponsorship for the integration of Zebra into Koha. His work not only included enhancing Koha itself, but also authorship of the &lt;a href=&quot;http://millruntech.com/koha/koha-offline-circulation&quot;&gt;Koha Offline Circulation&lt;/a&gt; tool and the maintenance of the Koha Virtual Appliance. He is also the author of &lt;a href=&quot;http://libki.org/&quot;&gt;Libki&lt;/a&gt;, an Open Source library kiosk management system.&lt;/p&gt;
+
+&lt;p&gt;You can watch the video version of this conversation on our &lt;a href=&quot;https://www.youtube.com/playlist?list=PLV_OXyJ1D3Bi8zmgDWnaDz2d35FkC6j-v&quot;&gt;YouTube channel&lt;/a&gt;, listen right here, subscribe to our Library is Open Podcast, or all of the above. Enjoy!&lt;/p&gt;
+</content>
+      
+        <link rel="enclosure" type="audio/mpeg" length="19056619" href="https://bywatersolutions.github.io/libraryisopen.com//episodes/HenryBankhead.mp3"/>
+      
+      
+    </entry>
+  
+    <entry>
+      <title>The Library is Open Podcast Featuring Myka Kennedy Stephens</title>
+      <link href="https://bywatersolutions.github.io/libraryisopen.com//2017/05/08/myka-kennedy.html"/>
+      <updated>2017-05-08T00:00:00+00:00</updated>
+      <id>https://bywatersolutions.github.io/libraryisopen.com//2017/05/08/myka-kennedy</id>
+      <content type="html">&lt;script&gt;
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://bywatersolutions.github.io/libraryisopen.com/episodes/myka-podcast.mp3&quot;},&quot;coverUrl&quot;:&quot;https://bywatersolutions.github.io/libraryisopen.com//img/myka.png&quot;,&quot;title&quot;:&quot;The Library is Open Podcast Featuring Myka Kennedy Stephens&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;https://bywatersolutions.github.io/libraryisopen.com//2017/05/08/myka-kennedy.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:[{&quot;start&quot;:&quot;00:00:00.000 &quot;,&quot;title&quot;:&quot;Intro.&quot;}]}}
+&lt;/script&gt;
+
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;/script&gt;
+
+&lt;p&gt;We are happy to announce our newest session for The Library is Open Podcast! Today’s session features an interview with Myka Kennedy Stephens, Seminary Librarian and Assistant Professor at the &lt;a href=&quot;https://lancasterseminary.edu/&quot;&gt;Lancaster Theological Seminary&lt;/a&gt; in Lancaster, Pennsylvania. Myka has been working in libraries for more than a decade and has a strong background in library leadership and open source information systems.&lt;/p&gt;
+
+&lt;p&gt;Over the last 3 years at Lancaster Theological Seminary Library, Myka has developed and implemented several innovative library services including embedded library services, seminary archives, library systems administration, and open source initiatives. In this podcast we will be discussing moving to an Open Source ILS, how the move opened the door to other Open Source options, and the benefits her library has seen.&lt;/p&gt;
+
+&lt;p&gt;You can watch the video version of this conversation on our &lt;a href=&quot;https://www.youtube.com/playlist?list=PLV_OXyJ1D3Bi8zmgDWnaDz2d35FkC6j-v&quot;&gt;YouTube channel&lt;/a&gt;, listen right here, subscribe to our podcast, or all of the above. Enjoy!&lt;/p&gt;
+</content>
+      
+        <link rel="enclosure" type="audio/mpeg" length="34641537" href="https://bywatersolutions.github.io/libraryisopen.com//episodes/myka-podcast.mp3"/>
+      
+      
+    </entry>
   
     <entry>
       <title>The Library is Open Podcast Featuring Lori Ayre and Jessamyn West</title>

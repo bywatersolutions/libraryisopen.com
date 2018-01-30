@@ -8,7 +8,7 @@ navigation: 1
 
 Do you have an idea for a show? Do you have a story to share? Please share with us!
 
-<form action="https://formspree.io/your@email.com" method="POST">
+<form action="https://formspree.io/outreach@bywatersolutions.com" method="POST">
 
   <h2>Name</h2>
   <input type="text" name="name">

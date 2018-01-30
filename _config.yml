@@ -10,8 +10,8 @@ author_url: "http://bywatersolutions.com/" # This is the URL of a site owned by 
 email: info@libraryisopen.com
 keywords: [koha, foss, library, libraries]
 itunes_categories: [Technology]
-# additional_feeds:
-#   itunes: http://itunes.apple.com/de/podcast/podcast_name/id42424242
+additional_feeds:
+  itunes: https://itunes.apple.com/us/podcast/the-library-is-open/id1176554216?mt=2
 #   torrent_m4a: http://bitlove.org/example_user/example_podcast_m4a/feed
 #   torrent_mp3: http://bitlove.org/example_user/example_podcast_mp3/feed
 episodes_per_feed_page: 100
@@ -40,7 +40,7 @@ flattr_category: audio # available categories - https://api.flattr.com/rest/v2/c
 disqus_shortname: # Disqus will not be used unless this is set
 disqus_developer: 0 # 1 / 0
 ## Itunes link ###########################################################
-itunes_url: "https://itunes.apple.com/at/podcast/myname/id#myid#"
+itunes_url: "https://itunes.apple.com/us/podcast/the-library-is-open/id1176554216?mt=2"
 ## Isso comments #########################################################
 use_isso: no # set to 'yes' to include isso comments form
 

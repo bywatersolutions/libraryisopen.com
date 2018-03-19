@@ -45,14 +45,14 @@
 <hr/>
 
 <h4>RSS Feed</h4>
-<ol>
+<ul>
     <li><a href="{{ site['url']}}/episodes.mp3.rss"><i class="fa fa-rss"></i>MP3</a></li>
-</ol>
+</ul>
 
 <h4>JSON Feed</h4>
-<ol>
+<ul>
     <li><a href="{{ site['url']}}/feed.mp3.json"><i class="fa fa-rss-square"></i>MP3</a></li>
-</ol>
+</ul>
 <!--
 <h4>RSS-Feeds</h4>
 
@@ -73,9 +73,9 @@
 
 <h4>Directories</h4>
 
-<ol>
+<ul>
   {% if site.itunes_url %}
-    <li>in Apple-<a href="{{ site.itunes_url }}"><i class="fa fa-apple"></i> iTunes</a></li>
+    <li><a href="{{ site.itunes_url }}"><i class="fa fa-apple"></i> iTunes</a></li>
   {% endif %}
   {% if site.bitlove_url %}
     <li>as Torrents at <a href="{{ site.bitlove_url }}"><img src="https://bitlove.org/static/favicon.png"/> Bitlove</a></li>
@@ -86,7 +86,7 @@
   {% if site.gpodder_url %}
     <li>at <a href="{{ site.gpodder_url }}"><img src="https://gpodder.net/media/gpoddernet_64.png" height="16" /> Gpodder.net</a></li>
   {% endif %}
-</ol>
+</ul>
 
 {% if site.license_url %}
   <h4>License</h4>

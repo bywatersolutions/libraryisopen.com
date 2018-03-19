@@ -8,8 +8,6 @@ duration: '0:15:23'
 episode_cover: /img/trey_gordner.jpg
 audio:
   mp3: trey_gordner.mp3
-chapters:
-- 00:00:00.000 Intro.
 ---
 
 {% podigee_player page %}

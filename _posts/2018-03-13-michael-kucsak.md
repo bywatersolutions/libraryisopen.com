@@ -8,8 +8,6 @@ duration: '0:32:32'
 episode_cover: /img/michael-kucsak.png
 audio:
   mp3: michael_kucsak.mp3
-chapters:
-- 00:00:00.000 Intro.
 ---
 
 {% podigee_player page %}

@@ -8,8 +8,6 @@ duration: '0:31:26'
 episode_cover: /img/MichaelSauers.png
 audio:
   mp3: michael-do-space.mp3
-chapters:
-- 00:00:00.000 Intro.
 ---
 
 {% podigee_player page %}

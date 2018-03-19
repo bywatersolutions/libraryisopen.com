@@ -44,6 +44,16 @@
 
 <hr/>
 
+<h4>RSS Feed</h4>
+<ol>
+    <li><a href="{{ site['url']}}/episodes.mp3.rss"><i class="fa fa-rss"></i>MP3</a></li>
+</ol>
+
+<h4>JSON Feed</h4>
+<ol>
+    <li><a href="{{ site['url']}}/feed.mp3.json"><i class="fa fa-rss-square"></i>MP3</a></li>
+</ol>
+<!--
 <h4>RSS-Feeds</h4>
 
 <ol type="i">
@@ -59,14 +69,13 @@
     <li><a href="{{ site['url']}}/feed.{{ jsonfeed }}.json"><i class="fa fa-rss-square"></i> {{ jsonfeed }}-JSON-Feed</a></li>
   {% endfor %}
 </ol>
-
-
+-->
 
 <h4>Directories</h4>
 
-<ol type="i">
+<ol>
   {% if site.itunes_url %}
-    <li>in Apple-<a href="{{ site.itunes_url }}"><i class="fa fa-apple"></i> Itunes</a></li>
+    <li>in Apple-<a href="{{ site.itunes_url }}"><i class="fa fa-apple"></i> iTunes</a></li>
   {% endif %}
   {% if site.bitlove_url %}
     <li>as Torrents at <a href="{{ site.bitlove_url }}"><img src="https://bitlove.org/static/favicon.png"/> Bitlove</a></li>

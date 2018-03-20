@@ -16,14 +16,14 @@
     
     
 
-    <atom:link rel="alternate" href="https://bywatersolutions.github.io/libraryisopen.com//episodes.ogg.rss" type="application/rss+xml" title="ogg Episode RSS-Feed"/>
-<atom:link rel="alternate" href="https://bywatersolutions.github.io/libraryisopen.com//episodes.m4a.rss" type="application/rss+xml" title="m4a Episode RSS-Feed"/>
+    <atom:link rel="alternate" href="https://bywatersolutions.github.io/libraryisopen.com//episodes.m4a.rss" type="application/rss+xml" title="m4a Episode RSS-Feed"/>
+<atom:link rel="alternate" href="https://bywatersolutions.github.io/libraryisopen.com//episodes.ogg.rss" type="application/rss+xml" title="ogg Episode RSS-Feed"/>
 <atom:link rel="alternate" href="https://itunes.apple.com/us/podcast/the-library-is-open/id1176554216?mt=2" type="application/rss+xml" title="itunes"/>
     <description>A podcast for libraries interested in Koha and Open Source Software
 </description>
-    <lastBuildDate>Tue, 20 Mar 2018 07:26:41 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 20 Mar 2018 11:37:26 +0000</lastBuildDate>
     <language>en</language>
-    <generator>Jekyll-Octopod 0.9.3</generator>
+    <generator>Jekyll-Octopod 0.9.4</generator>
 
     <itunes:summary>A podcast for libraries interested in Koha and Open Source Software
 </itunes:summary>
@@ -56,7 +56,7 @@
             <link>https://bywatersolutions.github.io/libraryisopen.com//2018/03/13/michael-kucsak.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://bywatersolutions.github.io/libraryisopen.com//players/michael-kucsak"/>
             <comments>https://bywatersolutions.github.io/libraryisopen.com//2018/03/13/michael-kucsak.html#disqus_thread</comments>
-            <pubDate>Tue, 13 Mar 2018 00:00:00 -0400</pubDate>
+            <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
             
             <guid isPermaLink="false">https://bywatersolutions.github.io/libraryisopen.com//2018/03/13/michael-kucsak.html</guid>
             <description><![CDATA[
@@ -103,7 +103,7 @@
             <link>https://bywatersolutions.github.io/libraryisopen.com//2018/01/31/trey-gordner.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://bywatersolutions.github.io/libraryisopen.com//players/trey-gordner"/>
             <comments>https://bywatersolutions.github.io/libraryisopen.com//2018/01/31/trey-gordner.html#disqus_thread</comments>
-            <pubDate>Wed, 31 Jan 2018 00:00:00 -0500</pubDate>
+            <pubDate>Wed, 31 Jan 2018 00:00:00 +0000</pubDate>
             
             <guid isPermaLink="false">https://bywatersolutions.github.io/libraryisopen.com//2018/01/31/trey-gordner.html</guid>
             <description><![CDATA[
@@ -158,7 +158,7 @@
             <link>https://bywatersolutions.github.io/libraryisopen.com//2017/12/31/spencer-smith.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://bywatersolutions.github.io/libraryisopen.com//players/spencer-smith"/>
             <comments>https://bywatersolutions.github.io/libraryisopen.com//2017/12/31/spencer-smith.html#disqus_thread</comments>
-            <pubDate>Sun, 31 Dec 2017 00:00:00 -0500</pubDate>
+            <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
             
             <guid isPermaLink="false">https://bywatersolutions.github.io/libraryisopen.com//2017/12/31/spencer-smith.html</guid>
             <description><![CDATA[
@@ -205,7 +205,7 @@
             <link>https://bywatersolutions.github.io/libraryisopen.com//2017/11/27/michael-sauers.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://bywatersolutions.github.io/libraryisopen.com//players/michael-sauers"/>
             <comments>https://bywatersolutions.github.io/libraryisopen.com//2017/11/27/michael-sauers.html#disqus_thread</comments>
-            <pubDate>Mon, 27 Nov 2017 00:00:00 -0500</pubDate>
+            <pubDate>Mon, 27 Nov 2017 00:00:00 +0000</pubDate>
             
             <guid isPermaLink="false">https://bywatersolutions.github.io/libraryisopen.com//2017/11/27/michael-sauers.html</guid>
             <description><![CDATA[
@@ -252,7 +252,7 @@
             <link>https://bywatersolutions.github.io/libraryisopen.com//2017/09/06/rob-hilliker.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://bywatersolutions.github.io/libraryisopen.com//players/rob-hilliker"/>
             <comments>https://bywatersolutions.github.io/libraryisopen.com//2017/09/06/rob-hilliker.html#disqus_thread</comments>
-            <pubDate>Wed, 06 Sep 2017 00:00:00 -0400</pubDate>
+            <pubDate>Wed, 06 Sep 2017 00:00:00 +0000</pubDate>
             
             <guid isPermaLink="false">https://bywatersolutions.github.io/libraryisopen.com//2017/09/06/rob-hilliker.html</guid>
             <description><![CDATA[
@@ -299,7 +299,7 @@
             <link>https://bywatersolutions.github.io/libraryisopen.com//2017/06/09/kyle-hall.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://bywatersolutions.github.io/libraryisopen.com//players/kyle-hall"/>
             <comments>https://bywatersolutions.github.io/libraryisopen.com//2017/06/09/kyle-hall.html#disqus_thread</comments>
-            <pubDate>Fri, 09 Jun 2017 00:00:00 -0400</pubDate>
+            <pubDate>Fri, 09 Jun 2017 00:00:00 +0000</pubDate>
             
             <guid isPermaLink="false">https://bywatersolutions.github.io/libraryisopen.com//2017/06/09/kyle-hall.html</guid>
             <description><![CDATA[
@@ -342,7 +342,7 @@
             <link>https://bywatersolutions.github.io/libraryisopen.com//2017/05/08/myka-kennedy.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://bywatersolutions.github.io/libraryisopen.com//players/myka-kennedy"/>
             <comments>https://bywatersolutions.github.io/libraryisopen.com//2017/05/08/myka-kennedy.html#disqus_thread</comments>
-            <pubDate>Mon, 08 May 2017 00:00:00 -0400</pubDate>
+            <pubDate>Mon, 08 May 2017 00:00:00 +0000</pubDate>
             
             <guid isPermaLink="false">https://bywatersolutions.github.io/libraryisopen.com//2017/05/08/myka-kennedy.html</guid>
             <description><![CDATA[
@@ -385,7 +385,7 @@
             <link>https://bywatersolutions.github.io/libraryisopen.com//2017/03/17/lori-ayre-and-jessamyn-west.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://bywatersolutions.github.io/libraryisopen.com//players/lori-ayre-and-jessamyn-west"/>
             <comments>https://bywatersolutions.github.io/libraryisopen.com//2017/03/17/lori-ayre-and-jessamyn-west.html#disqus_thread</comments>
-            <pubDate>Fri, 17 Mar 2017 00:00:00 -0400</pubDate>
+            <pubDate>Fri, 17 Mar 2017 00:00:00 +0000</pubDate>
             
             <guid isPermaLink="false">https://bywatersolutions.github.io/libraryisopen.com//2017/03/17/lori-ayre-and-jessamyn-west.html</guid>
             <description><![CDATA[
@@ -432,7 +432,7 @@
             <link>https://bywatersolutions.github.io/libraryisopen.com//2017/02/13/henry-bankhead.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://bywatersolutions.github.io/libraryisopen.com//players/henry-bankhead"/>
             <comments>https://bywatersolutions.github.io/libraryisopen.com//2017/02/13/henry-bankhead.html#disqus_thread</comments>
-            <pubDate>Mon, 13 Feb 2017 00:00:00 -0500</pubDate>
+            <pubDate>Mon, 13 Feb 2017 00:00:00 +0000</pubDate>
             
             <guid isPermaLink="false">https://bywatersolutions.github.io/libraryisopen.com//2017/02/13/henry-bankhead.html</guid>
             <description><![CDATA[
@@ -471,7 +471,7 @@
             <link>https://bywatersolutions.github.io/libraryisopen.com//2017/01/12/everylibrary.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://bywatersolutions.github.io/libraryisopen.com//players/everylibrary"/>
             <comments>https://bywatersolutions.github.io/libraryisopen.com//2017/01/12/everylibrary.html#disqus_thread</comments>
-            <pubDate>Thu, 12 Jan 2017 00:00:00 -0500</pubDate>
+            <pubDate>Thu, 12 Jan 2017 00:00:00 +0000</pubDate>
             
             <guid isPermaLink="false">https://bywatersolutions.github.io/libraryisopen.com//2017/01/12/everylibrary.html</guid>
             <description><![CDATA[
@@ -506,7 +506,7 @@
             <link>https://bywatersolutions.github.io/libraryisopen.com//2016/12/14/nate-brendan.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://bywatersolutions.github.io/libraryisopen.com//players/nate-brendan"/>
             <comments>https://bywatersolutions.github.io/libraryisopen.com//2016/12/14/nate-brendan.html#disqus_thread</comments>
-            <pubDate>Wed, 14 Dec 2016 00:00:00 -0500</pubDate>
+            <pubDate>Wed, 14 Dec 2016 00:00:00 +0000</pubDate>
             
             <guid isPermaLink="false">https://bywatersolutions.github.io/libraryisopen.com//2016/12/14/nate-brendan.html</guid>
             <description><![CDATA[
@@ -541,7 +541,7 @@
             <link>https://bywatersolutions.github.io/libraryisopen.com//2016/11/14/introducing-the-library-is-open-podcast-featuring-joann-ransom.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://bywatersolutions.github.io/libraryisopen.com//players/introducing-the-library-is-open-podcast-featuring-joann-ransom"/>
             <comments>https://bywatersolutions.github.io/libraryisopen.com//2016/11/14/introducing-the-library-is-open-podcast-featuring-joann-ransom.html#disqus_thread</comments>
-            <pubDate>Mon, 14 Nov 2016 00:00:00 -0500</pubDate>
+            <pubDate>Mon, 14 Nov 2016 00:00:00 +0000</pubDate>
             
             <guid isPermaLink="false">https://bywatersolutions.github.io/libraryisopen.com//2016/11/14/introducing-the-library-is-open-podcast-featuring-joann-ransom.html</guid>
             <description><![CDATA[

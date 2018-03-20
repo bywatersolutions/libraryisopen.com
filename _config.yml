@@ -1,12 +1,12 @@
 # You have to configure this ###################################################
 title: The Library is Open
 # You should configure this ####################################################
-url: http://libraryisopen.com/
+url: http://libraryisopen.com
 download_url: "http://libraryisopen.com/episodes"
 subtitle: Libraries, Koha, and Open Source
 description: A podcast for libraries interested in Koha and Open Source Software
 author: ByWater Solutions
-author_url: "http://bywatersolutions.com/" # This is the URL of a site owned by the author (s. https://jsonfeed.org/version/1)
+author_url: "http://bywatersolutions.com" # This is the URL of a site owned by the author (s. https://jsonfeed.org/version/1)
 email: info@libraryisopen.com
 keywords: [koha, foss, library, libraries]
 itunes_categories: [Technology]

@@ -4,7 +4,7 @@
   <title>The Library is Open</title>
   <link href="http://libraryisopen.com/general_feed.xml" rel="self"/>
   <link href="http://libraryisopen.com"/>
-  <updated>2018-03-20T12:13:07+00:00</updated>
+  <updated>2018-03-20T12:59:48+00:00</updated>
   <id>http://libraryisopen.com/</id>
   <author>
     <name>ByWater Solutions</name>
@@ -18,7 +18,7 @@
       <updated>2018-03-13T00:00:00+00:00</updated>
       <id>http://libraryisopen.com/2018/03/13/michael-kucsak</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://libraryisopen.com/episodes/michael_kucsak.mp3&quot;},&quot;coverUrl&quot;:&quot;http://libraryisopen.com/img/michael-kucsak.png&quot;,&quot;title&quot;:&quot;The Library is Open Podcast with Michael Kucsak&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;http://libraryisopen.com/2018/03/13/michael-kucsak.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://libraryisopen.com/episodes/2018-03-13-michael-kucsak.mp3&quot;},&quot;coverUrl&quot;:&quot;http://libraryisopen.com/img/2018-03-13-michael-kucsak.png&quot;,&quot;title&quot;:&quot;The Library is Open Podcast with Michael Kucsak&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;http://libraryisopen.com/2018/03/13/michael-kucsak.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
 &lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;http://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js&quot;&gt;
@@ -33,7 +33,7 @@
 &lt;p&gt;You can watch the video version of this conversation on our &lt;a href=&quot;https://www.youtube.com/playlist?list=PLV_OXyJ1D3Bi8zmgDWnaDz2d35FkC6j-v&quot;&gt;YouTube channel&lt;/a&gt;, listen right here, subscribe to our podcast, or all of the above. Enjoy!&lt;/p&gt;
 </content>
       
-        <link rel="enclosure" type="audio/mpeg" length="39032725" href="http://libraryisopen.com/episodes/michael_kucsak.mp3"/>
+        <link rel="enclosure" type="audio/mpeg" length="39032725" href="http://libraryisopen.com/episodes/2018-03-13-michael-kucsak.mp3"/>
       
       
     </entry>
@@ -44,7 +44,7 @@
       <updated>2018-01-31T00:00:00+00:00</updated>
       <id>http://libraryisopen.com/2018/01/31/trey-gordner</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://libraryisopen.com/episodes/trey_gordner.mp3&quot;},&quot;coverUrl&quot;:&quot;http://libraryisopen.com/img/trey_gordner.jpg&quot;,&quot;title&quot;:&quot;The Library is Open Podcast with Trey Gordner&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;http://libraryisopen.com/2018/01/31/trey-gordner.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://libraryisopen.com/episodes/2018-01-31-trey-gordner.mp3&quot;},&quot;coverUrl&quot;:&quot;http://libraryisopen.com/img/2018-01-31-trey-gordner.jpg&quot;,&quot;title&quot;:&quot;The Library is Open Podcast with Trey Gordner&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;http://libraryisopen.com/2018/01/31/trey-gordner.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
 &lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;http://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js&quot;&gt;
@@ -63,7 +63,7 @@
 &lt;p&gt;Looking for more information about Koios to get your library started? &lt;a href=&quot;https://www.koios.co/contact-us/&quot;&gt;Contact&lt;/a&gt; them today.&lt;/p&gt;
 </content>
       
-        <link rel="enclosure" type="audio/mpeg" length="18460761" href="http://libraryisopen.com/episodes/trey_gordner.mp3"/>
+        <link rel="enclosure" type="audio/mpeg" length="18460761" href="http://libraryisopen.com/episodes/2018-01-31-trey-gordner.mp3"/>
       
       
     </entry>
@@ -74,7 +74,7 @@
       <updated>2017-12-31T00:00:00+00:00</updated>
       <id>http://libraryisopen.com/2017/12/31/spencer-smith</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://libraryisopen.com/episodes/spencer.mp3&quot;},&quot;coverUrl&quot;:&quot;http://libraryisopen.com/img/spencer.jpg&quot;,&quot;title&quot;:&quot;The Library is Open Podcast with Spencer Smith&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;http://libraryisopen.com/2017/12/31/spencer-smith.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://libraryisopen.com/episodes/2017-12-31-spencer-smith.mp3&quot;},&quot;coverUrl&quot;:&quot;http://libraryisopen.com/img/2017-12-31-spencer-smith.jpg&quot;,&quot;title&quot;:&quot;The Library is Open Podcast with Spencer Smith&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;http://libraryisopen.com/2017/12/31/spencer-smith.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
 &lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;http://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js&quot;&gt;
@@ -89,7 +89,7 @@
 &lt;p&gt;You can watch the video version of this conversation on our &lt;a href=&quot;https://www.youtube.com/playlist?list=PLV_OXyJ1D3Bi8zmgDWnaDz2d35FkC6j-v&quot;&gt;YouTube channel&lt;/a&gt;, listen right here, subscribe to our podcast, or all of the above. Enjoy!&lt;/p&gt;
 </content>
       
-        <link rel="enclosure" type="audio/mpeg" length="25882674" href="http://libraryisopen.com/episodes/spencer.mp3"/>
+        <link rel="enclosure" type="audio/mpeg" length="25882674" href="http://libraryisopen.com/episodes/2017-12-31-spencer-smith.mp3"/>
       
       
     </entry>
@@ -100,7 +100,7 @@
       <updated>2017-11-27T00:00:00+00:00</updated>
       <id>http://libraryisopen.com/2017/11/27/michael-sauers</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://libraryisopen.com/episodes/michael-do-space.mp3&quot;},&quot;coverUrl&quot;:&quot;http://libraryisopen.com/img/MichaelSauers.png&quot;,&quot;title&quot;:&quot;The Library is Open Podcast with Michael Sauers&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;http://libraryisopen.com/2017/11/27/michael-sauers.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://libraryisopen.com/episodes/2017-11-27-michael-sauers.mp3&quot;},&quot;coverUrl&quot;:&quot;http://libraryisopen.com/img/2017-11-27-michael-sauers.png&quot;,&quot;title&quot;:&quot;The Library is Open Podcast with Michael Sauers&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;http://libraryisopen.com/2017/11/27/michael-sauers.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
 &lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;http://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js&quot;&gt;
@@ -115,7 +115,7 @@
 &lt;p&gt;You can watch the video version of this conversation on our &lt;a href=&quot;https://www.youtube.com/playlist?list=PLV_OXyJ1D3Bi8zmgDWnaDz2d35FkC6j-v&quot;&gt;YouTube channel&lt;/a&gt;, listen right here, subscribe to our podcast, or all of the above. Enjoy!&lt;/p&gt;
 </content>
       
-        <link rel="enclosure" type="audio/mpeg" length="25260969" href="http://libraryisopen.com/episodes/michael-do-space.mp3"/>
+        <link rel="enclosure" type="audio/mpeg" length="25260969" href="http://libraryisopen.com/episodes/2017-11-27-michael-sauers.mp3"/>
       
       
     </entry>
@@ -126,7 +126,7 @@
       <updated>2017-09-06T00:00:00+00:00</updated>
       <id>http://libraryisopen.com/2017/09/06/rob-hilliker</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://libraryisopen.com/episodes/LIO-Podcast-RH.mp3&quot;},&quot;coverUrl&quot;:&quot;http://libraryisopen.com/img/RobHilliker.png&quot;,&quot;title&quot;:&quot;The Library is Open Podcast Featuring Rob Hilliker&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;http://libraryisopen.com/2017/09/06/rob-hilliker.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://libraryisopen.com/episodes/2017-09-06-rob-hilliker.mp3&quot;},&quot;coverUrl&quot;:&quot;http://libraryisopen.com/img/2017-09-06-rob-hilliker.png&quot;,&quot;title&quot;:&quot;The Library is Open Podcast Featuring Rob Hilliker&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;http://libraryisopen.com/2017/09/06/rob-hilliker.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
 &lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;http://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js&quot;&gt;
@@ -141,7 +141,7 @@
 &lt;p&gt;You can watch the video version of this conversation on our &lt;a href=&quot;https://www.youtube.com/playlist?list=PLV_OXyJ1D3Bi8zmgDWnaDz2d35FkC6j-v&quot;&gt;YouTube channel&lt;/a&gt;, listen right here, subscribe to our podcast, or all of the above. Enjoy!&lt;/p&gt;
 </content>
       
-        <link rel="enclosure" type="audio/mpeg" length="34843203" href="http://libraryisopen.com/episodes/LIO-Podcast-RH.mp3"/>
+        <link rel="enclosure" type="audio/mpeg" length="34843203" href="http://libraryisopen.com/episodes/2017-09-06-rob-hilliker.mp3"/>
       
       
     </entry>
@@ -152,7 +152,7 @@
       <updated>2017-06-09T00:00:00+00:00</updated>
       <id>http://libraryisopen.com/2017/06/09/kyle-hall</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://libraryisopen.com/episodes/HenryBankhead.mp3&quot;},&quot;coverUrl&quot;:&quot;http://libraryisopen.com/img/kylehall.png&quot;,&quot;title&quot;:&quot;The Library is Open Podcast Featuring Kyle Hall&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;http://libraryisopen.com/2017/06/09/kyle-hall.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://libraryisopen.com/episodes/2017-06-09-kyle-hall.mp3&quot;},&quot;coverUrl&quot;:&quot;http://libraryisopen.com/img/kylehall.png&quot;,&quot;title&quot;:&quot;The Library is Open Podcast Featuring Kyle Hall&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;http://libraryisopen.com/2017/06/09/kyle-hall.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
 &lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;http://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js&quot;&gt;
@@ -165,7 +165,7 @@
 &lt;p&gt;You can watch the video version of this conversation on our &lt;a href=&quot;https://www.youtube.com/playlist?list=PLV_OXyJ1D3Bi8zmgDWnaDz2d35FkC6j-v&quot;&gt;YouTube channel&lt;/a&gt;, listen right here, subscribe to our Library is Open Podcast, or all of the above. Enjoy!&lt;/p&gt;
 </content>
       
-        <link rel="enclosure" type="audio/mpeg" length="19056619" href="http://libraryisopen.com/episodes/HenryBankhead.mp3"/>
+        <link rel="enclosure" type="audio/mpeg" length="16300968" href="http://libraryisopen.com/episodes/2017-06-09-kyle-hall.mp3"/>
       
       
     </entry>
@@ -176,7 +176,7 @@
       <updated>2017-05-08T00:00:00+00:00</updated>
       <id>http://libraryisopen.com/2017/05/08/myka-kennedy</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://libraryisopen.com/episodes/myka-podcast.mp3&quot;},&quot;coverUrl&quot;:&quot;http://libraryisopen.com/img/myka.png&quot;,&quot;title&quot;:&quot;The Library is Open Podcast Featuring Myka Kennedy Stephens&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;http://libraryisopen.com/2017/05/08/myka-kennedy.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://libraryisopen.com/episodes/2017-05-08-myka-kennedy.mp3&quot;},&quot;coverUrl&quot;:&quot;http://libraryisopen.com/img/2017-05-08-myka-kennedy.png&quot;,&quot;title&quot;:&quot;The Library is Open Podcast Featuring Myka Kennedy Stephens&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;http://libraryisopen.com/2017/05/08/myka-kennedy.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
 &lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;http://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js&quot;&gt;
@@ -189,7 +189,7 @@
 &lt;p&gt;You can watch the video version of this conversation on our &lt;a href=&quot;https://www.youtube.com/playlist?list=PLV_OXyJ1D3Bi8zmgDWnaDz2d35FkC6j-v&quot;&gt;YouTube channel&lt;/a&gt;, listen right here, subscribe to our podcast, or all of the above. Enjoy!&lt;/p&gt;
 </content>
       
-        <link rel="enclosure" type="audio/mpeg" length="34641537" href="http://libraryisopen.com/episodes/myka-podcast.mp3"/>
+        <link rel="enclosure" type="audio/mpeg" length="34641537" href="http://libraryisopen.com/episodes/2017-05-08-myka-kennedy.mp3"/>
       
       
     </entry>
@@ -200,7 +200,7 @@
       <updated>2017-03-17T00:00:00+00:00</updated>
       <id>http://libraryisopen.com/2017/03/17/lori-ayre-and-jessamyn-west</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://libraryisopen.com/episodes/LOP-Lori-Jess.mp3&quot;},&quot;coverUrl&quot;:&quot;http://libraryisopen.com/img/lori-jessaymn-podcast.png&quot;,&quot;title&quot;:&quot;The Library is Open Podcast Featuring Lori Ayre and Jessamyn West&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;http://libraryisopen.com/2017/03/17/lori-ayre-and-jessamyn-west.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://libraryisopen.com/episodes/2017-03-17-lori-ayre-and-jessamyn-west.mp3&quot;},&quot;coverUrl&quot;:&quot;http://libraryisopen.com/img/2017-03-17-lori-ayre-and-jessamyn-west.png&quot;,&quot;title&quot;:&quot;The Library is Open Podcast Featuring Lori Ayre and Jessamyn West&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;http://libraryisopen.com/2017/03/17/lori-ayre-and-jessamyn-west.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
 &lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;http://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js&quot;&gt;
@@ -215,7 +215,7 @@
 &lt;p&gt;Interested in Learning more about Bookpoints? Check out &lt;a href=&quot;http://readingbydesign.org/&quot;&gt;Reading By Design&lt;/a&gt; for more information.&lt;/p&gt;
 </content>
       
-        <link rel="enclosure" type="audio/mpeg" length="17726466" href="http://libraryisopen.com/episodes/LOP-Lori-Jess.mp3"/>
+        <link rel="enclosure" type="audio/mpeg" length="17726466" href="http://libraryisopen.com/episodes/2017-03-17-lori-ayre-and-jessamyn-west.mp3"/>
       
       
     </entry>
@@ -226,7 +226,7 @@
       <updated>2017-02-13T00:00:00+00:00</updated>
       <id>http://libraryisopen.com/2017/02/13/henry-bankhead</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://libraryisopen.com/episodes/HenryBankhead.mp3&quot;},&quot;coverUrl&quot;:&quot;http://libraryisopen.com/img/henry.png&quot;,&quot;title&quot;:&quot;The Library is Open Podcast Featuring Henry Bankhead&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;http://libraryisopen.com/2017/02/13/henry-bankhead.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://libraryisopen.com/episodes/2017-02-13-henry-bankhead.mp3&quot;},&quot;coverUrl&quot;:&quot;http://libraryisopen.com/img/2017-02-13-henry-bankhead.png&quot;,&quot;title&quot;:&quot;The Library is Open Podcast Featuring Henry Bankhead&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;http://libraryisopen.com/2017/02/13/henry-bankhead.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
 &lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;http://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js&quot;&gt;
@@ -237,7 +237,7 @@
 &lt;p&gt;You can watch the video version of this conversation on our &lt;a href=&quot;https://www.youtube.com/playlist?list=PLV_OXyJ1D3Bi8zmgDWnaDz2d35FkC6j-v&quot;&gt;YouTube channel&lt;/a&gt;, listen right here, subscribe to our podcast, or all of the above. Enjoy!&lt;/p&gt;
 </content>
       
-        <link rel="enclosure" type="audio/mpeg" length="19056619" href="http://libraryisopen.com/episodes/HenryBankhead.mp3"/>
+        <link rel="enclosure" type="audio/mpeg" length="19056619" href="http://libraryisopen.com/episodes/2017-02-13-henry-bankhead.mp3"/>
       
       
     </entry>
@@ -248,7 +248,7 @@
       <updated>2017-01-12T00:00:00+00:00</updated>
       <id>http://libraryisopen.com/2017/01/12/everylibrary</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://libraryisopen.com/episodes/podcast-everylibrary.mp3&quot;},&quot;coverUrl&quot;:&quot;http://libraryisopen.com/img/everylibrarypodcastimage.png&quot;,&quot;title&quot;:&quot;The Library is Open Podcast featuring EveryLibrary&quot;,&quot;subtitle&quot;:&quot;Featuring John Chrastka and Patrick Sweeney&quot;,&quot;url&quot;:&quot;http://libraryisopen.com/2017/01/12/everylibrary.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://libraryisopen.com/episodes/2017-01-12-everylibrary.mp3&quot;},&quot;coverUrl&quot;:&quot;http://libraryisopen.com/img/2017-01-12-everylibrary.png&quot;,&quot;title&quot;:&quot;The Library is Open Podcast featuring EveryLibrary&quot;,&quot;subtitle&quot;:&quot;Featuring John Chrastka and Patrick Sweeney&quot;,&quot;url&quot;:&quot;http://libraryisopen.com/2017/01/12/everylibrary.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
 &lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;http://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js&quot;&gt;
@@ -257,7 +257,7 @@
 &lt;p&gt;We are happy to announce the third of our monthly podcast series titled The Library is Open! It features an interview with John Chrastka, Executive Director and Patrick Sweeney, Political Director of EveryLibrary.  Your hosts Nate Curulla and Jessica Zairo discuss the current political climate affecting libraries in 2017, advocating for libraries and “get out and vote” techniques with John and Patrick. EveryLibrary is the first and only national organization dedicated to building voter support for libraries. Learn more about about what they do and how they support libraries at &lt;a href=&quot;http://action.everylibrary.org/&quot;&gt;Action&lt;/a&gt;. Enjoy!&lt;/p&gt;
 </content>
       
-        <link rel="enclosure" type="audio/mpeg" length="27107092" href="http://libraryisopen.com/episodes/podcast-everylibrary.mp3"/>
+        <link rel="enclosure" type="audio/mpeg" length="27107092" href="http://libraryisopen.com/episodes/2017-01-12-everylibrary.mp3"/>
       
       
     </entry>
@@ -268,7 +268,7 @@
       <updated>2016-12-14T00:00:00+00:00</updated>
       <id>http://libraryisopen.com/2016/12/14/nate-brendan</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://libraryisopen.com/episodes/Podcast-brendan-nate.mp3&quot;},&quot;coverUrl&quot;:&quot;http://libraryisopen.com/img/natebrenpod.png&quot;,&quot;title&quot;:&quot;The Library is Open Podcast Featuring Brendan Gallagher and Nate Curulla&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;http://libraryisopen.com/2016/12/14/nate-brendan.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://libraryisopen.com/episodes/2016-12-14-nate-brendan.mp3&quot;},&quot;coverUrl&quot;:&quot;http://libraryisopen.com/img/2016-12-14-nate-brendan.png&quot;,&quot;title&quot;:&quot;The Library is Open Podcast Featuring Brendan Gallagher and Nate Curulla&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;http://libraryisopen.com/2016/12/14/nate-brendan.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
 &lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;http://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js&quot;&gt;
@@ -277,18 +277,18 @@
 &lt;p&gt;We are happy to announce the second of our monthly podcast series titled The Library is Open! It features an interview with Brendan Gallagher, Co-Owner and Chief Executive Officer and Nate Curulla, Co-Owner and Chief Revenue Officer.  Join us as we talk through the journey of friendship, librarianship and starting the ByWater Solutions Company. You can see our pretty faces on the video version of this conversation on our &lt;a href=&quot;https://www.youtube.com/user/bywatersolutions&quot;&gt;YouTube&lt;/a&gt; channel, listen right here, subscribe to our podcast, or all of the above. Enjoy!&lt;/p&gt;
 </content>
       
-        <link rel="enclosure" type="audio/mpeg" length="10670821" href="http://libraryisopen.com/episodes/Podcast-brendan-nate.mp3"/>
+        <link rel="enclosure" type="audio/mpeg" length="10670821" href="http://libraryisopen.com/episodes/2016-12-14-nate-brendan.mp3"/>
       
       
     </entry>
   
     <entry>
       <title>Introducing The Library is Open Podcast Featuring Joann Ransom</title>
-      <link href="http://libraryisopen.com/2016/11/14/introducing-the-library-is-open-podcast-featuring-joann-ransom.html"/>
+      <link href="http://libraryisopen.com/2016/11/14/joann-ransom.html"/>
       <updated>2016-11-14T00:00:00+00:00</updated>
-      <id>http://libraryisopen.com/2016/11/14/introducing-the-library-is-open-podcast-featuring-joann-ransom</id>
+      <id>http://libraryisopen.com/2016/11/14/joann-ransom</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://libraryisopen.com/episodes/TheLibraryisOPEN_Podcast_11_4_16.mp3&quot;},&quot;coverUrl&quot;:&quot;http://libraryisopen.com/img/joann_ransom.png&quot;,&quot;title&quot;:&quot;Introducing The Library is Open Podcast Featuring Joann Ransom&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;http://libraryisopen.com/2016/11/14/introducing-the-library-is-open-podcast-featuring-joann-ransom.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://libraryisopen.com/episodes/2016-11-14-joann-ransom.mp3&quot;},&quot;coverUrl&quot;:&quot;http://libraryisopen.com/img/2016-11-14-joann-ransom.png&quot;,&quot;title&quot;:&quot;Introducing The Library is Open Podcast Featuring Joann Ransom&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;http://libraryisopen.com/2016/11/14/joann-ransom.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
 &lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;http://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js&quot;&gt;
@@ -297,7 +297,7 @@
 &lt;p&gt;Welcome to our new podcast. We are happy to announce the first of our 30 minute monthly series titled The Library is Open! This first session features an interview with Joann Ransom, who was integral in the initial funding and development of Koha, the first web based and open source integrated library system. Hear about the challenges she faced when spearheading this monumental task and learn what she has been up to since, including her world tour of Koha libraries! You can see our pretty faces on the video version of this conversation on our &lt;a href=&quot;https://www.youtube.com/user/bywatersolutions&quot;&gt;YouTube&lt;/a&gt; channel, listen right here, subscribe to our podcast, or all of the above. Enjoy!&lt;/p&gt;
 </content>
       
-        <link rel="enclosure" type="audio/mpeg" length="18857978" href="http://libraryisopen.com/episodes/TheLibraryisOPEN_Podcast_11_4_16.mp3"/>
+        <link rel="enclosure" type="audio/mpeg" length="18857978" href="http://libraryisopen.com/episodes/2016-11-14-joann-ransom.mp3"/>
       
       
     </entry>

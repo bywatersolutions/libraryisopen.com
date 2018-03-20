@@ -5,9 +5,9 @@ layout: post
 author: ByWater Solutions
 explicit: 'no'
 duration: '0:31:26'
-episode_cover: /img/spencer.jpg
+episode_cover: /img/2017-12-31-spencer-smith.jpg
 audio:
-  mp3: spencer.mp3 
+  mp3: 2017-12-31-spencer-smith.mp3 
 ---
 
 {% podigee_player page %}

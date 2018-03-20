@@ -5,9 +5,9 @@ layout: post
 author: ByWater Solutions
 explicit: 'no'
 duration: '0:15:23'
-episode_cover: /img/trey_gordner.jpg
+episode_cover: /img/2018-01-31-trey-gordner.jpg
 audio:
-  mp3: trey_gordner.mp3
+  mp3: 2018-01-31-trey-gordner.mp3
 ---
 
 {% podigee_player page %}

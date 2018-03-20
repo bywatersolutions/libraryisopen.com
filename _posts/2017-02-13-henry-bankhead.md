@@ -5,9 +5,9 @@ layout: post
 author: ByWater Solutions
 explicit: 'no'
 duration: '0:31:26'
-episode_cover: /img/henry.png
+episode_cover: /img/2017-02-13-henry-bankhead.png
 audio:
-  mp3: HenryBankhead.mp3
+  mp3: 2017-02-13-henry-bankhead.mp3
 ---
 
 {% podigee_player page %}

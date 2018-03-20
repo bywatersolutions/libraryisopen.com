@@ -5,9 +5,9 @@ layout: post
 author: ByWater Solutions
 explicit: 'no'
 duration: '0:31:26'
-episode_cover: /img/RobHilliker.png
+episode_cover: /img/2017-09-06-rob-hilliker.png
 audio:
-  mp3: LIO-Podcast-RH.mp3
+  mp3: 2017-09-06-rob-hilliker.mp3
 ---
 
 {% podigee_player page %}

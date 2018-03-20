@@ -5,9 +5,9 @@ layout: post
 author: ByWater Solutions
 explicit: 'no'
 duration: '0:31:26'
-episode_cover: /img/natebrenpod.png
+episode_cover: /img/2016-12-14-nate-brendan.png
 audio:
-  mp3: Podcast-brendan-nate.mp3
+  mp3: 2016-12-14-nate-brendan.mp3
 ---
 
 {% podigee_player page %}

@@ -5,9 +5,9 @@ layout: post
 author: ByWater Solutions
 explicit: 'no'
 duration: '0:32:32'
-episode_cover: /img/michael-kucsak.png
+episode_cover: /img/2018-03-13-michael-kucsak.png
 audio:
-  mp3: michael_kucsak.mp3
+  mp3: 2018-03-13-michael-kucsak.mp3
 ---
 
 {% podigee_player page %}

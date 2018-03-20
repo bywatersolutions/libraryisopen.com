@@ -5,9 +5,9 @@ layout: post
 author: ByWater Solutions
 explicit: 'no'
 duration: '0:31:26'
-episode_cover: /img/lori-jessaymn-podcast.png
+episode_cover: /img/2017-03-17-lori-ayre-and-jessamyn-west.png
 audio:
-  mp3: LOP-Lori-Jess.mp3
+  mp3: 2017-03-17-lori-ayre-and-jessamyn-west.mp3
 ---
 
 {% podigee_player page %}

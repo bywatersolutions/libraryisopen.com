@@ -5,9 +5,9 @@ layout: post
 author: ByWater Solutions
 explicit: 'no'
 duration: '0:31:26'
-episode_cover: /img/joann_ransom.png
+episode_cover: /img/2016-11-14-joann-ransom.png
 audio:
-  mp3: TheLibraryisOPEN_Podcast_11_4_16.mp3
+  mp3: 2016-11-14-joann-ransom.mp3
 ---
 
 {% podigee_player page %}

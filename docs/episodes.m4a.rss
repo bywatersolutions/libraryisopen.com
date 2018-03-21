@@ -21,7 +21,7 @@
 <atom:link rel="alternate" href="https://itunes.apple.com/us/podcast/the-library-is-open/id1176554216?mt=2" type="application/rss+xml" title="itunes"/>
     <description>A podcast for libraries interested in Koha and Open Source Software
 </description>
-    <lastBuildDate>Wed, 21 Mar 2018 10:43:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Mar 2018 15:18:57 +0000</lastBuildDate>
     <language>en</language>
     <generator>Jekyll-Octopod 0.9.4</generator>
 
@@ -29,7 +29,7 @@
 </itunes:summary>
     <itunes:author>ByWater Solutions</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="http://libraryisopen.com/img/logo-itunes.jpg" />
+    <itunes:image href="http://libraryisopen.com/img/logo-itunes.png" />
     <itunes:owner>
       <itunes:name>ByWater Solutions</itunes:name>
       <itunes:email>info@libraryisopen.com</itunes:email>
@@ -40,7 +40,7 @@
     <itunes:keywords>koha, foss, library, libraries</itunes:keywords>
     <image>
       <title>The Library is Open</title>
-      <url>http://libraryisopen.com/img/logo-itunes.jpg</url>
+      <url>http://libraryisopen.com/img/logo-itunes.png</url>
       <link>http://libraryisopen.com</link>
     </image>
     

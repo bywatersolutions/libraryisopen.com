@@ -1,5 +1,5 @@
 ---
-title: The Library is Open Podcast with Michael Kucsak
+title: Michael Kucsak - The Library is Open ep. 12
 subtitle:
 layout: post
 author: ByWater Solutions

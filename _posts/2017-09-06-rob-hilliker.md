@@ -1,5 +1,5 @@
 ---
-title: The Library is Open Podcast Featuring Rob Hilliker
+title: Rob Hilliker - The Library is Open ep. 8
 subtitle:
 layout: post
 author: ByWater Solutions

@@ -1,5 +1,5 @@
 ---
-title: The Library is Open Podcast with Spencer Smith
+title: Spencer Smith - The Library is Open ep. 10
 subtitle:
 layout: post
 author: ByWater Solutions

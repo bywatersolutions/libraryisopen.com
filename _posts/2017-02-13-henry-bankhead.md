@@ -1,5 +1,5 @@
 ---
-title: The Library is Open Podcast Featuring Henry Bankhead
+title: Henry Bankhead - The Library is Open ep. 4
 subtitle:
 layout: post
 author: ByWater Solutions

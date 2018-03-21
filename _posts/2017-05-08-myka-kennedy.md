@@ -1,5 +1,5 @@
 ---
-title: The Library is Open Podcast Featuring Myka Kennedy Stephens
+title: Myka Kennedy Stephens - The Library is Open ep. 6
 subtitle:
 layout: post
 author: ByWater Solutions

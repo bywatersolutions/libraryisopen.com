@@ -1,5 +1,5 @@
 ---
-title: Introducing The Library is Open Podcast Featuring Joann Ransom
+title: Joann Ransom - The Library is Open ep. 1
 subtitle:
 layout: post
 author: ByWater Solutions

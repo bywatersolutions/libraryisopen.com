@@ -1,5 +1,5 @@
 ---
-title: The Library is Open Podcast featuring EveryLibrary
+title: EveryLibrary - The Library is Open ep. 3
 subtitle: Featuring John Chrastka and Patrick Sweeney
 layout: post
 author: ByWater Solutions

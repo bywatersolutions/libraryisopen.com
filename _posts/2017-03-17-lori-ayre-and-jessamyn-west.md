@@ -1,5 +1,5 @@
 ---
-title: The Library is Open Podcast Featuring Lori Ayre and Jessamyn West
+title: Lori Ayre and Jessamyn West - The Library is Open ep. 5
 subtitle:
 layout: post
 author: ByWater Solutions

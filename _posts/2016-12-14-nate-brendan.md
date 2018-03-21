@@ -1,5 +1,5 @@
 ---
-title: The Library is Open Podcast Featuring Brendan Gallagher and Nate Curulla
+title: Brendan Gallagher and Nate Curulla - The Library is Open ep. 2
 subtitle:
 layout: post
 author: ByWater Solutions

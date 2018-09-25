@@ -4,13 +4,37 @@
   <title>The Library is Open</title>
   <link href="http://libraryisopen.com/general_feed.xml" rel="self"/>
   <link href="http://libraryisopen.com"/>
-  <updated>2018-03-21T15:18:57+00:00</updated>
+  <updated>2018-09-25T17:41:58+00:00</updated>
   <id>http://libraryisopen.com/</id>
   <author>
     <name>ByWater Solutions</name>
     <email>info@libraryisopen.com</email>
   </author>
 
+  
+    <entry>
+      <title>Brian Pichman - The Library is Open ep. 13</title>
+      <link href="http://libraryisopen.com/2018/09/25/brian-pichman.html"/>
+      <updated>2018-09-25T00:00:00+00:00</updated>
+      <id>http://libraryisopen.com/2018/09/25/brian-pichman</id>
+      <content type="html">&lt;script&gt;
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://libraryisopen.com/episodes/2018-09-25-brian-pichman.mp3&quot;},&quot;coverUrl&quot;:&quot;http://libraryisopen.com/img/2018-09-25-brian-pichman.png&quot;,&quot;title&quot;:&quot;Brian Pichman - The Library is Open ep. 13&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;http://libraryisopen.com/2018/09/25/brian-pichman.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+&lt;/script&gt;
+
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;http://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;/script&gt;
+
+&lt;p&gt;We are happy to announce our newest session for The Library is Open Podcast! Today’s session features an interview with Brian Pichman, the Director of Strategic Innovation at the Evolve Project. He speaks a lot about innovative technology within libraries and loves collaborating with both libraries and companies.&lt;/p&gt;
+
+&lt;h2 id=&quot;about-brian-and-the-evolve-project&quot;&gt;About Brian and the Evolve Project&lt;/h2&gt;
+
+&lt;p&gt;Brian Pichman is an entrepreneur, innovator, and collaborator.As Director of Strategic Innovation at the Evolve Project, he works with libraries to create makerspaces and fab labs, and provides the coaching and guidance needed to take their environments to the next level. Brian speaks a lot about innovative technology as a presenter and loves collaborating with both libraries and companies.  He is dedicated to bringing libraries into the future using cost effective measures and strategies.  Much of Evolve’s work includes bridging the digital divide, breaking away from “traditional library views”, becoming trend setters and finding or building innovative works geared towards interaction and collaboration.  He has also been working with start-up companies across the country, promoting libraries and encouraging people to work closer with libraries in developing new ideas and concepts.&lt;/p&gt;
+</content>
+      
+        <link rel="enclosure" type="audio/mpeg" length="17482228" href="http://libraryisopen.com/episodes/2018-09-25-brian-pichman.mp3"/>
+      
+      
+    </entry>
   
     <entry>
       <title>Michael Kucsak - The Library is Open ep. 12</title>

@@ -21,7 +21,7 @@
 <atom:link rel="alternate" href="https://itunes.apple.com/us/podcast/the-library-is-open/id1176554216?mt=2" type="application/rss+xml" title="itunes"/>
     <description>A podcast for libraries interested in Koha and Open Source Software
 </description>
-    <lastBuildDate>Wed, 21 Mar 2018 15:18:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Sep 2018 17:41:58 +0000</lastBuildDate>
     <language>en</language>
     <generator>Jekyll-Octopod 0.9.4</generator>
 
@@ -47,6 +47,49 @@
     <itunes:category text="Technology" />
     
     
+    
+      
+        
+        
+          <item>
+            <title>Brian Pichman - The Library is Open ep. 13 - </title>
+            <link>http://libraryisopen.com/2018/09/25/brian-pichman.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="http://libraryisopen.com/players/brian-pichman"/>
+            <comments>http://libraryisopen.com/2018/09/25/brian-pichman.html#disqus_thread</comments>
+            <pubDate>Tue, 25 Sep 2018 00:00:00 +0000</pubDate>
+            
+            <guid isPermaLink="false">http://libraryisopen.com/2018/09/25/brian-pichman.html</guid>
+            <description><![CDATA[
+
+<p>We are happy to announce our newest session for The Library is Open Podcast! Today’s session features an interview with Brian Pichman, the Director of Strategic Innovation at the Evolve Project. He speaks a lot about innovative technology within libraries and loves collaborating with both libraries and companies.</p>
+
+<h2 id="about-brian-and-the-evolve-project">About Brian and the Evolve Project</h2>
+
+<p>Brian Pichman is an entrepreneur, innovator, and collaborator.As Director of Strategic Innovation at the Evolve Project, he works with libraries to create makerspaces and fab labs, and provides the coaching and guidance needed to take their environments to the next level. Brian speaks a lot about innovative technology as a presenter and loves collaborating with both libraries and companies.  He is dedicated to bringing libraries into the future using cost effective measures and strategies.  Much of Evolve’s work includes bridging the digital divide, breaking away from “traditional library views”, becoming trend setters and finding or building innovative works geared towards interaction and collaboration.  He has also been working with start-up companies across the country, promoting libraries and encouraging people to work closer with libraries in developing new ideas and concepts.</p>
+]]></description>
+            <content:encoded><![CDATA[
+
+<p>We are happy to announce our newest session for The Library is Open Podcast! Today’s session features an interview with Brian Pichman, the Director of Strategic Innovation at the Evolve Project. He speaks a lot about innovative technology within libraries and loves collaborating with both libraries and companies.</p>
+
+<h2 id="about-brian-and-the-evolve-project">About Brian and the Evolve Project</h2>
+
+<p>Brian Pichman is an entrepreneur, innovator, and collaborator.As Director of Strategic Innovation at the Evolve Project, he works with libraries to create makerspaces and fab labs, and provides the coaching and guidance needed to take their environments to the next level. Brian speaks a lot about innovative technology as a presenter and loves collaborating with both libraries and companies.  He is dedicated to bringing libraries into the future using cost effective measures and strategies.  Much of Evolve’s work includes bridging the digital divide, breaking away from “traditional library views”, becoming trend setters and finding or building innovative works geared towards interaction and collaboration.  He has also been working with start-up companies across the country, promoting libraries and encouraging people to work closer with libraries in developing new ideas and concepts.</p>
+]]></content:encoded>
+            
+            <enclosure url="http://libraryisopen.com/episodes/2018-09-25-brian-pichman.mp3" length="17482228" type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>ByWater Solutions</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>0:32:32</itunes:duration>
+            
+            
+            
+            
+          </item>
+        
+      
     
       
         

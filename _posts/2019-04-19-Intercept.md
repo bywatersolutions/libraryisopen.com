@@ -1,7 +1,7 @@
 ---
 published: false
 ---
-## Library is Open Podcast - Intercept
+{% podigee_player page %}
 
 We are happy to announce our newest session for The Library is Open Podcast! Today’s session features an interview with Sarah Sawicki, Planning & Projects Director and Phillip Higgins, Marketing and Digital Strategy Director at the Richland Library in South Carolina. They are joined by Sally Shaughnessy, Director, Project Management at Aten Design Group in Denver, Colorado. In this podcast we discuss [Intercept](https://www.libraryintercept.com/), an open source event, room, equipment management and customer tracking system. 
 

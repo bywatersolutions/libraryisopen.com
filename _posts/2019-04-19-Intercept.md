@@ -1,6 +1,6 @@
 ---
 title: Intercept - The Library is Open ep. 14
-subtitle:
+subtitle: null
 layout: post
 author: ByWater Solutions
 explicit: 'no'
@@ -8,6 +8,7 @@ duration: '0:32:32'
 episode_cover: /img/2019-04-19-Intercept.png
 audio:
   mp3: 2019-04-19-intercept.mp3
+published: true
 ---
 
 {% podigee_player page %}

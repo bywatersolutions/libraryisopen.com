@@ -1,12 +1,13 @@
 prose:
-  rooturl: 'source/_posts'
-  media: 'source/images'
+  rooturl: '_posts'
+  media: 'images'
   ignore:
+    - index.md
     - _config.yml
     - /_layouts
     - /_includes
   metadata:
-    source/_posts:
+    _posts:
       - name: "layout"
         field:
           element: "hidden"
@@ -15,6 +16,10 @@ prose:
         field:
           element: "text"
           label: "Title"
+      - name: "subtitle"
+        field:
+          element: "text"
+          label: "Subtitle"
       - name: "date"
         field:
           element: "text"
@@ -32,23 +37,25 @@ prose:
           label: "author"
           element: "text"
           placeholder: "Enter author"
-      - name: "excerpt"
+      - name: "duration"
         field:
-          label: "excerpt"
+          label: "Durationr"
           element: "text"
-          placeholder: "Enter excerpt"
-      - name: "meta"
+          placeholder: "0:33:21"
+          help: "Length of episode in format: H:MM:SS"
+      - name: "episode_cover"
         field:
-          label: "meta"
+          label: "Episode cover"
+          element: "text"
+          help: "Path to epsidoe cover ( e.g. /img/2017-09-06-rob-hilliker.png )"
+      - name: "explicit"
+        field:
+          element: "text"
+          label: "Explicit?"
+          help: "Does this expisode contain explicit contentd? Of course not!"
+          value: "no"
+      - name: "Other metadata"
+        field:
+          label: "Metadata"
           element: "text"
           placeholder: "Enter metadata"
-    source/_static:
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "page"
-      - name: "permalink"
-        field:
-          element: "text"
-          label: "Permalink"
-          value: ""

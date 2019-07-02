@@ -1,0 +1,54 @@
+prose:
+  rooturl: 'source/_posts'
+  media: 'source/images'
+  ignore:
+    - _config.yml
+    - /_layouts
+    - /_includes
+  metadata:
+    source/_posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+      - name: "date"
+        field:
+          element: "text"
+          label: "Date"
+          help: "Date after which the post will be published, set to CURRENT_DATETIME for it be published right away"
+          value: "CURRENT_DATETIME"
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Published"
+          help: "Check to make post visible, uncheck to hide it"
+          value: true
+      - name: "author"
+        field:
+          label: "author"
+          element: "text"
+          placeholder: "Enter author"
+      - name: "excerpt"
+        field:
+          label: "excerpt"
+          element: "text"
+          placeholder: "Enter excerpt"
+      - name: "meta"
+        field:
+          label: "meta"
+          element: "text"
+          placeholder: "Enter metadata"
+    source/_static:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "page"
+      - name: "permalink"
+        field:
+          element: "text"
+          label: "Permalink"
+          value: ""

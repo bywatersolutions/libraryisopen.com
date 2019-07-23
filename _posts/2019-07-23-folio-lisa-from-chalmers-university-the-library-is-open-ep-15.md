@@ -3,7 +3,7 @@ layout: post
 date: '2019-07-23 10:39 -0400'
 published: true
 explicit: 'no'
-title: FOLIO - Lisa from Chalmers University - The Library is Open ep. 15
+title: FOLIO - Lisa - The Library is Open ep. 15
 ---
 
 We are happy to announce our newest session for The Library is Open Podcast! Today’s session features an interview with  Lisa Sjögren, Librarian at Chalmers University of Technology, Department of Communication and Learning in Science. Lisa pours her energy into why their Library has chosen the FOLIO Open Source Platform for their new LSP.

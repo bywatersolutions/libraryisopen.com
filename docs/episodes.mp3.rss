@@ -21,7 +21,7 @@
 <atom:link rel="alternate" href="https://itunes.apple.com/us/podcast/the-library-is-open/id1176554216?mt=2" type="application/rss+xml" title="itunes"/>
     <description>A podcast for libraries interested in Koha and Open Source Software
 </description>
-    <lastBuildDate>Tue, 23 Jul 2019 18:49:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jul 2019 19:00:15 +0000</lastBuildDate>
     <language>en</language>
     <generator>Jekyll-Octopod 0.9.4</generator>
 
@@ -59,7 +59,9 @@
             <pubDate>Tue, 23 Jul 2019 14:39:00 +0000</pubDate>
             
             <guid isPermaLink="false">http://libraryisopen.com/2019/07/23/folio-lisa-from-chalmers.html</guid>
-            <description><![CDATA[<p>We are happy to announce our newest session for The Library is Open Podcast! Today’s session features an interview with  Lisa Sjögren, Librarian at Chalmers University of Technology, Department of Communication and Learning in Science. Lisa pours her energy into why their Library has chosen the FOLIO Open Source Platform for their new LSP.</p>
+            <description><![CDATA[
+
+<p>We are happy to announce our newest session for The Library is Open Podcast! Today’s session features an interview with  Lisa Sjögren, Librarian at Chalmers University of Technology, Department of Communication and Learning in Science. Lisa pours her energy into why their Library has chosen the FOLIO Open Source Platform for their new LSP.</p>
 
 <p>Chalmers University of Technology was named the first FOLIO Beta Partner for EBSCO Information Services. <a href="https://www.folio.org/about/news-events/article/chalmers-university-of-technology-named-first-folio-beta-partner-for-ebsco-information-services/" title="EBSCO Announcement">https://www.folio.org/about/news-events/article/chalmers-university-of-technology-named-first-folio-beta-partner-for-ebsco-information-services/</a></p>
 
@@ -81,7 +83,9 @@
 
 <p>FOLIO is a collaboration of libraries, developers and vendors building an open source library services platform. It supports traditional resource management functionality and can be extended into other institutional areas. Read more at: <a href="https://www.folio.org/about/" title="FOLIO">https://www.folio.org/about/</a></p>
 ]]></description>
-            <content:encoded><![CDATA[<p>We are happy to announce our newest session for The Library is Open Podcast! Today’s session features an interview with  Lisa Sjögren, Librarian at Chalmers University of Technology, Department of Communication and Learning in Science. Lisa pours her energy into why their Library has chosen the FOLIO Open Source Platform for their new LSP.</p>
+            <content:encoded><![CDATA[
+
+<p>We are happy to announce our newest session for The Library is Open Podcast! Today’s session features an interview with  Lisa Sjögren, Librarian at Chalmers University of Technology, Department of Communication and Learning in Science. Lisa pours her energy into why their Library has chosen the FOLIO Open Source Platform for their new LSP.</p>
 
 <p>Chalmers University of Technology was named the first FOLIO Beta Partner for EBSCO Information Services. <a href="https://www.folio.org/about/news-events/article/chalmers-university-of-technology-named-first-folio-beta-partner-for-ebsco-information-services/" title="EBSCO Announcement">https://www.folio.org/about/news-events/article/chalmers-university-of-technology-named-first-folio-beta-partner-for-ebsco-information-services/</a></p>
 

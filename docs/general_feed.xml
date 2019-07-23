@@ -4,7 +4,7 @@
   <title>The Library is Open</title>
   <link href="http://libraryisopen.com/general_feed.xml" rel="self"/>
   <link href="http://libraryisopen.com"/>
-  <updated>2019-07-23T18:49:40+00:00</updated>
+  <updated>2019-07-23T19:00:15+00:00</updated>
   <id>http://libraryisopen.com/</id>
   <author>
     <name>ByWater Solutions</name>
@@ -17,7 +17,14 @@
       <link href="http://libraryisopen.com/2019/07/23/folio-lisa-from-chalmers.html"/>
       <updated>2019-07-23T14:39:00+00:00</updated>
       <id>http://libraryisopen.com/2019/07/23/folio-lisa-from-chalmers</id>
-      <content type="html">&lt;p&gt;We are happy to announce our newest session for The Library is Open Podcast! Today’s session features an interview with  Lisa Sjögren, Librarian at Chalmers University of Technology, Department of Communication and Learning in Science. Lisa pours her energy into why their Library has chosen the FOLIO Open Source Platform for their new LSP.&lt;/p&gt;
+      <content type="html">&lt;script&gt;
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://libraryisopen.com/episodes/2019-07-23-lisa-chalmers-folio.mp3&quot;},&quot;coverUrl&quot;:&quot;http://libraryisopen.com/img/2019-07-23-folio-lisa-from-chalmers.png&quot;,&quot;title&quot;:&quot;FOLIO - Lisa - The Library is Open ep. 15&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;http://libraryisopen.com/2019/07/23/folio-lisa-from-chalmers.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+&lt;/script&gt;
+
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;http://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;/script&gt;
+
+&lt;p&gt;We are happy to announce our newest session for The Library is Open Podcast! Today’s session features an interview with  Lisa Sjögren, Librarian at Chalmers University of Technology, Department of Communication and Learning in Science. Lisa pours her energy into why their Library has chosen the FOLIO Open Source Platform for their new LSP.&lt;/p&gt;
 
 &lt;p&gt;Chalmers University of Technology was named the first FOLIO Beta Partner for EBSCO Information Services. &lt;a href=&quot;https://www.folio.org/about/news-events/article/chalmers-university-of-technology-named-first-folio-beta-partner-for-ebsco-information-services/&quot; title=&quot;EBSCO Announcement&quot;&gt;https://www.folio.org/about/news-events/article/chalmers-university-of-technology-named-first-folio-beta-partner-for-ebsco-information-services/&lt;/a&gt;&lt;/p&gt;
 

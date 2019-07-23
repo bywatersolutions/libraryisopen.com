@@ -4,7 +4,7 @@
   <title>The Library is Open</title>
   <link href="http://libraryisopen.com/general_feed.xml" rel="self"/>
   <link href="http://libraryisopen.com"/>
-  <updated>2019-07-23T15:14:45+00:00</updated>
+  <updated>2019-07-23T18:49:40+00:00</updated>
   <id>http://libraryisopen.com/</id>
   <author>
     <name>ByWater Solutions</name>
@@ -14,9 +14,9 @@
   
     <entry>
       <title>FOLIO - Lisa - The Library is Open ep. 15</title>
-      <link href="http://libraryisopen.com/2019/07/23/folio-lisa-from-chalmers-university-the-library-is-open-ep-15.html"/>
+      <link href="http://libraryisopen.com/2019/07/23/folio-lisa-from-chalmers.html"/>
       <updated>2019-07-23T14:39:00+00:00</updated>
-      <id>http://libraryisopen.com/2019/07/23/folio-lisa-from-chalmers-university-the-library-is-open-ep-15</id>
+      <id>http://libraryisopen.com/2019/07/23/folio-lisa-from-chalmers</id>
       <content type="html">&lt;p&gt;We are happy to announce our newest session for The Library is Open Podcast! Today’s session features an interview with  Lisa Sjögren, Librarian at Chalmers University of Technology, Department of Communication and Learning in Science. Lisa pours her energy into why their Library has chosen the FOLIO Open Source Platform for their new LSP.&lt;/p&gt;
 
 &lt;p&gt;Chalmers University of Technology was named the first FOLIO Beta Partner for EBSCO Information Services. &lt;a href=&quot;https://www.folio.org/about/news-events/article/chalmers-university-of-technology-named-first-folio-beta-partner-for-ebsco-information-services/&quot; title=&quot;EBSCO Announcement&quot;&gt;https://www.folio.org/about/news-events/article/chalmers-university-of-technology-named-first-folio-beta-partner-for-ebsco-information-services/&lt;/a&gt;&lt;/p&gt;
@@ -39,6 +39,8 @@
 
 &lt;p&gt;FOLIO is a collaboration of libraries, developers and vendors building an open source library services platform. It supports traditional resource management functionality and can be extended into other institutional areas. Read more at: &lt;a href=&quot;https://www.folio.org/about/&quot; title=&quot;FOLIO&quot;&gt;https://www.folio.org/about/&lt;/a&gt;&lt;/p&gt;
 </content>
+      
+        <link rel="enclosure" type="audio/mpeg" length="25832007" href="http://libraryisopen.com/episodes/2019-07-23-lisa-chalmers-folio.mp3"/>
       
       
     </entry>

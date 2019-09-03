@@ -4,7 +4,7 @@
   <title>The Library is Open</title>
   <link href="http://libraryisopen.com/general_feed.xml" rel="self"/>
   <link href="http://libraryisopen.com"/>
-  <updated>2019-08-30T09:34:26+00:00</updated>
+  <updated>2019-09-03T12:23:40+00:00</updated>
   <id>http://libraryisopen.com/</id>
   <author>
     <name>ByWater Solutions</name>
@@ -13,10 +13,10 @@
 
   
     <entry>
-      <title>SimplyE - Amigos - Christine- The Library is Open ep. 16</title>
-      <link href="http://libraryisopen.com/2019/08/30/simplye-amigos-christine-the-library-is-open-ep-16.html"/>
+      <title>SimplyE - Amigos - Christine - The Library is Open ep. 16</title>
+      <link href="http://libraryisopen.com/2019/08/30/simplye.html"/>
       <updated>2019-08-30T09:20:00+00:00</updated>
-      <id>http://libraryisopen.com/2019/08/30/simplye-amigos-christine-the-library-is-open-ep-16</id>
+      <id>http://libraryisopen.com/2019/08/30/simplye</id>
       <content type="html">&lt;p&gt;We are happy to announce our newest session for The Library is Open Podcast! Today’s session features an interview with Christine Peterson, Engagement and Emerging Technologies Coordinator at Amigos Library Services. Christine talks to us today about their involvment in the SimplyE project devloped by the New York Public Library. SimplyE was devloped as an open source project that allows libraries to provide a single platform for their ebook collections. Listen as Christine discusses hosting, marketing and their support of the SimplyE platform.&lt;/p&gt;
 
 &lt;h2 id=&quot;about-simplye&quot;&gt;About SimplyE&lt;/h2&gt;
@@ -41,6 +41,8 @@
 
 &lt;p&gt;She is also known for her technology training throughout the Southwest, making complicated topics easy for librarians to understand. Prior to joining Amigos, she was the Manager for Continuing Education &amp;amp; Consulting at the Texas State Library &amp;amp; Archives Commission, guiding and supporting libraries statewide. She also worked for both San Antonio College and the Florida Institute of Technology as their systems librarian, converting their library catalogs to automated systems.&lt;/p&gt;
 </content>
+      
+        <link rel="enclosure" type="audio/mpeg" length="15237775" href="http://libraryisopen.com/episodes/2019-08-30-simplye.mp3"/>
       
       
     </entry>

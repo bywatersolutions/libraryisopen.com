@@ -4,7 +4,7 @@
   <title>The Library is Open</title>
   <link href="http://libraryisopen.com/general_feed.xml" rel="self"/>
   <link href="http://libraryisopen.com"/>
-  <updated>2019-09-03T12:23:40+00:00</updated>
+  <updated>2019-09-03T12:32:03+00:00</updated>
   <id>http://libraryisopen.com/</id>
   <author>
     <name>ByWater Solutions</name>
@@ -17,7 +17,14 @@
       <link href="http://libraryisopen.com/2019/08/30/simplye.html"/>
       <updated>2019-08-30T09:20:00+00:00</updated>
       <id>http://libraryisopen.com/2019/08/30/simplye</id>
-      <content type="html">&lt;p&gt;We are happy to announce our newest session for The Library is Open Podcast! Today’s session features an interview with Christine Peterson, Engagement and Emerging Technologies Coordinator at Amigos Library Services. Christine talks to us today about their involvment in the SimplyE project devloped by the New York Public Library. SimplyE was devloped as an open source project that allows libraries to provide a single platform for their ebook collections. Listen as Christine discusses hosting, marketing and their support of the SimplyE platform.&lt;/p&gt;
+      <content type="html">&lt;script&gt;
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://libraryisopen.com/episodes/2019-08-30-simplye.mp3&quot;},&quot;coverUrl&quot;:&quot;http://libraryisopen.com/img/2019-08-30-simplye.png&quot;,&quot;title&quot;:&quot;SimplyE - Amigos - Christine - The Library is Open ep. 16&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;http://libraryisopen.com/2019/08/30/simplye.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+&lt;/script&gt;
+
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;http://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;/script&gt;
+
+&lt;p&gt;We are happy to announce our newest session for The Library is Open Podcast! Today’s session features an interview with Christine Peterson, Engagement and Emerging Technologies Coordinator at Amigos Library Services. Christine talks to us today about their involvment in the SimplyE project devloped by the New York Public Library. SimplyE was devloped as an open source project that allows libraries to provide a single platform for their ebook collections. Listen as Christine discusses hosting, marketing and their support of the SimplyE platform.&lt;/p&gt;
 
 &lt;h2 id=&quot;about-simplye&quot;&gt;About SimplyE&lt;/h2&gt;
 

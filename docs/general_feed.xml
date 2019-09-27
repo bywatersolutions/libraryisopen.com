@@ -4,7 +4,7 @@
   <title>The Library is Open</title>
   <link href="http://libraryisopen.com/general_feed.xml" rel="self"/>
   <link href="http://libraryisopen.com"/>
-  <updated>2019-09-27T14:35:05+00:00</updated>
+  <updated>2019-09-27T14:58:51+00:00</updated>
   <id>http://libraryisopen.com/</id>
   <author>
     <name>ByWater Solutions</name>
@@ -13,11 +13,18 @@
 
   
     <entry>
-      <title>2019-09-27-laura-wright.md</title>
+      <title>Laura Wright - Cornell University</title>
       <link href="http://libraryisopen.com/2019/09/27/2019-09-27-laura-wright-md.html"/>
       <updated>2019-09-27T14:14:00+00:00</updated>
       <id>http://libraryisopen.com/2019/09/27/2019-09-27-laura-wright-md</id>
-      <content type="html">&lt;p&gt;We are happy to announce our newest session for The Library is Open Podcast! Today’s session features an interview with Laura Wright, Assistant Director, Metadata Production at Cornell University. Laura talks to us about why she is so passionate about the FOLIO Open Source Platform.&lt;/p&gt;
+      <content type="html">&lt;script&gt;
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://libraryisopen.com/episodes/2019-09-27-laura-wright.mp3&quot;},&quot;coverUrl&quot;:&quot;http://libraryisopen.com/img/2019-09-27-laura-wright.jpg&quot;,&quot;title&quot;:&quot;Laura Wright - Cornell University&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;http://libraryisopen.com/2019/09/27/2019-09-27-laura-wright-md.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+&lt;/script&gt;
+
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;http://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;/script&gt;
+
+&lt;p&gt;We are happy to announce our newest session for The Library is Open Podcast! Today’s session features an interview with Laura Wright, Assistant Director, Metadata Production at Cornell University. Laura talks to us about why she is so passionate about the FOLIO Open Source Platform.&lt;/p&gt;
 
 &lt;p&gt;Laura is an active member of the FOLIO Open Source Community. Her FOLIO Project Role is a Functional Expert and her SIG Participation includes Forum Facilitator, Metadata Management SIG. You can read more about Laura’s involvement on the &lt;a href=&quot;https://wiki.folio.org/display/~lauraw&quot; title=&quot;FOLIO wiki&quot;&gt;FOLIO Wiki.&lt;/a&gt;&lt;/p&gt;
 
@@ -34,6 +41,8 @@
 &lt;p&gt;FOLIO is a collaboration of libraries, developers and vendors building an open source library services platform. It supports traditional resource management functionality and can be extended into other institutional areas. Read more at: &lt;a href=&quot;https://www.folio.org/about/&quot; title=&quot;FOLIO&quot;&gt;https://www.folio.org/about/&lt;/a&gt;&lt;/p&gt;
 
 </content>
+      
+        <link rel="enclosure" type="audio/mpeg" length="28657404" href="http://libraryisopen.com/episodes/2019-09-27-laura-wright.mp3"/>
       
       
     </entry>

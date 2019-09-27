@@ -21,7 +21,7 @@
 <atom:link rel="alternate" href="https://itunes.apple.com/us/podcast/the-library-is-open/id1176554216?mt=2" type="application/rss+xml" title="itunes"/>
     <description>A podcast for libraries interested in Koha and Open Source Software
 </description>
-    <lastBuildDate>Fri, 27 Sep 2019 14:35:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Sep 2019 14:58:51 +0000</lastBuildDate>
     <language>en</language>
     <generator>Jekyll-Octopod 0.9.4</generator>
 
@@ -48,6 +48,69 @@
     
     
     
+      
+        
+        
+          <item>
+            <title>Laura Wright - Cornell University - </title>
+            <link>http://libraryisopen.com/2019/09/27/2019-09-27-laura-wright-md.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="http://libraryisopen.com/players/2019-09-27-laura-wright-md"/>
+            <comments>http://libraryisopen.com/2019/09/27/2019-09-27-laura-wright-md.html#disqus_thread</comments>
+            <pubDate>Fri, 27 Sep 2019 14:14:00 +0000</pubDate>
+            
+            <guid isPermaLink="false">http://libraryisopen.com/2019/09/27/2019-09-27-laura-wright-md.html</guid>
+            <description><![CDATA[
+
+<p>We are happy to announce our newest session for The Library is Open Podcast! Today’s session features an interview with Laura Wright, Assistant Director, Metadata Production at Cornell University. Laura talks to us about why she is so passionate about the FOLIO Open Source Platform.</p>
+
+<p>Laura is an active member of the FOLIO Open Source Community. Her FOLIO Project Role is a Functional Expert and her SIG Participation includes Forum Facilitator, Metadata Management SIG. You can read more about Laura’s involvement on the <a href="https://wiki.folio.org/display/~lauraw" title="FOLIO wiki">FOLIO Wiki.</a></p>
+
+<h2 id="about-laura-wright">About Laura Wright</h2>
+
+<p>Read more about Laura here: <a href="https://www.linkedin.com/in/laura-wright-01578a9a" title="LinkedIn">LinkedIn</a></p>
+
+<h2 id="about-cornell-university">About Cornell University</h2>
+
+<p>The mission of Cornell University Library promotes a culture of broad inquiry and supports the University’s mission to discover, preserve, and disseminate knowledge and creative expression. It engages with the ongoing transformations of society to deliver world-class physical and digital content and services critical to research, education, and outreach, now and in the future. The Library acts globally, supporting Cornell’s land grant mission in New York State and beyond, and builds partnerships within and outside the university. It invests in its staff, collections, and physical and virtual libraries. And, it serves as a neutral and trusted party supporting information access and scholarly communication. Read more at:<a href="https://www.library.cornell.edu/about/inside/mission">https://www.library.cornell.edu/about/inside/mission</a></p>
+
+<h2 id="about-folio">About FOLIO</h2>
+
+<p>FOLIO is a collaboration of libraries, developers and vendors building an open source library services platform. It supports traditional resource management functionality and can be extended into other institutional areas. Read more at: <a href="https://www.folio.org/about/" title="FOLIO">https://www.folio.org/about/</a></p>
+
+]]></description>
+            <content:encoded><![CDATA[
+
+<p>We are happy to announce our newest session for The Library is Open Podcast! Today’s session features an interview with Laura Wright, Assistant Director, Metadata Production at Cornell University. Laura talks to us about why she is so passionate about the FOLIO Open Source Platform.</p>
+
+<p>Laura is an active member of the FOLIO Open Source Community. Her FOLIO Project Role is a Functional Expert and her SIG Participation includes Forum Facilitator, Metadata Management SIG. You can read more about Laura’s involvement on the <a href="https://wiki.folio.org/display/~lauraw" title="FOLIO wiki">FOLIO Wiki.</a></p>
+
+<h2 id="about-laura-wright">About Laura Wright</h2>
+
+<p>Read more about Laura here: <a href="https://www.linkedin.com/in/laura-wright-01578a9a" title="LinkedIn">LinkedIn</a></p>
+
+<h2 id="about-cornell-university">About Cornell University</h2>
+
+<p>The mission of Cornell University Library promotes a culture of broad inquiry and supports the University’s mission to discover, preserve, and disseminate knowledge and creative expression. It engages with the ongoing transformations of society to deliver world-class physical and digital content and services critical to research, education, and outreach, now and in the future. The Library acts globally, supporting Cornell’s land grant mission in New York State and beyond, and builds partnerships within and outside the university. It invests in its staff, collections, and physical and virtual libraries. And, it serves as a neutral and trusted party supporting information access and scholarly communication. Read more at:<a href="https://www.library.cornell.edu/about/inside/mission">https://www.library.cornell.edu/about/inside/mission</a></p>
+
+<h2 id="about-folio">About FOLIO</h2>
+
+<p>FOLIO is a collaboration of libraries, developers and vendors building an open source library services platform. It supports traditional resource management functionality and can be extended into other institutional areas. Read more at: <a href="https://www.folio.org/about/" title="FOLIO">https://www.folio.org/about/</a></p>
+
+]]></content:encoded>
+            
+            <enclosure url="http://libraryisopen.com/episodes/2019-09-27-laura-wright.mp3" length="28657404" type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>ByWater Solutions</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>0:23:52</itunes:duration>
+            
+            
+            
+            
+          </item>
+        
       
     
       

@@ -25,3 +25,5 @@ Read more at: [Library](https://thomasmore.libguides.com/welcome/About)
 The Salus Data Consulting team consists of Hrusto Selimovic, Jared Nelson, Corey Zamrik, Jash Patel, and Spencer White. They consult with various businesses and institutions in an effort to provide a viable privacy-centric alternative to Google Analytics and other commercial providers. We want people to better protect and collect their data. We seek to not only to provide this service but to educate our audience on how commercial providers monetize the data of users to third party advertising entities.
 
 Read more at: [Consulting](https://thomasmore.libwizard.com/f/salus)
+
+Watch a quick video from Thomas More University: [Thankful Thursday - Library Project](https://www.youtube.com/watch?v=OWf7cUWciNo)

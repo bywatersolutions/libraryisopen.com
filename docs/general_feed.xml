@@ -4,7 +4,7 @@
   <title>The Library is Open</title>
   <link href="http://libraryisopen.com/general_feed.xml" rel="self"/>
   <link href="http://libraryisopen.com"/>
-  <updated>2020-01-29T15:10:01+00:00</updated>
+  <updated>2020-01-29T15:24:15+00:00</updated>
   <id>http://libraryisopen.com/</id>
   <author>
     <name>ByWater Solutions</name>
@@ -18,7 +18,7 @@
       <updated>2020-01-29T14:28:00+00:00</updated>
       <id>http://libraryisopen.com/2020/01/29/1-24-2020-wolfcon20</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://libraryisopen.com/episodes/2020-01-29-1-24-2020-wolfcon20.mp3&quot;},&quot;coverUrl&quot;:&quot;http://libraryisopen.com/img/2020-01-29-1-24-2020-wolfcon20.mp3&quot;,&quot;title&quot;:&quot;WOLFcon20 - The Library is Open ep. 19&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;http://libraryisopen.com/2020/01/29/1-24-2020-wolfcon20.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://libraryisopen.com/episodes/2020-01-29-1-24-2020-wolfcon20.mp3&quot;},&quot;coverUrl&quot;:&quot;http://libraryisopen.com/img/2020-01-29-1-24-2020-wolfcon20.jpg&quot;,&quot;title&quot;:&quot;WOLFcon20 - The Library is Open ep. 19&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;http://libraryisopen.com/2020/01/29/1-24-2020-wolfcon20.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
 &lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;http://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js&quot;&gt;

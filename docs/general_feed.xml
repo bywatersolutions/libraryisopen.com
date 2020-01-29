@@ -4,7 +4,7 @@
   <title>The Library is Open</title>
   <link href="http://libraryisopen.com/general_feed.xml" rel="self"/>
   <link href="http://libraryisopen.com"/>
-  <updated>2020-01-29T14:47:18+00:00</updated>
+  <updated>2020-01-29T15:10:01+00:00</updated>
   <id>http://libraryisopen.com/</id>
   <author>
     <name>ByWater Solutions</name>
@@ -17,7 +17,14 @@
       <link href="http://libraryisopen.com/2020/01/29/1-24-2020-wolfcon20.html"/>
       <updated>2020-01-29T14:28:00+00:00</updated>
       <id>http://libraryisopen.com/2020/01/29/1-24-2020-wolfcon20</id>
-      <content type="html">&lt;p&gt;We are happy to announce our newest session of The Library is Open Podcast! Today’s session features a LIVE interview with Ian Walls, from WOLFcon20 at Texas A&amp;amp;M University. Ian Walls and host, Jessie Zairo, discuss the OLF Community, the current state of FOLIO and Ian’s role in the community.&lt;/p&gt;
+      <content type="html">&lt;script&gt;
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://libraryisopen.com/episodes/2020-01-29-1-24-2020-wolfcon20.mp3&quot;},&quot;coverUrl&quot;:&quot;http://libraryisopen.com/img/2020-01-29-1-24-2020-wolfcon20.mp3&quot;,&quot;title&quot;:&quot;WOLFcon20 - The Library is Open ep. 19&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;http://libraryisopen.com/2020/01/29/1-24-2020-wolfcon20.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+&lt;/script&gt;
+
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;http://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;/script&gt;
+
+&lt;p&gt;We are happy to announce our newest session of The Library is Open Podcast! Today’s session features a LIVE interview with Ian Walls, from WOLFcon20 at Texas A&amp;amp;M University. Ian Walls and host, Jessie Zairo, discuss the OLF Community, the current state of FOLIO and Ian’s role in the community.&lt;/p&gt;
 
 &lt;h2 id=&quot;about-ian-walls-folio-implementation-lead&quot;&gt;About Ian Walls, FOLIO Implementation Lead&lt;/h2&gt;
 
@@ -43,6 +50,8 @@
 
 &lt;p&gt;For more information please visit: &lt;a href=&quot;https://bywatersolutions.com/&quot; title=&quot;ByWater Solutions&quot;&gt;ByWater Solutions&lt;/a&gt;&lt;/p&gt;
 </content>
+      
+        <link rel="enclosure" type="audio/mpeg" length="10424977" href="http://libraryisopen.com/episodes/2020-01-29-1-24-2020-wolfcon20.mp3"/>
       
       
     </entry>

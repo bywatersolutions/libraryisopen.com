@@ -12,7 +12,7 @@ audio:
 
 {% podigee_player page %}
 
-We are happy to announce our newest session of The Library is Open Podcast! Today’s session features an interview with Marshall Breeding, an independent consultant, speaker, and the author for Library Technology Guides. Listen as Jessie and Marshall discuss the current ILS landscape and the Open Source Community. 
+We are happy to announce our newest session of The Library is Open Podcast! Today’s session features an interview with Marshall Breeding, an independent consultant, speaker, and the author of Library Technology Guides. Listen as Jessie and Marshall discuss the current ILS landscape and the Open Source Community. 
 
 ## About Marshall Breeding 
 

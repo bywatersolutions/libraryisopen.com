@@ -4,7 +4,14 @@ date: '2020-02-10 10:24 -0500'
 published: true
 explicit: 'no'
 title: Marshall Breeding - The Library is Open ep. 20
+duration: '0:29:03'
+episode_cover: /img/2020-02-10-marshall-breeding.jpg
+audio:
+  mp3: 2020-02-10-marshall-breeding.mp3
 ---
+
+{% podigee_player page %}
+
 We are happy to announce our newest session of The Library is Open Podcast! Today’s session features an interview with Marshall Breeding, an independent consultant, speaker, and the author for Library Technology Guides. Listen as Jessie and Marshall discuss the current ILS landscape and the Open Source Community. 
 
 ## About Marshall Breeding 

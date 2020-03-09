@@ -4,7 +4,7 @@
   <title>The Library is Open</title>
   <link href="http://libraryisopen.com/general_feed.xml" rel="self"/>
   <link href="http://libraryisopen.com"/>
-  <updated>2020-03-09T16:23:02+00:00</updated>
+  <updated>2020-03-09T16:34:52+00:00</updated>
   <id>http://libraryisopen.com/</id>
   <author>
     <name>ByWater Solutions</name>
@@ -17,7 +17,14 @@
       <link href="http://libraryisopen.com/2020/03/09/nancy-pearl-the-library-is-open-ep-21.html"/>
       <updated>2020-03-09T15:57:00+00:00</updated>
       <id>http://libraryisopen.com/2020/03/09/nancy-pearl-the-library-is-open-ep-21</id>
-      <content type="html">&lt;p&gt;We are happy to announce our newest session of The Library is Open Podcast! Today’s session features an interview with Nancy Pearl, a best-selling author, librarian, literary critic and READING ENTHUSIAST. Listen as Jessie and Nancy discuss the different facets of reading, why libraries matter, and of course her love of books.&lt;/p&gt;
+      <content type="html">&lt;script&gt;
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://libraryisopen.com/episodes/2020-03-09-nancy-pearl-the-library-is-open-ep-21.mp3&quot;},&quot;coverUrl&quot;:&quot;http://libraryisopen.com/img/2020-03-09-nancy-pearl-the-library-is-open-ep-21.png&quot;,&quot;title&quot;:&quot;Nancy Pearl - The Library is Open ep. 21&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;http://libraryisopen.com/2020/03/09/nancy-pearl-the-library-is-open-ep-21.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+&lt;/script&gt;
+
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;http://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;/script&gt;
+
+&lt;p&gt;We are happy to announce our newest session of The Library is Open Podcast! Today’s session features an interview with Nancy Pearl, a best-selling author, librarian, literary critic and READING ENTHUSIAST. Listen as Jessie and Nancy discuss the different facets of reading, why libraries matter, and of course her love of books.&lt;/p&gt;
 
 &lt;h2 id=&quot;about-nancy-pearl&quot;&gt;About Nancy Pearl&lt;/h2&gt;
 
@@ -25,6 +32,8 @@
 
 &lt;p&gt;Read more about Nancy Pearl at &lt;a href=&quot;https://www.nancypearl.com/about-nancy&quot; title=&quot;Nancy Pearl&quot;&gt;About Nancy&lt;/a&gt;&lt;/p&gt;
 </content>
+      
+        <link rel="enclosure" type="audio/mpeg" length="32683399" href="http://libraryisopen.com/episodes/2020-03-09-nancy-pearl-the-library-is-open-ep-21.mp3"/>
       
       
     </entry>

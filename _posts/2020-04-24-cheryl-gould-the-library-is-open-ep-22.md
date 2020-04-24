@@ -4,7 +4,13 @@ date: '2020-04-24 07:54 -0400'
 published: true
 explicit: 'no'
 title: Cheryl Gould - The Library is Open ep. 22
+duration: '0:23:48'
+episode_cover: /img/2020-04-24-cheryl-gould-ep-22.jpg
+audio:
+  mp3: 2020-04-24-cheryl-gould-ep-22.mp3
 ---
+
+{% podigee_player page %}
 
 We are happy to announce our newest session of The Library is Open Podcast! Today’s session features an interview with Cheryl Gould, learning facilitator and training consultant with Fully Engage Libraries. Listen as Jessie, Nate and Cheryl discuss change management, communication methods, invigorating organizational culture and preparing for the unexpected.
 

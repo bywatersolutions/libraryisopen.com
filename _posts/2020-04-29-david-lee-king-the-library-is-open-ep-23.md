@@ -1,12 +1,12 @@
 ---
 layout: post
 date: '2020-04-29 16:18 -0400'
-published: false
+published: true
 explicit: 'no'
 title: David Lee King - The Library is Open ep. 23
 ---
 
-We are happy to announce our newest session of The Library is Open Podcast! Today’s session features an interview with David Lee King is the Digital Services Director at Topeka & Shawnee County Public Library. Listen as David and Jessie discuss digital experiences during the pandemic, emerging technologies and where 
+We are happy to announce our newest session of The Library is Open Podcast! Today’s session features an interview with David Lee King. David is the Digital Services Director at Topeka & Shawnee County Public Library. Listen as David and Jessie discuss digital experiences during the pandemic, emerging technologies and what they see the library digital experince being in 2030. 
 
 ## About David Lee King
 

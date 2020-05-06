@@ -16,5 +16,4 @@ We are happy to announce our newest session of The Library is Open Podcast! Toda
 
 ## About David Lee King
 
-
 David Lee King is the Digital Services Director at Topeka & Shawnee County Public Library, where he plans, implements, and experiments with emerging technology trends. He speaks internationally about emerging trends, website management, digital experience, and social media, and has been published in many library-related journals. David is a Library Journal Mover and Shaker. His newest book is Face2Face: Using Facebook, Twitter, and Other Social Media Tools to Create Great Customer Connections. David blogs at http://www.davidleeking.com.

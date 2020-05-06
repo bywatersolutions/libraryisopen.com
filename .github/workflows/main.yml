@@ -32,6 +32,4 @@ jobs:
       run: git commit --allow-empty -m 'Site auto-updated [ci skip]'
 
     - name: Push to master
-      run: git push https://${GITHUB_ACTOR}:${INPUT_GITHUB_TOKEN}@github.com/bywatersolutions/libraryisopen.com.git HEAD:master
-      env:
-        INPUT_GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+      run: git push https://${GITHUB_ACTOR}:${GITHUB_TOKEN}@github.com/bywatersolutions/libraryisopen.com.git HEAD:master

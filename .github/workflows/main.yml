@@ -2,18 +2,18 @@ name: CI
 on: [push]
 jobs:
   build:
-    name: Run unit tests
+    name: Build & deploy
     if: "! contains(toJSON(github.event.commits.*.message), '[ci skip]')"
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v1
 
     - name: Install bundler
-      run: gem install bundler
+      run: sudo gem install bundler:1.16.1
 
     - name: Install bundle
-      run: bundle install
-      
+      run: sudo bundle install
+
     - name: Configure git
       run: |
         git config --global user.name 'Kyle M Hall'

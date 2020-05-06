@@ -7,7 +7,7 @@ title: David Lee King - The Library is Open ep. 23
 duration: '0:23:15'
 episode_cover: /img/2020-04-29-david-lee-king-the-library-is-open-ep-23.jpg
 audio:
-  mp3: 2020-04-29-david-lee-king-the-library-is-open-ep-23
+  mp3: 2020-04-29-david-lee-king-the-library-is-open-ep-23.mp3
 ---
 
 {% podigee_player page %}

@@ -21,7 +21,7 @@
 <atom:link rel="alternate" href="https://itunes.apple.com/us/podcast/the-library-is-open/id1176554216?mt=2" type="application/rss+xml" title="itunes"/>
     <description>A podcast for libraries interested in Koha and Open Source Software
 </description>
-    <lastBuildDate>Wed, 06 May 2020 12:58:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2020 13:01:20 +0000</lastBuildDate>
     <language>en</language>
     <generator>Jekyll-Octopod 0.9.4</generator>
 
@@ -53,12 +53,12 @@
         
           <item>
             <title>David Lee King - The Library is Open ep. 23 - </title>
-            <link>http://libraryisopen.com/2020/05/05/david-lee-king-the-library-is-open-ep-23.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://libraryisopen.com/players/david-lee-king-the-library-is-open-ep-23"/>
-            <comments>http://libraryisopen.com/2020/05/05/david-lee-king-the-library-is-open-ep-23.html#disqus_thread</comments>
+            <link>http://libraryisopen.com/2020/05/05/david-lee-king-ep-23.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="http://libraryisopen.com/players/david-lee-king-ep-23"/>
+            <comments>http://libraryisopen.com/2020/05/05/david-lee-king-ep-23.html#disqus_thread</comments>
             <pubDate>Tue, 05 May 2020 20:18:00 +0000</pubDate>
             
-            <guid isPermaLink="false">http://libraryisopen.com/2020/05/05/david-lee-king-the-library-is-open-ep-23.html</guid>
+            <guid isPermaLink="false">http://libraryisopen.com/2020/05/05/david-lee-king-ep-23.html</guid>
             <description><![CDATA[
 
 <p>We are happy to announce our newest session of The Library is Open Podcast! Today’s session features an interview with David Lee King. David is the Digital Services Director at Topeka &amp; Shawnee County Public Library. Listen as David and Jessie discuss digital experiences during the pandemic, emerging technologies and what they see the library digital experince being in 2030.</p>
@@ -76,7 +76,7 @@
 <p>David Lee King is the Digital Services Director at Topeka &amp; Shawnee County Public Library, where he plans, implements, and experiments with emerging technology trends. He speaks internationally about emerging trends, website management, digital experience, and social media, and has been published in many library-related journals. David is a Library Journal Mover and Shaker. His newest book is Face2Face: Using Facebook, Twitter, and Other Social Media Tools to Create Great Customer Connections. David blogs at http://www.davidleeking.com.</p>
 ]]></content:encoded>
             
-            <enclosure url="http://libraryisopen.com/episodes/2020-04-29-david-lee-king-the-library-is-open-ep-23.mp3" length="27914484" type="audio/mpeg" />
+            <enclosure url="http://libraryisopen.com/episodes/2020-04-29-david-lee-king-ep-23.mp3" length="27914484" type="audio/mpeg" />
             <itunes:keywords></itunes:keywords>
             <itunes:subtitle></itunes:subtitle>
             <itunes:summary></itunes:summary>

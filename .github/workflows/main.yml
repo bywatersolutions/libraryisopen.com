@@ -8,21 +8,16 @@ jobs:
     steps:
     - uses: actions/checkout@v1
 
-    - name: Add remote for pushing
-      run: git remote add github https://${GITHUB_ACTOR}:${INPUT_GITHUB_TOKEN}@github.com/bywatersolutions/libraryisopen.com.git
-      env:
-        INPUT_GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+    - name: Configure git
+      run: |
+        git config --local user.name 'Kyle M Hall'
+        git config --local user.email 'kyle@bywatersolutions.com'
 
     - name: Install bundler
       run: sudo gem install bundler:1.16.1
 
     - name: Install bundle
       run: sudo bundle install
-
-    - name: Configure git
-      run: |
-        git config --global user.name 'Kyle M Hall'
-        git config --global user.email 'kyle@bywatersolutions.com'
 
     - name: Build
       run: octopod build -d ./docs
@@ -37,4 +32,6 @@ jobs:
       run: git commit --allow-empty -m 'Site auto-updated [ci skip]'
 
     - name: Push to master
-      run: git push github HEAD:master
+      run: git push https://${GITHUB_ACTOR}:${INPUT_GITHUB_TOKEN}@github.com/bywatersolutions/libraryisopen.com.git HEAD:master
+      env:
+        INPUT_GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}

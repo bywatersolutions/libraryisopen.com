@@ -5,9 +5,9 @@ published: true
 explicit: 'no'
 title: Nancy Pearl - The Library is Open ep. 21
 duration: '0:27:14'
-episode_cover: /img/2020-03-09-nancy-pearl-the-library-is-open-ep-21.png
+episode_cover: /img/2020-03-09-nancy-pearl.png
 audio:
-  mp3: 2020-03-09-nancy-pearl-the-library-is-open-ep-21.mp3
+  mp3: 2020-03-09-nancy-pearl.mp3
 ---
 
 {% podigee_player page %}

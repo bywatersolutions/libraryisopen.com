@@ -5,9 +5,9 @@ published: true
 explicit: 'no'
 title: Cheryl Gould - The Library is Open ep. 22
 duration: '0:23:48'
-episode_cover: /img/2020-04-24-cheryl-gould-ep-22.jpg
+episode_cover: /img/2020-04-24-cheryl-gould.jpg
 audio:
-  mp3: 2020-04-24-cheryl-gould-ep-22.mp3
+  mp3: 2020-04-24-cheryl-gould.mp3
 ---
 
 {% podigee_player page %}

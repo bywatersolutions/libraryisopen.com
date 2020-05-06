@@ -21,7 +21,7 @@
 <atom:link rel="alternate" href="https://itunes.apple.com/us/podcast/the-library-is-open/id1176554216?mt=2" type="application/rss+xml" title="itunes"/>
     <description>A podcast for libraries interested in Koha and Open Source Software
 </description>
-    <lastBuildDate>Wed, 06 May 2020 13:01:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2020 15:34:21 +0000</lastBuildDate>
     <language>en</language>
     <generator>Jekyll-Octopod 0.9.4</generator>
 
@@ -53,15 +53,15 @@
         
           <item>
             <title>David Lee King - The Library is Open ep. 23 - </title>
-            <link>http://libraryisopen.com/2020/05/05/david-lee-king-ep-23.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://libraryisopen.com/players/david-lee-king-ep-23"/>
-            <comments>http://libraryisopen.com/2020/05/05/david-lee-king-ep-23.html#disqus_thread</comments>
+            <link>http://libraryisopen.com/2020/05/05/david-lee-king.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="http://libraryisopen.com/players/david-lee-king"/>
+            <comments>http://libraryisopen.com/2020/05/05/david-lee-king.html#disqus_thread</comments>
             <pubDate>Tue, 05 May 2020 20:18:00 +0000</pubDate>
             
-            <guid isPermaLink="false">http://libraryisopen.com/2020/05/05/david-lee-king-ep-23.html</guid>
+            <guid isPermaLink="false">http://libraryisopen.com/2020/05/05/david-lee-king.html</guid>
             <description><![CDATA[
 
-<p>We are happy to announce our newest session of The Library is Open Podcast! Today’s session features an interview with David Lee King. David is the Digital Services Director at Topeka &amp; Shawnee County Public Library. Listen as David and Jessie discuss digital experiences during the pandemic, emerging technologies and what they see the library digital experince being in 2030.</p>
+<p>We are pleased to announce our newest session of The Library is Open Podcast! Today’s session features an interview with David Lee King. David is the Digital Services Director at Topeka &amp; Shawnee County Public Library. Listen as David and Jessie discuss digital experiences during the pandemic, emerging technologies and what they see the library digital experince being in 2030.</p>
 
 <h2 id="about-david-lee-king">About David Lee King</h2>
 
@@ -69,14 +69,14 @@
 ]]></description>
             <content:encoded><![CDATA[
 
-<p>We are happy to announce our newest session of The Library is Open Podcast! Today’s session features an interview with David Lee King. David is the Digital Services Director at Topeka &amp; Shawnee County Public Library. Listen as David and Jessie discuss digital experiences during the pandemic, emerging technologies and what they see the library digital experince being in 2030.</p>
+<p>We are pleased to announce our newest session of The Library is Open Podcast! Today’s session features an interview with David Lee King. David is the Digital Services Director at Topeka &amp; Shawnee County Public Library. Listen as David and Jessie discuss digital experiences during the pandemic, emerging technologies and what they see the library digital experince being in 2030.</p>
 
 <h2 id="about-david-lee-king">About David Lee King</h2>
 
 <p>David Lee King is the Digital Services Director at Topeka &amp; Shawnee County Public Library, where he plans, implements, and experiments with emerging technology trends. He speaks internationally about emerging trends, website management, digital experience, and social media, and has been published in many library-related journals. David is a Library Journal Mover and Shaker. His newest book is Face2Face: Using Facebook, Twitter, and Other Social Media Tools to Create Great Customer Connections. David blogs at http://www.davidleeking.com.</p>
 ]]></content:encoded>
             
-            <enclosure url="http://libraryisopen.com/episodes/2020-04-29-david-lee-king-ep-23.mp3" length="27914484" type="audio/mpeg" />
+            <enclosure url="http://libraryisopen.com/episodes/2020-04-29-david-lee-king.mp3" length="27914484" type="audio/mpeg" />
             <itunes:keywords></itunes:keywords>
             <itunes:subtitle></itunes:subtitle>
             <itunes:summary></itunes:summary>
@@ -96,12 +96,12 @@
         
           <item>
             <title>Cheryl Gould - The Library is Open ep. 22 - </title>
-            <link>http://libraryisopen.com/2020/04/24/cheryl-gould-the-library-is-open-ep-22.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://libraryisopen.com/players/cheryl-gould-the-library-is-open-ep-22"/>
-            <comments>http://libraryisopen.com/2020/04/24/cheryl-gould-the-library-is-open-ep-22.html#disqus_thread</comments>
+            <link>http://libraryisopen.com/2020/04/24/cheryl-gould.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="http://libraryisopen.com/players/cheryl-gould"/>
+            <comments>http://libraryisopen.com/2020/04/24/cheryl-gould.html#disqus_thread</comments>
             <pubDate>Fri, 24 Apr 2020 11:54:00 +0000</pubDate>
             
-            <guid isPermaLink="false">http://libraryisopen.com/2020/04/24/cheryl-gould-the-library-is-open-ep-22.html</guid>
+            <guid isPermaLink="false">http://libraryisopen.com/2020/04/24/cheryl-gould.html</guid>
             <description><![CDATA[
 
 <p>We are happy to announce our newest session of The Library is Open Podcast! Today’s session features an interview with Cheryl Gould, learning facilitator and training consultant with Fully Engaged Libraries. Listen as Jessie, Nate and Cheryl discuss change management, communication methods, invigorating organizational culture and preparing for the unexpected.</p>
@@ -123,7 +123,7 @@
 <p>You can read more about Cheryl through her website, <a href="http://www.fullyengagedlibraries.com/" title="FEL">Fully Engaged Libraries</a></p>
 ]]></content:encoded>
             
-            <enclosure url="http://libraryisopen.com/episodes/2020-04-24-cheryl-gould-ep-22.mp3" length="28555002" type="audio/mpeg" />
+            <enclosure url="http://libraryisopen.com/episodes/2020-04-24-cheryl-gould.mp3" length="28555002" type="audio/mpeg" />
             <itunes:keywords></itunes:keywords>
             <itunes:subtitle></itunes:subtitle>
             <itunes:summary></itunes:summary>
@@ -143,12 +143,12 @@
         
           <item>
             <title>Nancy Pearl - The Library is Open ep. 21 - </title>
-            <link>http://libraryisopen.com/2020/03/09/nancy-pearl-the-library-is-open-ep-21.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://libraryisopen.com/players/nancy-pearl-the-library-is-open-ep-21"/>
-            <comments>http://libraryisopen.com/2020/03/09/nancy-pearl-the-library-is-open-ep-21.html#disqus_thread</comments>
+            <link>http://libraryisopen.com/2020/03/09/nancy-pearl.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="http://libraryisopen.com/players/nancy-pearl"/>
+            <comments>http://libraryisopen.com/2020/03/09/nancy-pearl.html#disqus_thread</comments>
             <pubDate>Mon, 09 Mar 2020 15:57:00 +0000</pubDate>
             
-            <guid isPermaLink="false">http://libraryisopen.com/2020/03/09/nancy-pearl-the-library-is-open-ep-21.html</guid>
+            <guid isPermaLink="false">http://libraryisopen.com/2020/03/09/nancy-pearl.html</guid>
             <description><![CDATA[
 
 <p>We are happy to announce our newest session of The Library is Open Podcast! Today’s session features an interview with Nancy Pearl, a best-selling author, librarian, literary critic and READING ENTHUSIAST. Listen as Jessie and Nancy discuss the different facets of reading, why libraries matter, and of course her love of books.</p>
@@ -170,7 +170,7 @@
 <p>Read more about Nancy Pearl at <a href="https://www.nancypearl.com/about-nancy" title="Nancy Pearl">About Nancy</a></p>
 ]]></content:encoded>
             
-            <enclosure url="http://libraryisopen.com/episodes/2020-03-09-nancy-pearl-the-library-is-open-ep-21.mp3" length="32683399" type="audio/mpeg" />
+            <enclosure url="http://libraryisopen.com/episodes/2020-03-09-nancy-pearl.mp3" length="32683399" type="audio/mpeg" />
             <itunes:keywords></itunes:keywords>
             <itunes:subtitle></itunes:subtitle>
             <itunes:summary></itunes:summary>
@@ -190,12 +190,12 @@
         
           <item>
             <title>Marshall Breeding - The Library is Open ep. 20 - </title>
-            <link>http://libraryisopen.com/2020/02/10/marshall-breeding-the-library-is-open-ep-20.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://libraryisopen.com/players/marshall-breeding-the-library-is-open-ep-20"/>
-            <comments>http://libraryisopen.com/2020/02/10/marshall-breeding-the-library-is-open-ep-20.html#disqus_thread</comments>
+            <link>http://libraryisopen.com/2020/02/10/marshall-breeding.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="http://libraryisopen.com/players/marshall-breeding"/>
+            <comments>http://libraryisopen.com/2020/02/10/marshall-breeding.html#disqus_thread</comments>
             <pubDate>Mon, 10 Feb 2020 15:24:00 +0000</pubDate>
             
-            <guid isPermaLink="false">http://libraryisopen.com/2020/02/10/marshall-breeding-the-library-is-open-ep-20.html</guid>
+            <guid isPermaLink="false">http://libraryisopen.com/2020/02/10/marshall-breeding.html</guid>
             <description><![CDATA[
 
 <p>We are happy to announce our newest session of The Library is Open Podcast! Today’s session features an interview with Marshall Breeding, an independent consultant, speaker, and the author of Library Technology Guides. Listen as Jessie and Marshall discuss the current ILS landscape and the Open Source Community.</p>

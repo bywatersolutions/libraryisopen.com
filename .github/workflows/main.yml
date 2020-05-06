@@ -32,7 +32,9 @@ jobs:
       run: git commit --allow-empty -m 'Site auto-updated [ci skip]'
 
     - name: Add remote for pushing
-      run: git remote add github https://${{ secrets.GH_TOKEN }}@github.com/bywatersolutions/libraryisopen.com.git
+      run: git remote add github https://$GH_TOKEN@github.com/bywatersolutions/libraryisopen.com.git
+      env:
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
     - name: Push to master
       run: git push github HEAD:master

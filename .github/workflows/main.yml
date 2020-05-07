@@ -2,8 +2,8 @@ name: CI
 on: [push]
 jobs:
   build:
-    name: Build & deploy
-    if: "! contains(toJSON(github.event.commits.*.message), '[ci skip]')"
+    name: Build
+    if: "! contains(toJSON(github.event.commits.*.message), 'Site auto-updated')"
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v1
@@ -29,9 +29,29 @@ jobs:
       run: git status
 
     - name: Commit to repo
-      run: git commit --allow-empty -m 'Site auto-updated [ci skip]'
+      run: git commit --allow-empty -m 'Site auto-updated'
 
     - name: Push changes
       uses: bywatersolutions/github-action-push@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
+
+  publish:
+    name: Publish
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        ref: master
+
+    - name: Show last commit
+      run: git show HEAD
+
+    - name: Publish to Registry
+      uses: bywatersolutions/github-action-publish-docker@master
+      with:
+        name: bywatersolutions/libraryisopen.com
+        username: ${{ secrets.QUAY_USERNAME }}
+        password: ${{ secrets.QUAY_PASSWORD }}
+        registry: quay.io

@@ -4,7 +4,7 @@
   <title>The Library is Open</title>
   <link href="http://libraryisopen.com/general_feed.xml" rel="self"/>
   <link href="http://libraryisopen.com"/>
-  <updated>2020-06-11T20:39:45+00:00</updated>
+  <updated>2020-06-12T13:55:55+00:00</updated>
   <id>http://libraryisopen.com/</id>
   <author>
     <name>ByWater Solutions</name>
@@ -14,10 +14,17 @@
   
     <entry>
       <title>The DoSpace Team - The Library is Open ep. 24</title>
-      <link href="http://libraryisopen.com/2020/06/11/the-dospace-team-the-library-is-open-ep-24.html"/>
+      <link href="http://libraryisopen.com/2020/06/11/the-dospace-team.html"/>
       <updated>2020-06-11T20:27:00+00:00</updated>
-      <id>http://libraryisopen.com/2020/06/11/the-dospace-team-the-library-is-open-ep-24</id>
-      <content type="html">&lt;p&gt;We are pleased to announce our newest session of The Library is Open Podcast! Today’s session features an interview with Michael Sauers,Director of Technology and Allison Sillik,
+      <id>http://libraryisopen.com/2020/06/11/the-dospace-team</id>
+      <content type="html">&lt;script&gt;
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://libraryisopen.com/episodes/2020-06-11-the-dospace-team.mp3&quot;},&quot;coverUrl&quot;:&quot;http://libraryisopen.com/img/2020-06-11-the-dospace-team.png&quot;,&quot;title&quot;:&quot;The DoSpace Team - The Library is Open ep. 24&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;http://libraryisopen.com/2020/06/11/the-dospace-team.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+&lt;/script&gt;
+
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;http://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;/script&gt;
+
+&lt;p&gt;We are pleased to announce our newest session of The Library is Open Podcast! Today’s session features an interview with Michael Sauers,Director of Technology and Allison Sillik,
 Director of Community Learning. Listen as Michael, Allison and Jessie discuss their digital presence in the community and how they are spreading the technology learning experience to their community.&lt;/p&gt;
 
 &lt;h2 id=&quot;about-do-space&quot;&gt;About Do Space&lt;/h2&gt;
@@ -25,6 +32,8 @@ Director of Community Learning. Listen as Michael, Allison and Jessie discuss th
 &lt;p&gt;The future belongs to those who understand technology, and the only way to ensure we’ll be part of this future is to dramatically change technology access and education in Omaha. Do Space is a one-of-a-kind concept: It’s a community technology library, a digital workshop, and an innovation playground filled with new opportunities to learn, grow, explore and create. Explore more at https://dospace.org/about/.&lt;/p&gt;
 
 </content>
+      
+        <link rel="enclosure" type="audio/mpeg" length="36019235" href="http://libraryisopen.com/episodes/2020-06-11-the-dospace-team.mp3"/>
       
       
     </entry>

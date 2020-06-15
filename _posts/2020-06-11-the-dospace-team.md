@@ -8,8 +8,7 @@ title: Untitled
 
 {% podigee_player page %}
 
-We are pleased to announce our newest session of The Library is Open Podcast! Today’s session features an interview with Michael Sauers, Director of Technology and Allison Sillik, 
-Director of Community Learning at Do Space Library in Omaha, Nebraska. Listen as Michael, Allison and Jessie discuss their digital presence in the community and how they are spreading the technology learning experience to their community. 
+We are pleased to announce our newest session of The Library is Open Podcast! This session features an interview with Michael Sauers, Director of Technology and Allison Sillik, Director of Community Learning at Do Space, a community technology library in Omaha, Nebraska. Listen as Michael, Allison and Jessie discuss their digital presence and how they are spreading the technology learning experience to their community.
 
 ## About Do Space
 

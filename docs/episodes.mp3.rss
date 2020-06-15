@@ -21,7 +21,7 @@
 <atom:link rel="alternate" href="https://itunes.apple.com/us/podcast/the-library-is-open/id1176554216?mt=2" type="application/rss+xml" title="itunes"/>
     <description>A podcast for libraries interested in Koha and Open Source Software
 </description>
-    <lastBuildDate>Fri, 12 Jun 2020 13:55:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2020 14:36:05 +0000</lastBuildDate>
     <language>en</language>
     <generator>Jekyll-Octopod 0.9.4</generator>
 
@@ -48,51 +48,6 @@
     
     
     
-      
-        
-        
-          <item>
-            <title>The DoSpace Team - The Library is Open ep. 24 - </title>
-            <link>http://libraryisopen.com/2020/06/11/the-dospace-team.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://libraryisopen.com/players/the-dospace-team"/>
-            <comments>http://libraryisopen.com/2020/06/11/the-dospace-team.html#disqus_thread</comments>
-            <pubDate>Thu, 11 Jun 2020 20:27:00 +0000</pubDate>
-            
-            <guid isPermaLink="false">http://libraryisopen.com/2020/06/11/the-dospace-team.html</guid>
-            <description><![CDATA[
-
-<p>We are pleased to announce our newest session of The Library is Open Podcast! Today’s session features an interview with Michael Sauers,Director of Technology and Allison Sillik,
-Director of Community Learning. Listen as Michael, Allison and Jessie discuss their digital presence in the community and how they are spreading the technology learning experience to their community.</p>
-
-<h2 id="about-do-space">About Do Space</h2>
-
-<p>The future belongs to those who understand technology, and the only way to ensure we’ll be part of this future is to dramatically change technology access and education in Omaha. Do Space is a one-of-a-kind concept: It’s a community technology library, a digital workshop, and an innovation playground filled with new opportunities to learn, grow, explore and create. Explore more at https://dospace.org/about/.</p>
-
-]]></description>
-            <content:encoded><![CDATA[
-
-<p>We are pleased to announce our newest session of The Library is Open Podcast! Today’s session features an interview with Michael Sauers,Director of Technology and Allison Sillik,
-Director of Community Learning. Listen as Michael, Allison and Jessie discuss their digital presence in the community and how they are spreading the technology learning experience to their community.</p>
-
-<h2 id="about-do-space">About Do Space</h2>
-
-<p>The future belongs to those who understand technology, and the only way to ensure we’ll be part of this future is to dramatically change technology access and education in Omaha. Do Space is a one-of-a-kind concept: It’s a community technology library, a digital workshop, and an innovation playground filled with new opportunities to learn, grow, explore and create. Explore more at https://dospace.org/about/.</p>
-
-]]></content:encoded>
-            
-            <enclosure url="http://libraryisopen.com/episodes/2020-06-11-the-dospace-team.mp3" length="36019235" type="audio/mpeg" />
-            <itunes:keywords></itunes:keywords>
-            <itunes:subtitle></itunes:subtitle>
-            <itunes:summary></itunes:summary>
-            <itunes:author>ByWater Solutions</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>0:30:00</itunes:duration>
-            
-            
-            
-            
-          </item>
-        
       
     
       

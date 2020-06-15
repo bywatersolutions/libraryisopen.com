@@ -3,7 +3,11 @@ layout: post
 date: '2020-06-15 10:33 -0400'
 published: true
 explicit: 'no'
-title: The Do Space Team- The Library is Open ep. 24
+title: The Do Space Team - The Library is Open ep. 24
+duration: '0:30:00'
+episode_cover: /img/2020-06-11-the-dospace-team.png
+audio:
+  mp3: 2020-06-11-the-dospace-team.mp3
 ---
 
 {% podigee_player page %}

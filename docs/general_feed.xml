@@ -4,7 +4,7 @@
   <title>The Library is Open</title>
   <link href="http://libraryisopen.com/general_feed.xml" rel="self"/>
   <link href="http://libraryisopen.com"/>
-  <updated>2020-11-12T14:27:57+00:00</updated>
+  <updated>2020-11-12T14:41:11+00:00</updated>
   <id>http://libraryisopen.com/</id>
   <author>
     <name>ByWater Solutions</name>
@@ -17,7 +17,14 @@
       <link href="http://libraryisopen.com/2020/11/10/jessamyn-west-the-library-is-open-ep-25.html"/>
       <updated>2020-11-10T15:06:00+00:00</updated>
       <id>http://libraryisopen.com/2020/11/10/jessamyn-west-the-library-is-open-ep-25</id>
-      <content type="html">&lt;p&gt;We are pleased to announce our newest session of The Library is Open Podcast! This session features an interview with Jessamyn West, a librarian and community technologist living in central Vermont. Jessamyn returns to the Library is Open Podcast to chat about how librarians are adapting during the pandemic, tools she uses to help with technology needs in her community, what skills librarians need to adapt to the environment we are currently living in, and finding your personal center.&lt;/p&gt;
+      <content type="html">&lt;script&gt;
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://libraryisopen.com/episodes/2020-11-12-jessamyn-lio.mp3&quot;},&quot;coverUrl&quot;:&quot;http://libraryisopen.com/img/2020-11-12-jessamyn-lio.jpg&quot;,&quot;title&quot;:&quot;Jessamyn West - The Library is Open ep. 25&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;http://libraryisopen.com/2020/11/10/jessamyn-west-the-library-is-open-ep-25.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+&lt;/script&gt;
+
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;http://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;/script&gt;
+
+&lt;p&gt;We are pleased to announce our newest session of The Library is Open Podcast! This session features an interview with Jessamyn West, a librarian and community technologist living in central Vermont. Jessamyn returns to the Library is Open Podcast to chat about how librarians are adapting during the pandemic, tools she uses to help with technology needs in her community, what skills librarians need to adapt to the environment we are currently living in, and finding your personal center.&lt;/p&gt;
 
 &lt;p&gt;What’s Jessamyn Reading&lt;/p&gt;
 

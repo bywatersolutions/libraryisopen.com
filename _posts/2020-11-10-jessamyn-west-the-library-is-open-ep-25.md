@@ -10,6 +10,8 @@ audio:
   mp3: 2020-11-12-jessamyn-lio.mp3
 ---
 
+{% podigee_player page %}
+
 We are pleased to announce our newest session of The Library is Open Podcast! This session features an interview with Jessamyn West, a librarian and community technologist living in central Vermont. Jessamyn returns to the Library is Open Podcast to chat about how librarians are adapting during the pandemic, tools she uses to help with technology needs in her community, what skills librarians need to adapt to the environment we are currently living in, and finding your personal center.
 
 What's Jessamyn Reading 

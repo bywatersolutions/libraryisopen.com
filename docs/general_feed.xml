@@ -4,7 +4,7 @@
   <title>The Library is Open</title>
   <link href="http://libraryisopen.com/general_feed.xml" rel="self"/>
   <link href="http://libraryisopen.com"/>
-  <updated>2020-11-10T19:29:31+00:00</updated>
+  <updated>2020-11-12T14:27:57+00:00</updated>
   <id>http://libraryisopen.com/</id>
   <author>
     <name>ByWater Solutions</name>
@@ -38,6 +38,8 @@
 &lt;p&gt;Read more about Jessamyn on her &lt;a href=&quot;http://jessamyn.info/&quot; title=&quot;Website&quot;&gt;website&lt;/a&gt;!&lt;/p&gt;
 
 </content>
+      
+        <link rel="enclosure" type="audio/mpeg" length="43803723" href="http://libraryisopen.com/episodes/2020-11-12-jessamyn-lio.mp3"/>
       
       
     </entry>

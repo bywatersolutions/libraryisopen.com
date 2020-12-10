@@ -3,7 +3,11 @@ layout: post
 date: '2020-12-10 08:48 -0500'
 published: true
 explicit: 'no'
-title: R. David Lankes The Library is Open ep. 26
+title: R. David Lankes - The Library is Open ep. 26
+duration: '0:35:15'
+episode_cover: /img/2020-12-10-r-david-lankes.jpg
+audio:
+  mp3: 2020-12-10-r-david-lankes.mp3
 ---
 We are pleased to announce our newest session of The Library is Open Podcast! This session features an interview with R. David Lankes, he is the director of the University of South Carolina’s School of Information Science, and recipient of the American Library Association’s 2016 Ken Haycock Award for Promoting Librarianship.
 

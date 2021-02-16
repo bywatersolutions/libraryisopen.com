@@ -15,4 +15,4 @@ Follow JP on [Twiiter](https://twitter.com/makeithappenday)
 ## About the Bayonne Public Library 
 The Bayonne Public Library is the free public library of Bayonne, New Jersey. Incorporated in 1890, it serves a population of approximately 62,000. Read more at [Bayonne Public Library](https://www.bayonnelibrary.org/ "Read More")
 
-
+The [New Jersey Library Construction Bond Act](https://www.njstatelib.org/services_for_libraries/new-jersey-library-construction-bond-act/)passed both the Assembly and the Senate unanimously on November 16, 2020. It was then signed by the Governor on November 20, 2020.

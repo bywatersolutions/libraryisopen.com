@@ -21,7 +21,7 @@
 <atom:link rel="alternate" href="https://itunes.apple.com/us/podcast/the-library-is-open/id1176554216?mt=2" type="application/rss+xml" title="itunes"/>
     <description>A podcast for libraries interested in Koha and Open Source Software
 </description>
-    <lastBuildDate>Tue, 16 Feb 2021 14:25:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Feb 2021 14:57:40 +0000</lastBuildDate>
     <language>en</language>
     <generator>Jekyll-Octopod 0.9.4</generator>
 
@@ -48,6 +48,59 @@
     
     
     
+      
+        
+        
+          <item>
+            <title>JP Porcaro - The Library is Open ep. 27 - </title>
+            <link>http://libraryisopen.com/2021/02/11/jp-porcaro.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="http://libraryisopen.com/players/jp-porcaro"/>
+            <comments>http://libraryisopen.com/2021/02/11/jp-porcaro.html#disqus_thread</comments>
+            <pubDate>Thu, 11 Feb 2021 14:09:00 +0000</pubDate>
+            
+            <guid isPermaLink="false">http://libraryisopen.com/2021/02/11/jp-porcaro.html</guid>
+            <description><![CDATA[<p>We are pleased to announce our newest session of The Library is Open Podcast! This session features an interview with JP Porcaro, Director, Free Public Library &amp; Cultural Center of Bayonne. JP and Jessie talk about everything libraries, lifelong learning, communities, and just why libraries are the cornerstone of a child’s learning process.</p>
+
+
+
+<h2 id="about-jp-porcaro">About JP Porcaro</h2>
+<p>JP was an American Library Association Presidential Candidate in 2016-2017 and serves as an EveryLibrary Senior Advisor.</p>
+
+<p>Follow JP on <a href="https://twitter.com/makeithappenday">Twiiter</a></p>
+
+<h2 id="about-the-bayonne-public-library">About the Bayonne Public Library</h2>
+<p>The Bayonne Public Library is the free public library of Bayonne, New Jersey. Incorporated in 1890, it serves a population of approximately 62,000. Read more at <a href="https://www.bayonnelibrary.org/" title="Read More">Bayonne Public Library</a></p>
+
+<p>The <a href="https://www.njstatelib.org/services_for_libraries/new-jersey-library-construction-bond-act/">New Jersey Library Construction Bond Act</a>passed both the Assembly and the Senate unanimously on November 16, 2020. It was then signed by the Governor on November 20, 2020.</p>
+]]></description>
+            <content:encoded><![CDATA[<p>We are pleased to announce our newest session of The Library is Open Podcast! This session features an interview with JP Porcaro, Director, Free Public Library &amp; Cultural Center of Bayonne. JP and Jessie talk about everything libraries, lifelong learning, communities, and just why libraries are the cornerstone of a child’s learning process.</p>
+
+
+
+<h2 id="about-jp-porcaro">About JP Porcaro</h2>
+<p>JP was an American Library Association Presidential Candidate in 2016-2017 and serves as an EveryLibrary Senior Advisor.</p>
+
+<p>Follow JP on <a href="https://twitter.com/makeithappenday">Twiiter</a></p>
+
+<h2 id="about-the-bayonne-public-library">About the Bayonne Public Library</h2>
+<p>The Bayonne Public Library is the free public library of Bayonne, New Jersey. Incorporated in 1890, it serves a population of approximately 62,000. Read more at <a href="https://www.bayonnelibrary.org/" title="Read More">Bayonne Public Library</a></p>
+
+<p>The <a href="https://www.njstatelib.org/services_for_libraries/new-jersey-library-construction-bond-act/">New Jersey Library Construction Bond Act</a>passed both the Assembly and the Senate unanimously on November 16, 2020. It was then signed by the Governor on November 20, 2020.</p>
+]]></content:encoded>
+            
+            <enclosure url="http://libraryisopen.com/episodes/2021-02-11-jp-porcaro.mp3" length="61747749" type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>ByWater Solutions</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>0:51:27</itunes:duration>
+            
+            
+            
+            
+          </item>
+        
       
     
       
@@ -99,8 +152,6 @@
             
           </item>
         
-      
-    
       
     
       

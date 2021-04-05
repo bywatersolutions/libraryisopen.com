@@ -1,8 +1,8 @@
 # You have to configure this ###################################################
 title: The Library is Open
 # You should configure this ####################################################
-url: http://libraryisopen.com
-download_url: "http://libraryisopen.com/episodes"
+url: https://libraryisopen.com
+download_url: "https://libraryisopen.com/episodes"
 subtitle: Libraries, Koha, and Open Source
 description: A podcast for libraries interested in Koha and Open Source Software
 author: ByWater Solutions

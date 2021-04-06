@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title>The Library is Open</title>
-  <link href="http://libraryisopen.com/general_feed.xml" rel="self"/>
-  <link href="http://libraryisopen.com"/>
-  <updated>2021-02-16T14:57:40+00:00</updated>
-  <id>http://libraryisopen.com/</id>
+  <link href="https://libraryisopen.com/general_feed.xml" rel="self"/>
+  <link href="https://libraryisopen.com"/>
+  <updated>2021-04-06T13:43:15+00:00</updated>
+  <id>https://libraryisopen.com/</id>
   <author>
     <name>ByWater Solutions</name>
     <email>info@libraryisopen.com</email>
@@ -14,16 +14,16 @@
   
     <entry>
       <title>JP Porcaro - The Library is Open ep. 27</title>
-      <link href="http://libraryisopen.com/2021/02/11/jp-porcaro.html"/>
+      <link href="https://libraryisopen.com/2021/02/11/jp-porcaro.html"/>
       <updated>2021-02-11T14:09:00+00:00</updated>
-      <id>http://libraryisopen.com/2021/02/11/jp-porcaro</id>
+      <id>https://libraryisopen.com/2021/02/11/jp-porcaro</id>
       <content type="html">&lt;p&gt;We are pleased to announce our newest session of The Library is Open Podcast! This session features an interview with JP Porcaro, Director, Free Public Library &amp;amp; Cultural Center of Bayonne. JP and Jessie talk about everything libraries, lifelong learning, communities, and just why libraries are the cornerstone of a child’s learning process.&lt;/p&gt;
 
 &lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://libraryisopen.com/episodes/2021-02-11-jp-porcaro.mp3&quot;},&quot;coverUrl&quot;:&quot;http://libraryisopen.com/img/2021-02-11-jp-porcaro.jpg&quot;,&quot;title&quot;:&quot;JP Porcaro - The Library is Open ep. 27&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;http://libraryisopen.com/2021/02/11/jp-porcaro.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://libraryisopen.com/episodes/2021-02-11-jp-porcaro.mp3&quot;},&quot;coverUrl&quot;:&quot;https://libraryisopen.com/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;JP Porcaro - The Library is Open ep. 27&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;https://libraryisopen.com/2021/02/11/jp-porcaro.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
-&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;http://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://libraryisopen.com/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
 &lt;/script&gt;
 
 &lt;h2 id=&quot;about-jp-porcaro&quot;&gt;About JP Porcaro&lt;/h2&gt;
@@ -37,23 +37,23 @@
 &lt;p&gt;The &lt;a href=&quot;https://www.njstatelib.org/services_for_libraries/new-jersey-library-construction-bond-act/&quot;&gt;New Jersey Library Construction Bond Act&lt;/a&gt;passed both the Assembly and the Senate unanimously on November 16, 2020. It was then signed by the Governor on November 20, 2020.&lt;/p&gt;
 </content>
       
-        <link rel="enclosure" type="audio/mpeg" length="61747749" href="http://libraryisopen.com/episodes/2021-02-11-jp-porcaro.mp3"/>
+        <link rel="enclosure" type="audio/mpeg" length="61747749" href="https://libraryisopen.com/episodes/2021-02-11-jp-porcaro.mp3"/>
       
       
     </entry>
   
     <entry>
       <title>R. David Lankes - The Library is Open ep. 26</title>
-      <link href="http://libraryisopen.com/2020/12/10/r-david-lankes.html"/>
+      <link href="https://libraryisopen.com/2020/12/10/r-david-lankes.html"/>
       <updated>2020-12-10T13:48:00+00:00</updated>
-      <id>http://libraryisopen.com/2020/12/10/r-david-lankes</id>
+      <id>https://libraryisopen.com/2020/12/10/r-david-lankes</id>
       <content type="html">&lt;p&gt;We are pleased to announce our newest session of The Library is Open Podcast! This session features an interview with R. David Lankes, he is the director of the University of South Carolina’s School of Information Science, and recipient of the American Library Association’s 2016 Ken Haycock Award for Promoting Librarianship.&lt;/p&gt;
 
 &lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://libraryisopen.com/episodes/2020-12-10-r-david-lankes.mp3&quot;},&quot;coverUrl&quot;:&quot;http://libraryisopen.com/img/2020-12-10-r-david-lankes.jpg&quot;,&quot;title&quot;:&quot;R. David Lankes - The Library is Open ep. 26&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;http://libraryisopen.com/2020/12/10/r-david-lankes.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://libraryisopen.com/episodes/2020-12-10-r-david-lankes.mp3&quot;},&quot;coverUrl&quot;:&quot;https://libraryisopen.com/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;R. David Lankes - The Library is Open ep. 26&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;https://libraryisopen.com/2020/12/10/r-david-lankes.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
-&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;http://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://libraryisopen.com/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
 &lt;/script&gt;
 
 &lt;h2 id=&quot;about-r-david-lankes&quot;&gt;About R. David Lankes&lt;/h2&gt;
@@ -65,21 +65,21 @@
 &lt;p&gt;Read more about David on his &lt;a href=&quot;https://davidlankes.org/&quot; title=&quot;website&quot;&gt;website&lt;/a&gt;!&lt;/p&gt;
 </content>
       
-        <link rel="enclosure" type="audio/mpeg" length="42306388" href="http://libraryisopen.com/episodes/2020-12-10-r-david-lankes.mp3"/>
+        <link rel="enclosure" type="audio/mpeg" length="42306388" href="https://libraryisopen.com/episodes/2020-12-10-r-david-lankes.mp3"/>
       
       
     </entry>
   
     <entry>
       <title>Jessamyn West - The Library is Open ep. 25</title>
-      <link href="http://libraryisopen.com/2020/11/10/jessamyn-west.html"/>
+      <link href="https://libraryisopen.com/2020/11/10/jessamyn-west.html"/>
       <updated>2020-11-10T15:06:00+00:00</updated>
-      <id>http://libraryisopen.com/2020/11/10/jessamyn-west</id>
+      <id>https://libraryisopen.com/2020/11/10/jessamyn-west</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://libraryisopen.com/episodes/2020-11-12-jessamyn-lio.mp3&quot;},&quot;coverUrl&quot;:&quot;http://libraryisopen.com/img/2020-11-12-jessamyn-lio.jpg&quot;,&quot;title&quot;:&quot;Jessamyn West - The Library is Open ep. 25&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;http://libraryisopen.com/2020/11/10/jessamyn-west.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://libraryisopen.com/episodes/2020-11-12-jessamyn-lio.mp3&quot;},&quot;coverUrl&quot;:&quot;https://libraryisopen.com/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Jessamyn West - The Library is Open ep. 25&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;https://libraryisopen.com/2020/11/10/jessamyn-west.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
-&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;http://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://libraryisopen.com/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
 &lt;/script&gt;
 
 &lt;p&gt;We are pleased to announce our newest session of The Library is Open Podcast! This session features an interview with Jessamyn West, a librarian and community technologist living in central Vermont. Jessamyn returns to the Library is Open Podcast to chat about how librarians are adapting during the pandemic, tools she uses to help with technology needs in her community, what skills librarians need to adapt to the environment we are currently living in, and finding your personal center.&lt;/p&gt;
@@ -104,21 +104,21 @@
 
 </content>
       
-        <link rel="enclosure" type="audio/mpeg" length="43803723" href="http://libraryisopen.com/episodes/2020-11-12-jessamyn-lio.mp3"/>
+        <link rel="enclosure" type="audio/mpeg" length="43803723" href="https://libraryisopen.com/episodes/2020-11-12-jessamyn-lio.mp3"/>
       
       
     </entry>
   
     <entry>
       <title>The Do Space Team - The Library is Open ep. 24</title>
-      <link href="http://libraryisopen.com/2020/06/15/the-dospace-team.html"/>
+      <link href="https://libraryisopen.com/2020/06/15/the-dospace-team.html"/>
       <updated>2020-06-15T14:33:00+00:00</updated>
-      <id>http://libraryisopen.com/2020/06/15/the-dospace-team</id>
+      <id>https://libraryisopen.com/2020/06/15/the-dospace-team</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://libraryisopen.com/episodes/2020-06-11-the-dospace-team.mp3&quot;},&quot;coverUrl&quot;:&quot;http://libraryisopen.com/img/2020-06-11-the-dospace-team.png&quot;,&quot;title&quot;:&quot;The Do Space Team - The Library is Open ep. 24&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;http://libraryisopen.com/2020/06/15/the-dospace-team.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://libraryisopen.com/episodes/2020-06-11-the-dospace-team.mp3&quot;},&quot;coverUrl&quot;:&quot;https://libraryisopen.com/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;The Do Space Team - The Library is Open ep. 24&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;https://libraryisopen.com/2020/06/15/the-dospace-team.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
-&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;http://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://libraryisopen.com/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
 &lt;/script&gt;
 
 &lt;p&gt;We are pleased to announce our newest session of The Library is Open Podcast! This session features an interview with Michael Sauers, Director of Technology and Allison Sillik, Director of Community Learning at Do Space, a community technology library in Omaha, Nebraska. Listen as Michael, Allison and Jessie discuss their digital presence and how they are spreading the technology learning experience to their community.&lt;/p&gt;
@@ -128,21 +128,21 @@
 &lt;p&gt;The future belongs to those who understand technology, and the only way to ensure we’ll be part of this future is to dramatically change technology access and education in Omaha. Do Space is a one-of-a-kind concept: It’s a community technology library, a digital workshop, and an innovation playground filled with new opportunities to learn, grow, explore and create. Explore more at https://dospace.org/about/.&lt;/p&gt;
 </content>
       
-        <link rel="enclosure" type="audio/mpeg" length="36019235" href="http://libraryisopen.com/episodes/2020-06-11-the-dospace-team.mp3"/>
+        <link rel="enclosure" type="audio/mpeg" length="36019235" href="https://libraryisopen.com/episodes/2020-06-11-the-dospace-team.mp3"/>
       
       
     </entry>
   
     <entry>
       <title>David Lee King - The Library is Open ep. 23</title>
-      <link href="http://libraryisopen.com/2020/05/05/david-lee-king.html"/>
+      <link href="https://libraryisopen.com/2020/05/05/david-lee-king.html"/>
       <updated>2020-05-05T20:18:00+00:00</updated>
-      <id>http://libraryisopen.com/2020/05/05/david-lee-king</id>
+      <id>https://libraryisopen.com/2020/05/05/david-lee-king</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://libraryisopen.com/episodes/2020-04-29-david-lee-king.mp3&quot;},&quot;coverUrl&quot;:&quot;http://libraryisopen.com/img/2020-04-29-david-lee-king.jpg&quot;,&quot;title&quot;:&quot;David Lee King - The Library is Open ep. 23&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;http://libraryisopen.com/2020/05/05/david-lee-king.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://libraryisopen.com/episodes/2020-04-29-david-lee-king.mp3&quot;},&quot;coverUrl&quot;:&quot;https://libraryisopen.com/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;David Lee King - The Library is Open ep. 23&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;https://libraryisopen.com/2020/05/05/david-lee-king.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
-&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;http://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://libraryisopen.com/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
 &lt;/script&gt;
 
 &lt;p&gt;We are pleased to announce our newest session of The Library is Open Podcast! Today’s session features an interview with David Lee King. David is the Digital Services Director at Topeka &amp;amp; Shawnee County Public Library. Listen as David and Jessie discuss digital experiences during the pandemic, emerging technologies and what they see the library digital experience being in 2030.&lt;/p&gt;
@@ -152,21 +152,21 @@
 &lt;p&gt;David Lee King is the Digital Services Director at Topeka &amp;amp; Shawnee County Public Library, where he plans, implements, and experiments with emerging technology trends. He speaks internationally about emerging trends, website management, digital experience, and social media, and has been published in many library-related journals. David is a Library Journal Mover and Shaker. His newest book is Face2Face: Using Facebook, Twitter, and Other Social Media Tools to Create Great Customer Connections. David blogs at http://www.davidleeking.com.&lt;/p&gt;
 </content>
       
-        <link rel="enclosure" type="audio/mpeg" length="27914484" href="http://libraryisopen.com/episodes/2020-04-29-david-lee-king.mp3"/>
+        <link rel="enclosure" type="audio/mpeg" length="27914484" href="https://libraryisopen.com/episodes/2020-04-29-david-lee-king.mp3"/>
       
       
     </entry>
   
     <entry>
       <title>Cheryl Gould - The Library is Open ep. 22</title>
-      <link href="http://libraryisopen.com/2020/04/24/cheryl-gould.html"/>
+      <link href="https://libraryisopen.com/2020/04/24/cheryl-gould.html"/>
       <updated>2020-04-24T11:54:00+00:00</updated>
-      <id>http://libraryisopen.com/2020/04/24/cheryl-gould</id>
+      <id>https://libraryisopen.com/2020/04/24/cheryl-gould</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://libraryisopen.com/episodes/2020-04-24-cheryl-gould.mp3&quot;},&quot;coverUrl&quot;:&quot;http://libraryisopen.com/img/2020-04-24-cheryl-gould.jpg&quot;,&quot;title&quot;:&quot;Cheryl Gould - The Library is Open ep. 22&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;http://libraryisopen.com/2020/04/24/cheryl-gould.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://libraryisopen.com/episodes/2020-04-24-cheryl-gould.mp3&quot;},&quot;coverUrl&quot;:&quot;https://libraryisopen.com/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Cheryl Gould - The Library is Open ep. 22&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;https://libraryisopen.com/2020/04/24/cheryl-gould.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
-&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;http://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://libraryisopen.com/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
 &lt;/script&gt;
 
 &lt;p&gt;We are happy to announce our newest session of The Library is Open Podcast! Today’s session features an interview with Cheryl Gould, learning facilitator and training consultant with Fully Engaged Libraries. Listen as Jessie, Nate and Cheryl discuss change management, communication methods, invigorating organizational culture and preparing for the unexpected.&lt;/p&gt;
@@ -178,21 +178,21 @@
 &lt;p&gt;You can read more about Cheryl through her website, &lt;a href=&quot;http://www.fullyengagedlibraries.com/&quot; title=&quot;FEL&quot;&gt;Fully Engaged Libraries&lt;/a&gt;&lt;/p&gt;
 </content>
       
-        <link rel="enclosure" type="audio/mpeg" length="28555002" href="http://libraryisopen.com/episodes/2020-04-24-cheryl-gould.mp3"/>
+        <link rel="enclosure" type="audio/mpeg" length="28555002" href="https://libraryisopen.com/episodes/2020-04-24-cheryl-gould.mp3"/>
       
       
     </entry>
   
     <entry>
       <title>Nancy Pearl - The Library is Open ep. 21</title>
-      <link href="http://libraryisopen.com/2020/03/09/nancy-pearl.html"/>
+      <link href="https://libraryisopen.com/2020/03/09/nancy-pearl.html"/>
       <updated>2020-03-09T15:57:00+00:00</updated>
-      <id>http://libraryisopen.com/2020/03/09/nancy-pearl</id>
+      <id>https://libraryisopen.com/2020/03/09/nancy-pearl</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://libraryisopen.com/episodes/2020-03-09-nancy-pearl.mp3&quot;},&quot;coverUrl&quot;:&quot;http://libraryisopen.com/img/2020-03-09-nancy-pearl.png&quot;,&quot;title&quot;:&quot;Nancy Pearl - The Library is Open ep. 21&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;http://libraryisopen.com/2020/03/09/nancy-pearl.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://libraryisopen.com/episodes/2020-03-09-nancy-pearl.mp3&quot;},&quot;coverUrl&quot;:&quot;https://libraryisopen.com/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Nancy Pearl - The Library is Open ep. 21&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;https://libraryisopen.com/2020/03/09/nancy-pearl.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
-&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;http://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://libraryisopen.com/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
 &lt;/script&gt;
 
 &lt;p&gt;We are happy to announce our newest session of The Library is Open Podcast! Today’s session features an interview with Nancy Pearl, a best-selling author, librarian, literary critic and READING ENTHUSIAST. Listen as Jessie and Nancy discuss the different facets of reading, why libraries matter, and of course her love of books.&lt;/p&gt;
@@ -204,21 +204,21 @@
 &lt;p&gt;Read more about Nancy Pearl at &lt;a href=&quot;https://www.nancypearl.com/about-nancy&quot; title=&quot;Nancy Pearl&quot;&gt;About Nancy&lt;/a&gt;&lt;/p&gt;
 </content>
       
-        <link rel="enclosure" type="audio/mpeg" length="32683399" href="http://libraryisopen.com/episodes/2020-03-09-nancy-pearl.mp3"/>
+        <link rel="enclosure" type="audio/mpeg" length="32683399" href="https://libraryisopen.com/episodes/2020-03-09-nancy-pearl.mp3"/>
       
       
     </entry>
   
     <entry>
       <title>Marshall Breeding - The Library is Open ep. 20</title>
-      <link href="http://libraryisopen.com/2020/02/10/marshall-breeding.html"/>
+      <link href="https://libraryisopen.com/2020/02/10/marshall-breeding.html"/>
       <updated>2020-02-10T15:24:00+00:00</updated>
-      <id>http://libraryisopen.com/2020/02/10/marshall-breeding</id>
+      <id>https://libraryisopen.com/2020/02/10/marshall-breeding</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://libraryisopen.com/episodes/2020-02-10-marshall-breeding.mp3&quot;},&quot;coverUrl&quot;:&quot;http://libraryisopen.com/img/2020-02-10-marshall-breeding.jpg&quot;,&quot;title&quot;:&quot;Marshall Breeding - The Library is Open ep. 20&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;http://libraryisopen.com/2020/02/10/marshall-breeding.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://libraryisopen.com/episodes/2020-02-10-marshall-breeding.mp3&quot;},&quot;coverUrl&quot;:&quot;https://libraryisopen.com/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Marshall Breeding - The Library is Open ep. 20&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;https://libraryisopen.com/2020/02/10/marshall-breeding.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
-&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;http://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://libraryisopen.com/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
 &lt;/script&gt;
 
 &lt;p&gt;We are happy to announce our newest session of The Library is Open Podcast! Today’s session features an interview with Marshall Breeding, an independent consultant, speaker, and the author of Library Technology Guides. Listen as Jessie and Marshall discuss the current ILS landscape and the Open Source Community.&lt;/p&gt;
@@ -230,21 +230,21 @@
 &lt;p&gt;Read more about Marshall Breeding at &lt;a href=&quot;https://librarytechnology.org/&quot; title=&quot;Library Technology Guides&quot;&gt;Library Technology Guides&lt;/a&gt;&lt;/p&gt;
 </content>
       
-        <link rel="enclosure" type="audio/mpeg" length="34858347" href="http://libraryisopen.com/episodes/2020-02-10-marshall-breeding.mp3"/>
+        <link rel="enclosure" type="audio/mpeg" length="34858347" href="https://libraryisopen.com/episodes/2020-02-10-marshall-breeding.mp3"/>
       
       
     </entry>
   
     <entry>
       <title>WOLFcon20 - The Library is Open ep. 19</title>
-      <link href="http://libraryisopen.com/2020/01/29/1-24-2020-wolfcon20.html"/>
+      <link href="https://libraryisopen.com/2020/01/29/1-24-2020-wolfcon20.html"/>
       <updated>2020-01-29T14:28:00+00:00</updated>
-      <id>http://libraryisopen.com/2020/01/29/1-24-2020-wolfcon20</id>
+      <id>https://libraryisopen.com/2020/01/29/1-24-2020-wolfcon20</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://libraryisopen.com/episodes/2020-01-29-1-24-2020-wolfcon20.mp3&quot;},&quot;coverUrl&quot;:&quot;http://libraryisopen.com/img/2020-01-29-1-24-2020-wolfcon20.jpg&quot;,&quot;title&quot;:&quot;WOLFcon20 - The Library is Open ep. 19&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;http://libraryisopen.com/2020/01/29/1-24-2020-wolfcon20.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://libraryisopen.com/episodes/2020-01-29-1-24-2020-wolfcon20.mp3&quot;},&quot;coverUrl&quot;:&quot;https://libraryisopen.com/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;WOLFcon20 - The Library is Open ep. 19&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;https://libraryisopen.com/2020/01/29/1-24-2020-wolfcon20.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
-&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;http://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://libraryisopen.com/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
 &lt;/script&gt;
 
 &lt;p&gt;We are happy to announce our newest session of The Library is Open Podcast! Today’s session features a LIVE interview with Ian Walls, from WOLFcon20 at Texas A&amp;amp;M University. Ian Walls and host, Jessie Zairo, discuss the OLF Community, the current state of FOLIO and Ian’s role in the community.&lt;/p&gt;
@@ -274,21 +274,21 @@
 &lt;p&gt;For more information please visit: &lt;a href=&quot;https://bywatersolutions.com/&quot; title=&quot;ByWater Solutions&quot;&gt;ByWater Solutions&lt;/a&gt;&lt;/p&gt;
 </content>
       
-        <link rel="enclosure" type="audio/mpeg" length="10424977" href="http://libraryisopen.com/episodes/2020-01-29-1-24-2020-wolfcon20.mp3"/>
+        <link rel="enclosure" type="audio/mpeg" length="10424977" href="https://libraryisopen.com/episodes/2020-01-29-1-24-2020-wolfcon20.mp3"/>
       
       
     </entry>
   
     <entry>
       <title>Thomas More University - The Library is Open ep. 18</title>
-      <link href="http://libraryisopen.com/2019/11/18/tmu-lio.html"/>
+      <link href="https://libraryisopen.com/2019/11/18/tmu-lio.html"/>
       <updated>2019-11-18T14:12:00+00:00</updated>
-      <id>http://libraryisopen.com/2019/11/18/tmu-lio</id>
+      <id>https://libraryisopen.com/2019/11/18/tmu-lio</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://libraryisopen.com/episodes/2019-11-18-tmu-lio.mp3&quot;},&quot;coverUrl&quot;:&quot;http://libraryisopen.com/img/2019-11-18-tmu-lio.jpg&quot;,&quot;title&quot;:&quot;Thomas More University - The Library is Open ep. 18&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;http://libraryisopen.com/2019/11/18/tmu-lio.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://libraryisopen.com/episodes/2019-11-18-tmu-lio.mp3&quot;},&quot;coverUrl&quot;:&quot;https://libraryisopen.com/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Thomas More University - The Library is Open ep. 18&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;https://libraryisopen.com/2019/11/18/tmu-lio.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
-&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;http://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://libraryisopen.com/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
 &lt;/script&gt;
 
 &lt;p&gt;We are happy to announce our newest session of The Library is Open Podcast! Today’s session features an interview with Mike Wells, Library Director at Benedictine Library at Thomas More University and The Salus Data Consulting team which consists of Hrusto Selimovic, Jared Nelson, Corey Zamrik, Jash Patel, and Spencer White. The group talks to us about their involvement with a library website analytics project and how that grew into a consulting company.  Listen as the group discusses taking the project from start to finish and how the library helped them build their new venture.&lt;/p&gt;
@@ -314,21 +314,21 @@
 &lt;p&gt;Watch a quick video from Thomas More University: &lt;a href=&quot;https://www.youtube.com/watch?v=OWf7cUWciNo&quot;&gt;Thankful Thursday - Library Project&lt;/a&gt;&lt;/p&gt;
 </content>
       
-        <link rel="enclosure" type="audio/mpeg" length="30626517" href="http://libraryisopen.com/episodes/2019-11-18-tmu-lio.mp3"/>
+        <link rel="enclosure" type="audio/mpeg" length="30626517" href="https://libraryisopen.com/episodes/2019-11-18-tmu-lio.mp3"/>
       
       
     </entry>
   
     <entry>
       <title>Laura Wright - Cornell University - The Library is Open ep. 17</title>
-      <link href="http://libraryisopen.com/2019/09/27/2019-09-27-laura-wright-md.html"/>
+      <link href="https://libraryisopen.com/2019/09/27/2019-09-27-laura-wright-md.html"/>
       <updated>2019-09-27T14:14:00+00:00</updated>
-      <id>http://libraryisopen.com/2019/09/27/2019-09-27-laura-wright-md</id>
+      <id>https://libraryisopen.com/2019/09/27/2019-09-27-laura-wright-md</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://libraryisopen.com/episodes/2019-09-27-laura-wright.mp3&quot;},&quot;coverUrl&quot;:&quot;http://libraryisopen.com/img/2019-09-27-laura-wright.jpg&quot;,&quot;title&quot;:&quot;Laura Wright - Cornell University - The Library is Open ep. 17&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;http://libraryisopen.com/2019/09/27/2019-09-27-laura-wright-md.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://libraryisopen.com/episodes/2019-09-27-laura-wright.mp3&quot;},&quot;coverUrl&quot;:&quot;https://libraryisopen.com/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Laura Wright - Cornell University - The Library is Open ep. 17&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;https://libraryisopen.com/2019/09/27/2019-09-27-laura-wright-md.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
-&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;http://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://libraryisopen.com/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
 &lt;/script&gt;
 
 &lt;p&gt;We are happy to announce our newest session for The Library is Open Podcast! Today’s session features an interview with Laura Wright, Assistant Director, Metadata Production at Cornell University. Laura talks to us about why she is so passionate about the FOLIO Open Source Platform.&lt;/p&gt;
@@ -348,21 +348,21 @@
 &lt;p&gt;FOLIO is a collaboration of libraries, developers and vendors building an open source library services platform. It supports traditional resource management functionality and can be extended into other institutional areas. Read more at: &lt;a href=&quot;https://www.folio.org/about/&quot; title=&quot;FOLIO&quot;&gt;https://www.folio.org/about/&lt;/a&gt;&lt;/p&gt;
 </content>
       
-        <link rel="enclosure" type="audio/mpeg" length="28657404" href="http://libraryisopen.com/episodes/2019-09-27-laura-wright.mp3"/>
+        <link rel="enclosure" type="audio/mpeg" length="28657404" href="https://libraryisopen.com/episodes/2019-09-27-laura-wright.mp3"/>
       
       
     </entry>
   
     <entry>
       <title>SimplyE - Amigos - Christine - The Library is Open ep. 16</title>
-      <link href="http://libraryisopen.com/2019/08/30/simplye.html"/>
+      <link href="https://libraryisopen.com/2019/08/30/simplye.html"/>
       <updated>2019-08-30T09:20:00+00:00</updated>
-      <id>http://libraryisopen.com/2019/08/30/simplye</id>
+      <id>https://libraryisopen.com/2019/08/30/simplye</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://libraryisopen.com/episodes/2019-08-30-simplye.mp3&quot;},&quot;coverUrl&quot;:&quot;http://libraryisopen.com/img/2019-08-30-simplye.png&quot;,&quot;title&quot;:&quot;SimplyE - Amigos - Christine - The Library is Open ep. 16&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;http://libraryisopen.com/2019/08/30/simplye.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://libraryisopen.com/episodes/2019-08-30-simplye.mp3&quot;},&quot;coverUrl&quot;:&quot;https://libraryisopen.com/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;SimplyE - Amigos - Christine - The Library is Open ep. 16&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;https://libraryisopen.com/2019/08/30/simplye.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
-&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;http://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://libraryisopen.com/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
 &lt;/script&gt;
 
 &lt;p&gt;We are happy to announce our newest session for The Library is Open Podcast! Today’s session features an interview with Christine Peterson, Engagement and Emerging Technologies Coordinator at Amigos Library Services. Christine talks to us today about their involvement in the SimplyE project developed by the New York Public Library. SimplyE was developed as an open source project that allows libraries to provide a single platform for their ebook collections. Listen as Christine discusses hosting, marketing and their support of the SimplyE platform.&lt;/p&gt;
@@ -390,21 +390,21 @@
 &lt;p&gt;She is also known for her technology training throughout the Southwest, making complicated topics easy for librarians to understand. Prior to joining Amigos, she was the Manager for Continuing Education &amp;amp; Consulting at the Texas State Library &amp;amp; Archives Commission, guiding and supporting libraries statewide. She also worked for both San Antonio College and the Florida Institute of Technology as their systems librarian, converting their library catalogs to automated systems.&lt;/p&gt;
 </content>
       
-        <link rel="enclosure" type="audio/mpeg" length="15237775" href="http://libraryisopen.com/episodes/2019-08-30-simplye.mp3"/>
+        <link rel="enclosure" type="audio/mpeg" length="15237775" href="https://libraryisopen.com/episodes/2019-08-30-simplye.mp3"/>
       
       
     </entry>
   
     <entry>
       <title>FOLIO - Lisa - The Library is Open ep. 15</title>
-      <link href="http://libraryisopen.com/2019/07/23/folio-lisa-from-chalmers.html"/>
+      <link href="https://libraryisopen.com/2019/07/23/folio-lisa-from-chalmers.html"/>
       <updated>2019-07-23T14:39:00+00:00</updated>
-      <id>http://libraryisopen.com/2019/07/23/folio-lisa-from-chalmers</id>
+      <id>https://libraryisopen.com/2019/07/23/folio-lisa-from-chalmers</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://libraryisopen.com/episodes/2019-07-23-lisa-chalmers-folio.mp3&quot;},&quot;coverUrl&quot;:&quot;http://libraryisopen.com/img/2019-07-23-folio-lisa-from-chalmers.png&quot;,&quot;title&quot;:&quot;FOLIO - Lisa - The Library is Open ep. 15&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;http://libraryisopen.com/2019/07/23/folio-lisa-from-chalmers.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://libraryisopen.com/episodes/2019-07-23-lisa-chalmers-folio.mp3&quot;},&quot;coverUrl&quot;:&quot;https://libraryisopen.com/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;FOLIO - Lisa - The Library is Open ep. 15&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;https://libraryisopen.com/2019/07/23/folio-lisa-from-chalmers.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
-&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;http://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://libraryisopen.com/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
 &lt;/script&gt;
 
 &lt;p&gt;We are happy to announce our newest session for The Library is Open Podcast! Today’s session features an interview with  Lisa Sjögren, Librarian at Chalmers University of Technology, Department of Communication and Learning in Science. Lisa pours her energy into why their Library has chosen the FOLIO Open Source Platform for their new LSP.&lt;/p&gt;
@@ -430,21 +430,21 @@
 &lt;p&gt;FOLIO is a collaboration of libraries, developers and vendors building an open source library services platform. It supports traditional resource management functionality and can be extended into other institutional areas. Read more at: &lt;a href=&quot;https://www.folio.org/about/&quot; title=&quot;FOLIO&quot;&gt;https://www.folio.org/about/&lt;/a&gt;&lt;/p&gt;
 </content>
       
-        <link rel="enclosure" type="audio/mpeg" length="25832007" href="http://libraryisopen.com/episodes/2019-07-23-lisa-chalmers-folio.mp3"/>
+        <link rel="enclosure" type="audio/mpeg" length="25832007" href="https://libraryisopen.com/episodes/2019-07-23-lisa-chalmers-folio.mp3"/>
       
       
     </entry>
   
     <entry>
       <title>Intercept - The Library is Open ep. 14</title>
-      <link href="http://libraryisopen.com/2019/04/19/Intercept.html"/>
+      <link href="https://libraryisopen.com/2019/04/19/Intercept.html"/>
       <updated>2019-04-19T00:00:00+00:00</updated>
-      <id>http://libraryisopen.com/2019/04/19/Intercept</id>
+      <id>https://libraryisopen.com/2019/04/19/Intercept</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://libraryisopen.com/episodes/2019-04-19-intercept.mp3&quot;},&quot;coverUrl&quot;:&quot;http://libraryisopen.com/img/2019-04-19-Intercept.png&quot;,&quot;title&quot;:&quot;Intercept - The Library is Open ep. 14&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;http://libraryisopen.com/2019/04/19/Intercept.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://libraryisopen.com/episodes/2019-04-19-intercept.mp3&quot;},&quot;coverUrl&quot;:&quot;https://libraryisopen.com/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Intercept - The Library is Open ep. 14&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;https://libraryisopen.com/2019/04/19/Intercept.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
-&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;http://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://libraryisopen.com/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
 &lt;/script&gt;
 
 &lt;p&gt;We are happy to announce our newest session for The Library is Open Podcast! Today’s session features an interview with Sarah Sawicki, Planning &amp;amp; Projects Director and Phillip Higgins, Marketing and Digital Strategy Director at the Richland Library in South Carolina. They are joined by Sally Shaughnessy, Director, Project Management at Aten Design Group in Denver, Colorado. In this podcast we discuss &lt;a href=&quot;https://www.libraryintercept.com/&quot;&gt;Intercept&lt;/a&gt;, an open source event, room, equipment management and customer tracking system.&lt;/p&gt;
@@ -471,21 +471,21 @@ Libraries are evolving! No longer are they simply a place where books are stored
 &lt;p&gt;When she is not retooling a roadmap or gathering site requirements, Sally is an avid camper and homebrewer. She also sits on the board of Bella Boutique, a unique Denver non-profit providing free prom gowns to teens in financial need.&lt;/p&gt;
 </content>
       
-        <link rel="enclosure" type="audio/mpeg" length="33247121" href="http://libraryisopen.com/episodes/2019-04-19-intercept.mp3"/>
+        <link rel="enclosure" type="audio/mpeg" length="33247121" href="https://libraryisopen.com/episodes/2019-04-19-intercept.mp3"/>
       
       
     </entry>
   
     <entry>
       <title>Brian Pichman - The Library is Open ep. 13</title>
-      <link href="http://libraryisopen.com/2018/09/25/brian-pichman.html"/>
+      <link href="https://libraryisopen.com/2018/09/25/brian-pichman.html"/>
       <updated>2018-09-25T00:00:00+00:00</updated>
-      <id>http://libraryisopen.com/2018/09/25/brian-pichman</id>
+      <id>https://libraryisopen.com/2018/09/25/brian-pichman</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://libraryisopen.com/episodes/2018-09-25-brian-pichman.mp3&quot;},&quot;coverUrl&quot;:&quot;http://libraryisopen.com/img/2018-09-25-brian-pichman.png&quot;,&quot;title&quot;:&quot;Brian Pichman - The Library is Open ep. 13&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;http://libraryisopen.com/2018/09/25/brian-pichman.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://libraryisopen.com/episodes/2018-09-25-brian-pichman.mp3&quot;},&quot;coverUrl&quot;:&quot;https://libraryisopen.com/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Brian Pichman - The Library is Open ep. 13&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;https://libraryisopen.com/2018/09/25/brian-pichman.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
-&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;http://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://libraryisopen.com/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
 &lt;/script&gt;
 
 &lt;p&gt;We are happy to announce our newest session for The Library is Open Podcast! Today’s session features an interview with Brian Pichman, the Director of Strategic Innovation at the Evolve Project. He speaks a lot about innovative technology within libraries and loves collaborating with both libraries and companies.&lt;/p&gt;
@@ -495,21 +495,21 @@ Libraries are evolving! No longer are they simply a place where books are stored
 &lt;p&gt;Brian Pichman is an entrepreneur, innovator, and collaborator.As Director of Strategic Innovation at the Evolve Project, he works with libraries to create makerspaces and fab labs, and provides the coaching and guidance needed to take their environments to the next level. Brian speaks a lot about innovative technology as a presenter and loves collaborating with both libraries and companies.  He is dedicated to bringing libraries into the future using cost effective measures and strategies.  Much of Evolve’s work includes bridging the digital divide, breaking away from “traditional library views”, becoming trend setters and finding or building innovative works geared towards interaction and collaboration.  He has also been working with start-up companies across the country, promoting libraries and encouraging people to work closer with libraries in developing new ideas and concepts.&lt;/p&gt;
 </content>
       
-        <link rel="enclosure" type="audio/mpeg" length="17482228" href="http://libraryisopen.com/episodes/2018-09-25-brian-pichman.mp3"/>
+        <link rel="enclosure" type="audio/mpeg" length="17482228" href="https://libraryisopen.com/episodes/2018-09-25-brian-pichman.mp3"/>
       
       
     </entry>
   
     <entry>
       <title>Michael Kucsak - The Library is Open ep. 12</title>
-      <link href="http://libraryisopen.com/2018/03/13/michael-kucsak.html"/>
+      <link href="https://libraryisopen.com/2018/03/13/michael-kucsak.html"/>
       <updated>2018-03-13T00:00:00+00:00</updated>
-      <id>http://libraryisopen.com/2018/03/13/michael-kucsak</id>
+      <id>https://libraryisopen.com/2018/03/13/michael-kucsak</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://libraryisopen.com/episodes/2018-03-13-michael-kucsak.mp3&quot;},&quot;coverUrl&quot;:&quot;http://libraryisopen.com/img/2018-03-13-michael-kucsak.png&quot;,&quot;title&quot;:&quot;Michael Kucsak - The Library is Open ep. 12&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;http://libraryisopen.com/2018/03/13/michael-kucsak.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://libraryisopen.com/episodes/2018-03-13-michael-kucsak.mp3&quot;},&quot;coverUrl&quot;:&quot;https://libraryisopen.com/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Michael Kucsak - The Library is Open ep. 12&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;https://libraryisopen.com/2018/03/13/michael-kucsak.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
-&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;http://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://libraryisopen.com/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
 &lt;/script&gt;
 
 &lt;p&gt;We are happy to announce our newest session for The Library is Open Podcast! Today’s session features an interview with Michael Kucsak, Assistant Dean and Chief of Staff at Virginia Tech University Libraries. In this session Michael discuses why the freedom, flexibility and support system offered by ByWater and Koha was the best choice for the University Libraries. He also talks about managing change, setting the stage for a migration, successful communication and other aspects that prepared them for a migration from a propriety ILS to open source.&lt;/p&gt;
@@ -521,21 +521,21 @@ Libraries are evolving! No longer are they simply a place where books are stored
 &lt;p&gt;You can watch the video version of this conversation on our &lt;a href=&quot;https://www.youtube.com/playlist?list=PLV_OXyJ1D3Bi8zmgDWnaDz2d35FkC6j-v&quot;&gt;YouTube channel&lt;/a&gt;, listen right here, subscribe to our podcast, or all of the above. Enjoy!&lt;/p&gt;
 </content>
       
-        <link rel="enclosure" type="audio/mpeg" length="39032725" href="http://libraryisopen.com/episodes/2018-03-13-michael-kucsak.mp3"/>
+        <link rel="enclosure" type="audio/mpeg" length="39032725" href="https://libraryisopen.com/episodes/2018-03-13-michael-kucsak.mp3"/>
       
       
     </entry>
   
     <entry>
       <title>Trey Gordner - The Library is Open ep. 11</title>
-      <link href="http://libraryisopen.com/2018/01/31/trey-gordner.html"/>
+      <link href="https://libraryisopen.com/2018/01/31/trey-gordner.html"/>
       <updated>2018-01-31T00:00:00+00:00</updated>
-      <id>http://libraryisopen.com/2018/01/31/trey-gordner</id>
+      <id>https://libraryisopen.com/2018/01/31/trey-gordner</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://libraryisopen.com/episodes/2018-01-31-trey-gordner.mp3&quot;},&quot;coverUrl&quot;:&quot;http://libraryisopen.com/img/2018-01-31-trey-gordner.jpg&quot;,&quot;title&quot;:&quot;Trey Gordner - The Library is Open ep. 11&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;http://libraryisopen.com/2018/01/31/trey-gordner.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://libraryisopen.com/episodes/2018-01-31-trey-gordner.mp3&quot;},&quot;coverUrl&quot;:&quot;https://libraryisopen.com/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Trey Gordner - The Library is Open ep. 11&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;https://libraryisopen.com/2018/01/31/trey-gordner.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
-&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;http://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://libraryisopen.com/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
 &lt;/script&gt;
 
 &lt;p&gt;We are happy to announce our newest session for The Library is Open Podcast! Today’s session features an interview with Trey Gordner, Founder and CEO of &lt;a href=&quot;https://www.koios.co/&quot;&gt;Koios&lt;/a&gt;. Trey’s goal is to help libraries fulfill their mission in the digital age. In this session of The Library is Open Podcast, Trey discusses Koios, working with libraries, and what is on the horizon.&lt;/p&gt;
@@ -551,21 +551,21 @@ Libraries are evolving! No longer are they simply a place where books are stored
 &lt;p&gt;Looking for more information about Koios to get your library started? &lt;a href=&quot;https://www.koios.co/contact-us/&quot;&gt;Contact&lt;/a&gt; them today.&lt;/p&gt;
 </content>
       
-        <link rel="enclosure" type="audio/mpeg" length="18460761" href="http://libraryisopen.com/episodes/2018-01-31-trey-gordner.mp3"/>
+        <link rel="enclosure" type="audio/mpeg" length="18460761" href="https://libraryisopen.com/episodes/2018-01-31-trey-gordner.mp3"/>
       
       
     </entry>
   
     <entry>
       <title>Spencer Smith - The Library is Open ep. 10</title>
-      <link href="http://libraryisopen.com/2017/12/31/spencer-smith.html"/>
+      <link href="https://libraryisopen.com/2017/12/31/spencer-smith.html"/>
       <updated>2017-12-31T00:00:00+00:00</updated>
-      <id>http://libraryisopen.com/2017/12/31/spencer-smith</id>
+      <id>https://libraryisopen.com/2017/12/31/spencer-smith</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://libraryisopen.com/episodes/2017-12-31-spencer-smith.mp3&quot;},&quot;coverUrl&quot;:&quot;http://libraryisopen.com/img/2017-12-31-spencer-smith.jpg&quot;,&quot;title&quot;:&quot;Spencer Smith - The Library is Open ep. 10&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;http://libraryisopen.com/2017/12/31/spencer-smith.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://libraryisopen.com/episodes/2017-12-31-spencer-smith.mp3&quot;},&quot;coverUrl&quot;:&quot;https://libraryisopen.com/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Spencer Smith - The Library is Open ep. 10&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;https://libraryisopen.com/2017/12/31/spencer-smith.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
-&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;http://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://libraryisopen.com/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
 &lt;/script&gt;
 
 &lt;p&gt;We are happy to announce our newest session for The Library is Open Podcast! Today’s session features an interview with Spencer Smith, McKinney Public Library. Spencer Smith is currently the &lt;a href=&quot;https://mckinney.bywatersolutions.com/cgi-bin/koha/opac-main.pl&quot;&gt;Director of Libraries at City of McKinney&lt;/a&gt;. As a library leader, Spencer’s goal is to provide top quality service to his citizens.&lt;/p&gt;
@@ -577,21 +577,21 @@ Libraries are evolving! No longer are they simply a place where books are stored
 &lt;p&gt;You can watch the video version of this conversation on our &lt;a href=&quot;https://www.youtube.com/playlist?list=PLV_OXyJ1D3Bi8zmgDWnaDz2d35FkC6j-v&quot;&gt;YouTube channel&lt;/a&gt;, listen right here, subscribe to our podcast, or all of the above. Enjoy!&lt;/p&gt;
 </content>
       
-        <link rel="enclosure" type="audio/mpeg" length="25882674" href="http://libraryisopen.com/episodes/2017-12-31-spencer-smith.mp3"/>
+        <link rel="enclosure" type="audio/mpeg" length="25882674" href="https://libraryisopen.com/episodes/2017-12-31-spencer-smith.mp3"/>
       
       
     </entry>
   
     <entry>
       <title>Michael Sauers - The Library is Open ep. 9</title>
-      <link href="http://libraryisopen.com/2017/11/27/michael-sauers.html"/>
+      <link href="https://libraryisopen.com/2017/11/27/michael-sauers.html"/>
       <updated>2017-11-27T00:00:00+00:00</updated>
-      <id>http://libraryisopen.com/2017/11/27/michael-sauers</id>
+      <id>https://libraryisopen.com/2017/11/27/michael-sauers</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://libraryisopen.com/episodes/2017-11-27-michael-sauers.mp3&quot;},&quot;coverUrl&quot;:&quot;http://libraryisopen.com/img/2017-11-27-michael-sauers.png&quot;,&quot;title&quot;:&quot;Michael Sauers - The Library is Open ep. 9&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;http://libraryisopen.com/2017/11/27/michael-sauers.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://libraryisopen.com/episodes/2017-11-27-michael-sauers.mp3&quot;},&quot;coverUrl&quot;:&quot;https://libraryisopen.com/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Michael Sauers - The Library is Open ep. 9&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;https://libraryisopen.com/2017/11/27/michael-sauers.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
-&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;http://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://libraryisopen.com/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
 &lt;/script&gt;
 
 &lt;p&gt;We are happy to announce our newest session for The Library is Open Podcast! Today’s session features an interview with Michael Sauers from Do Space in Omaha, Nebraska. Michael Sauers is currently the Director of Technology for &lt;a href=&quot;http://dospace.org/&quot;&gt;Do Space&lt;/a&gt;. Michael has been training librarians in technology for the past twenty years and has also been a public library trustee, a bookstore manager for a library friends group, a reference librarian, serials cataloger, technology consultant, and bookseller since earning his MLS in 1995 from the University at Albany’s School of Information Science and Policy.&lt;/p&gt;
@@ -603,21 +603,21 @@ Libraries are evolving! No longer are they simply a place where books are stored
 &lt;p&gt;You can watch the video version of this conversation on our &lt;a href=&quot;https://www.youtube.com/playlist?list=PLV_OXyJ1D3Bi8zmgDWnaDz2d35FkC6j-v&quot;&gt;YouTube channel&lt;/a&gt;, listen right here, subscribe to our podcast, or all of the above. Enjoy!&lt;/p&gt;
 </content>
       
-        <link rel="enclosure" type="audio/mpeg" length="25260969" href="http://libraryisopen.com/episodes/2017-11-27-michael-sauers.mp3"/>
+        <link rel="enclosure" type="audio/mpeg" length="25260969" href="https://libraryisopen.com/episodes/2017-11-27-michael-sauers.mp3"/>
       
       
     </entry>
   
     <entry>
       <title>Rob Hilliker - The Library is Open ep. 8</title>
-      <link href="http://libraryisopen.com/2017/09/06/rob-hilliker.html"/>
+      <link href="https://libraryisopen.com/2017/09/06/rob-hilliker.html"/>
       <updated>2017-09-06T00:00:00+00:00</updated>
-      <id>http://libraryisopen.com/2017/09/06/rob-hilliker</id>
+      <id>https://libraryisopen.com/2017/09/06/rob-hilliker</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://libraryisopen.com/episodes/2017-09-06-rob-hilliker.mp3&quot;},&quot;coverUrl&quot;:&quot;http://libraryisopen.com/img/2017-09-06-rob-hilliker.png&quot;,&quot;title&quot;:&quot;Rob Hilliker - The Library is Open ep. 8&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;http://libraryisopen.com/2017/09/06/rob-hilliker.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://libraryisopen.com/episodes/2017-09-06-rob-hilliker.mp3&quot;},&quot;coverUrl&quot;:&quot;https://libraryisopen.com/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Rob Hilliker - The Library is Open ep. 8&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;https://libraryisopen.com/2017/09/06/rob-hilliker.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
-&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;http://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://libraryisopen.com/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
 &lt;/script&gt;
 
 &lt;p&gt;We are happy to announce our newest session for The Library is Open Podcast! Today’s session features an interview with Robert Hilliker from &lt;a href=&quot;https://www.hotchkiss.org/&quot;&gt;the Hotchkiss School&lt;/a&gt; in Lakeville, Connecticut. Rob is the Director of the Edsel Ford Memorial Library. He joined the School in 2013 and set the stage by rolling out the new ILS for students by switching to Koha.&lt;/p&gt;
@@ -629,21 +629,21 @@ Libraries are evolving! No longer are they simply a place where books are stored
 &lt;p&gt;You can watch the video version of this conversation on our &lt;a href=&quot;https://www.youtube.com/playlist?list=PLV_OXyJ1D3Bi8zmgDWnaDz2d35FkC6j-v&quot;&gt;YouTube channel&lt;/a&gt;, listen right here, subscribe to our podcast, or all of the above. Enjoy!&lt;/p&gt;
 </content>
       
-        <link rel="enclosure" type="audio/mpeg" length="34843203" href="http://libraryisopen.com/episodes/2017-09-06-rob-hilliker.mp3"/>
+        <link rel="enclosure" type="audio/mpeg" length="34843203" href="https://libraryisopen.com/episodes/2017-09-06-rob-hilliker.mp3"/>
       
       
     </entry>
   
     <entry>
       <title>Kyle Hall - The Library is Open ep. 7</title>
-      <link href="http://libraryisopen.com/2017/06/09/kyle-hall.html"/>
+      <link href="https://libraryisopen.com/2017/06/09/kyle-hall.html"/>
       <updated>2017-06-09T00:00:00+00:00</updated>
-      <id>http://libraryisopen.com/2017/06/09/kyle-hall</id>
+      <id>https://libraryisopen.com/2017/06/09/kyle-hall</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://libraryisopen.com/episodes/2017-06-09-kyle-hall.mp3&quot;},&quot;coverUrl&quot;:&quot;http://libraryisopen.com/img/kylehall.png&quot;,&quot;title&quot;:&quot;Kyle Hall - The Library is Open ep. 7&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;http://libraryisopen.com/2017/06/09/kyle-hall.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://libraryisopen.com/episodes/2017-06-09-kyle-hall.mp3&quot;},&quot;coverUrl&quot;:&quot;https://libraryisopen.com/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Kyle Hall - The Library is Open ep. 7&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;https://libraryisopen.com/2017/06/09/kyle-hall.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
-&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;http://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://libraryisopen.com/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
 &lt;/script&gt;
 
 &lt;p&gt;We are happy to announce our newest session for The Library is Open Podcast! Today’s session features question and answer with Kyle Hall, Lead Developer or otherwise known as Lord of the Code for ByWater Solutions. Join us as we discuss the 17.05 release for Koha Open Source ILS where Kyle volunteered as Release Manager. Listen to what is on the horizon and what we will see in &lt;a href=&quot;https://koha-community.org/&quot;&gt;Koha 17.05&lt;/a&gt;.&lt;/p&gt;
@@ -653,21 +653,21 @@ Libraries are evolving! No longer are they simply a place where books are stored
 &lt;p&gt;You can watch the video version of this conversation on our &lt;a href=&quot;https://www.youtube.com/playlist?list=PLV_OXyJ1D3Bi8zmgDWnaDz2d35FkC6j-v&quot;&gt;YouTube channel&lt;/a&gt;, listen right here, subscribe to our Library is Open Podcast, or all of the above. Enjoy!&lt;/p&gt;
 </content>
       
-        <link rel="enclosure" type="audio/mpeg" length="16300968" href="http://libraryisopen.com/episodes/2017-06-09-kyle-hall.mp3"/>
+        <link rel="enclosure" type="audio/mpeg" length="16300968" href="https://libraryisopen.com/episodes/2017-06-09-kyle-hall.mp3"/>
       
       
     </entry>
   
     <entry>
       <title>Myka Kennedy Stephens - The Library is Open ep. 6</title>
-      <link href="http://libraryisopen.com/2017/05/08/myka-kennedy.html"/>
+      <link href="https://libraryisopen.com/2017/05/08/myka-kennedy.html"/>
       <updated>2017-05-08T00:00:00+00:00</updated>
-      <id>http://libraryisopen.com/2017/05/08/myka-kennedy</id>
+      <id>https://libraryisopen.com/2017/05/08/myka-kennedy</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://libraryisopen.com/episodes/2017-05-08-myka-kennedy.mp3&quot;},&quot;coverUrl&quot;:&quot;http://libraryisopen.com/img/2017-05-08-myka-kennedy.png&quot;,&quot;title&quot;:&quot;Myka Kennedy Stephens - The Library is Open ep. 6&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;http://libraryisopen.com/2017/05/08/myka-kennedy.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://libraryisopen.com/episodes/2017-05-08-myka-kennedy.mp3&quot;},&quot;coverUrl&quot;:&quot;https://libraryisopen.com/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Myka Kennedy Stephens - The Library is Open ep. 6&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;https://libraryisopen.com/2017/05/08/myka-kennedy.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
-&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;http://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://libraryisopen.com/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
 &lt;/script&gt;
 
 &lt;p&gt;We are happy to announce our newest session for The Library is Open Podcast! Today’s session features an interview with Myka Kennedy Stephens, Seminary Librarian and Assistant Professor at the &lt;a href=&quot;https://lancasterseminary.edu/&quot;&gt;Lancaster Theological Seminary&lt;/a&gt; in Lancaster, Pennsylvania. Myka has been working in libraries for more than a decade and has a strong background in library leadership and open source information systems.&lt;/p&gt;
@@ -677,21 +677,21 @@ Libraries are evolving! No longer are they simply a place where books are stored
 &lt;p&gt;You can watch the video version of this conversation on our &lt;a href=&quot;https://www.youtube.com/playlist?list=PLV_OXyJ1D3Bi8zmgDWnaDz2d35FkC6j-v&quot;&gt;YouTube channel&lt;/a&gt;, listen right here, subscribe to our podcast, or all of the above. Enjoy!&lt;/p&gt;
 </content>
       
-        <link rel="enclosure" type="audio/mpeg" length="34641537" href="http://libraryisopen.com/episodes/2017-05-08-myka-kennedy.mp3"/>
+        <link rel="enclosure" type="audio/mpeg" length="34641537" href="https://libraryisopen.com/episodes/2017-05-08-myka-kennedy.mp3"/>
       
       
     </entry>
   
     <entry>
       <title>Lori Ayre and Jessamyn West - The Library is Open ep. 5</title>
-      <link href="http://libraryisopen.com/2017/03/17/lori-ayre-and-jessamyn-west.html"/>
+      <link href="https://libraryisopen.com/2017/03/17/lori-ayre-and-jessamyn-west.html"/>
       <updated>2017-03-17T00:00:00+00:00</updated>
-      <id>http://libraryisopen.com/2017/03/17/lori-ayre-and-jessamyn-west</id>
+      <id>https://libraryisopen.com/2017/03/17/lori-ayre-and-jessamyn-west</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://libraryisopen.com/episodes/2017-03-17-lori-ayre-and-jessamyn-west.mp3&quot;},&quot;coverUrl&quot;:&quot;http://libraryisopen.com/img/2017-03-17-lori-ayre-and-jessamyn-west.png&quot;,&quot;title&quot;:&quot;Lori Ayre and Jessamyn West - The Library is Open ep. 5&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;http://libraryisopen.com/2017/03/17/lori-ayre-and-jessamyn-west.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://libraryisopen.com/episodes/2017-03-17-lori-ayre-and-jessamyn-west.mp3&quot;},&quot;coverUrl&quot;:&quot;https://libraryisopen.com/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Lori Ayre and Jessamyn West - The Library is Open ep. 5&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;https://libraryisopen.com/2017/03/17/lori-ayre-and-jessamyn-west.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
-&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;http://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://libraryisopen.com/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
 &lt;/script&gt;
 
 &lt;p&gt;In this week’s podcast are guests Lori Ayre, Library Technology Consultant at Galecia Group, and Jessamyn West, Librarian and Community Technologist.  Lori works with libraries to optimize their operations and find ways to leverage state-of-the-art technologies to reduce operating expenses without reducing service quality to library patrons. Jessamyn can teach anyone to use a computer and enjoys using free and open source tools to help libraries better serve their patrons.&lt;/p&gt;
@@ -703,21 +703,21 @@ Libraries are evolving! No longer are they simply a place where books are stored
 &lt;p&gt;Interested in Learning more about Bookpoints? Check out &lt;a href=&quot;http://readingbydesign.org/&quot;&gt;Reading By Design&lt;/a&gt; for more information.&lt;/p&gt;
 </content>
       
-        <link rel="enclosure" type="audio/mpeg" length="17726466" href="http://libraryisopen.com/episodes/2017-03-17-lori-ayre-and-jessamyn-west.mp3"/>
+        <link rel="enclosure" type="audio/mpeg" length="17726466" href="https://libraryisopen.com/episodes/2017-03-17-lori-ayre-and-jessamyn-west.mp3"/>
       
       
     </entry>
   
     <entry>
       <title>Henry Bankhead - The Library is Open ep. 4</title>
-      <link href="http://libraryisopen.com/2017/02/13/henry-bankhead.html"/>
+      <link href="https://libraryisopen.com/2017/02/13/henry-bankhead.html"/>
       <updated>2017-02-13T00:00:00+00:00</updated>
-      <id>http://libraryisopen.com/2017/02/13/henry-bankhead</id>
+      <id>https://libraryisopen.com/2017/02/13/henry-bankhead</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://libraryisopen.com/episodes/2017-02-13-henry-bankhead.mp3&quot;},&quot;coverUrl&quot;:&quot;http://libraryisopen.com/img/2017-02-13-henry-bankhead.png&quot;,&quot;title&quot;:&quot;Henry Bankhead - The Library is Open ep. 4&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;http://libraryisopen.com/2017/02/13/henry-bankhead.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://libraryisopen.com/episodes/2017-02-13-henry-bankhead.mp3&quot;},&quot;coverUrl&quot;:&quot;https://libraryisopen.com/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Henry Bankhead - The Library is Open ep. 4&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;https://libraryisopen.com/2017/02/13/henry-bankhead.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
-&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;http://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://libraryisopen.com/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
 &lt;/script&gt;
 
 &lt;p&gt;We are happy to announce our newest podcast for The Library is Open! Today’s session features an interview with Henry Bankhead, Assistant Library Director at the &lt;a href=&quot;https://srpubliclibrary.org/&quot;&gt;City San Rafael&lt;/a&gt; in California. Henry has been working in libraries for more than a decade. His degrees in Art and Library Science have added a creative twist to his career, broadened his outlook, and given him the energy to be a risk taker. Hear his views on embracing change in the library world through the use of open source, as well as his outlook on providing outstanding customer service to the public, colleagues and partners.&lt;/p&gt;
@@ -725,67 +725,67 @@ Libraries are evolving! No longer are they simply a place where books are stored
 &lt;p&gt;You can watch the video version of this conversation on our &lt;a href=&quot;https://www.youtube.com/playlist?list=PLV_OXyJ1D3Bi8zmgDWnaDz2d35FkC6j-v&quot;&gt;YouTube channel&lt;/a&gt;, listen right here, subscribe to our podcast, or all of the above. Enjoy!&lt;/p&gt;
 </content>
       
-        <link rel="enclosure" type="audio/mpeg" length="19056619" href="http://libraryisopen.com/episodes/2017-02-13-henry-bankhead.mp3"/>
+        <link rel="enclosure" type="audio/mpeg" length="19056619" href="https://libraryisopen.com/episodes/2017-02-13-henry-bankhead.mp3"/>
       
       
     </entry>
   
     <entry>
       <title>EveryLibrary - The Library is Open ep. 3</title>
-      <link href="http://libraryisopen.com/2017/01/12/everylibrary.html"/>
+      <link href="https://libraryisopen.com/2017/01/12/everylibrary.html"/>
       <updated>2017-01-12T00:00:00+00:00</updated>
-      <id>http://libraryisopen.com/2017/01/12/everylibrary</id>
+      <id>https://libraryisopen.com/2017/01/12/everylibrary</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://libraryisopen.com/episodes/2017-01-12-everylibrary.mp3&quot;},&quot;coverUrl&quot;:&quot;http://libraryisopen.com/img/2017-01-12-everylibrary.png&quot;,&quot;title&quot;:&quot;EveryLibrary - The Library is Open ep. 3&quot;,&quot;subtitle&quot;:&quot;Featuring John Chrastka and Patrick Sweeney&quot;,&quot;url&quot;:&quot;http://libraryisopen.com/2017/01/12/everylibrary.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://libraryisopen.com/episodes/2017-01-12-everylibrary.mp3&quot;},&quot;coverUrl&quot;:&quot;https://libraryisopen.com/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;EveryLibrary - The Library is Open ep. 3&quot;,&quot;subtitle&quot;:&quot;Featuring John Chrastka and Patrick Sweeney&quot;,&quot;url&quot;:&quot;https://libraryisopen.com/2017/01/12/everylibrary.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
-&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;http://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://libraryisopen.com/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
 &lt;/script&gt;
 
 &lt;p&gt;We are happy to announce the third of our monthly podcast series titled The Library is Open! It features an interview with John Chrastka, Executive Director and Patrick Sweeney, Political Director of EveryLibrary.  Your hosts Nate Curulla and Jessica Zairo discuss the current political climate affecting libraries in 2017, advocating for libraries and “get out and vote” techniques with John and Patrick. EveryLibrary is the first and only national organization dedicated to building voter support for libraries. Learn more about about what they do and how they support libraries at &lt;a href=&quot;http://action.everylibrary.org/&quot;&gt;Action&lt;/a&gt;. Enjoy!&lt;/p&gt;
 </content>
       
-        <link rel="enclosure" type="audio/mpeg" length="27107092" href="http://libraryisopen.com/episodes/2017-01-12-everylibrary.mp3"/>
+        <link rel="enclosure" type="audio/mpeg" length="27107092" href="https://libraryisopen.com/episodes/2017-01-12-everylibrary.mp3"/>
       
       
     </entry>
   
     <entry>
       <title>Brendan Gallagher and Nate Curulla - The Library is Open ep. 2</title>
-      <link href="http://libraryisopen.com/2016/12/14/nate-brendan.html"/>
+      <link href="https://libraryisopen.com/2016/12/14/nate-brendan.html"/>
       <updated>2016-12-14T00:00:00+00:00</updated>
-      <id>http://libraryisopen.com/2016/12/14/nate-brendan</id>
+      <id>https://libraryisopen.com/2016/12/14/nate-brendan</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://libraryisopen.com/episodes/2016-12-14-nate-brendan.mp3&quot;},&quot;coverUrl&quot;:&quot;http://libraryisopen.com/img/2016-12-14-nate-brendan.png&quot;,&quot;title&quot;:&quot;Brendan Gallagher and Nate Curulla - The Library is Open ep. 2&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;http://libraryisopen.com/2016/12/14/nate-brendan.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://libraryisopen.com/episodes/2016-12-14-nate-brendan.mp3&quot;},&quot;coverUrl&quot;:&quot;https://libraryisopen.com/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Brendan Gallagher and Nate Curulla - The Library is Open ep. 2&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;https://libraryisopen.com/2016/12/14/nate-brendan.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
-&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;http://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://libraryisopen.com/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
 &lt;/script&gt;
 
 &lt;p&gt;We are happy to announce the second of our monthly podcast series titled The Library is Open! It features an interview with Brendan Gallagher, Co-Owner and Chief Executive Officer and Nate Curulla, Co-Owner and Chief Revenue Officer.  Join us as we talk through the journey of friendship, librarianship and starting the ByWater Solutions Company. You can see our pretty faces on the video version of this conversation on our &lt;a href=&quot;https://www.youtube.com/user/bywatersolutions&quot;&gt;YouTube&lt;/a&gt; channel, listen right here, subscribe to our podcast, or all of the above. Enjoy!&lt;/p&gt;
 </content>
       
-        <link rel="enclosure" type="audio/mpeg" length="10670821" href="http://libraryisopen.com/episodes/2016-12-14-nate-brendan.mp3"/>
+        <link rel="enclosure" type="audio/mpeg" length="10670821" href="https://libraryisopen.com/episodes/2016-12-14-nate-brendan.mp3"/>
       
       
     </entry>
   
     <entry>
       <title>Joann Ransom - The Library is Open ep. 1</title>
-      <link href="http://libraryisopen.com/2016/11/14/joann-ransom.html"/>
+      <link href="https://libraryisopen.com/2016/11/14/joann-ransom.html"/>
       <updated>2016-11-14T00:00:00+00:00</updated>
-      <id>http://libraryisopen.com/2016/11/14/joann-ransom</id>
+      <id>https://libraryisopen.com/2016/11/14/joann-ransom</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://libraryisopen.com/episodes/2016-11-14-joann-ransom.mp3&quot;},&quot;coverUrl&quot;:&quot;http://libraryisopen.com/img/2016-11-14-joann-ransom.png&quot;,&quot;title&quot;:&quot;Joann Ransom - The Library is Open ep. 1&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;http://libraryisopen.com/2016/11/14/joann-ransom.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://libraryisopen.com/episodes/2016-11-14-joann-ransom.mp3&quot;},&quot;coverUrl&quot;:&quot;https://libraryisopen.com/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Joann Ransom - The Library is Open ep. 1&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;https://libraryisopen.com/2016/11/14/joann-ransom.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
-&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;http://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://libraryisopen.com/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
 &lt;/script&gt;
 
 &lt;p&gt;Welcome to our new podcast. We are happy to announce the first of our 30 minute monthly series titled The Library is Open! This first session features an interview with Joann Ransom, who was integral in the initial funding and development of Koha, the first web based and open source integrated library system. Hear about the challenges she faced when spearheading this monumental task and learn what she has been up to since, including her world tour of Koha libraries! You can see our pretty faces on the video version of this conversation on our &lt;a href=&quot;https://www.youtube.com/user/bywatersolutions&quot;&gt;YouTube&lt;/a&gt; channel, listen right here, subscribe to our podcast, or all of the above. Enjoy!&lt;/p&gt;
 </content>
       
-        <link rel="enclosure" type="audio/mpeg" length="18857978" href="http://libraryisopen.com/episodes/2016-11-14-joann-ransom.mp3"/>
+        <link rel="enclosure" type="audio/mpeg" length="18857978" href="https://libraryisopen.com/episodes/2016-11-14-joann-ransom.mp3"/>
       
       
     </entry>

@@ -9,27 +9,27 @@
 
   <channel>
     <title>The Library is Open</title>
-    <link>http://libraryisopen.com</link>
-    <atom:link href="http://libraryisopen.com/episodes.mp3.rss" rel="self" type="application/rss+xml" title="mp3 Episode RSS-Feed"/>
-    <atom:link href="http://libraryisopen.com/episodes.mp3.rss" rel="first" type="application/rss+xml" />
-    <atom:link href="http://libraryisopen.com/episodes.mp3.rss" rel="last" type="application/rss+xml" />
+    <link>https://libraryisopen.com</link>
+    <atom:link href="https://libraryisopen.com/episodes.mp3.rss" rel="self" type="application/rss+xml" title="mp3 Episode RSS-Feed"/>
+    <atom:link href="https://libraryisopen.com/episodes.mp3.rss" rel="first" type="application/rss+xml" />
+    <atom:link href="https://libraryisopen.com/episodes.mp3.rss" rel="last" type="application/rss+xml" />
     
     
 
-    <atom:link rel="alternate" href="http://libraryisopen.com/episodes.m4a.rss" type="application/rss+xml" title="m4a Episode RSS-Feed"/>
-<atom:link rel="alternate" href="http://libraryisopen.com/episodes.ogg.rss" type="application/rss+xml" title="ogg Episode RSS-Feed"/>
+    <atom:link rel="alternate" href="https://libraryisopen.com/episodes.m4a.rss" type="application/rss+xml" title="m4a Episode RSS-Feed"/>
+<atom:link rel="alternate" href="https://libraryisopen.com/episodes.ogg.rss" type="application/rss+xml" title="ogg Episode RSS-Feed"/>
 <atom:link rel="alternate" href="https://itunes.apple.com/us/podcast/the-library-is-open/id1176554216?mt=2" type="application/rss+xml" title="itunes"/>
     <description>A podcast for libraries interested in Koha and Open Source Software
 </description>
-    <lastBuildDate>Tue, 16 Feb 2021 14:57:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Apr 2021 13:43:15 +0000</lastBuildDate>
     <language>en</language>
-    <generator>Jekyll-Octopod 0.9.4</generator>
+    <generator>Jekyll-Octopod 0.9.10</generator>
 
     <itunes:summary>A podcast for libraries interested in Koha and Open Source Software
 </itunes:summary>
     <itunes:author>ByWater Solutions</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="http://libraryisopen.com/img/logo-itunes.png" />
+    <itunes:image href="https://libraryisopen.com/img/logo-itunes.png" />
     <itunes:owner>
       <itunes:name>ByWater Solutions</itunes:name>
       <itunes:email>info@libraryisopen.com</itunes:email>
@@ -40,8 +40,8 @@
     <itunes:keywords>koha, foss, library, libraries</itunes:keywords>
     <image>
       <title>The Library is Open</title>
-      <url>http://libraryisopen.com/img/logo-itunes.png</url>
-      <link>http://libraryisopen.com</link>
+      <url>https://libraryisopen.com/img/logo-itunes.png</url>
+      <link>https://libraryisopen.com</link>
     </image>
     
     <itunes:category text="Technology" />
@@ -53,12 +53,12 @@
         
           <item>
             <title>JP Porcaro - The Library is Open ep. 27 - </title>
-            <link>http://libraryisopen.com/2021/02/11/jp-porcaro.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://libraryisopen.com/players/jp-porcaro"/>
-            <comments>http://libraryisopen.com/2021/02/11/jp-porcaro.html#disqus_thread</comments>
+            <link>https://libraryisopen.com/2021/02/11/jp-porcaro.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://libraryisopen.com/players/jp-porcaro"/>
+            <comments>https://libraryisopen.com/2021/02/11/jp-porcaro.html#disqus_thread</comments>
             <pubDate>Thu, 11 Feb 2021 14:09:00 +0000</pubDate>
             
-            <guid isPermaLink="false">http://libraryisopen.com/2021/02/11/jp-porcaro.html</guid>
+            <guid isPermaLink="false">https://libraryisopen.com/2021/02/11/jp-porcaro.html</guid>
             <description><![CDATA[<p>We are pleased to announce our newest session of The Library is Open Podcast! This session features an interview with JP Porcaro, Director, Free Public Library &amp; Cultural Center of Bayonne. JP and Jessie talk about everything libraries, lifelong learning, communities, and just why libraries are the cornerstone of a child’s learning process.</p>
 
 
@@ -88,7 +88,7 @@
 <p>The <a href="https://www.njstatelib.org/services_for_libraries/new-jersey-library-construction-bond-act/">New Jersey Library Construction Bond Act</a>passed both the Assembly and the Senate unanimously on November 16, 2020. It was then signed by the Governor on November 20, 2020.</p>
 ]]></content:encoded>
             
-            <enclosure url="http://libraryisopen.com/episodes/2021-02-11-jp-porcaro.mp3" length="61747749" type="audio/mpeg" />
+            <enclosure url="https://libraryisopen.com/episodes/2021-02-11-jp-porcaro.mp3" length="61747749" type="audio/mpeg" />
             <itunes:keywords></itunes:keywords>
             <itunes:subtitle></itunes:subtitle>
             <itunes:summary></itunes:summary>
@@ -108,12 +108,12 @@
         
           <item>
             <title>R. David Lankes - The Library is Open ep. 26 - </title>
-            <link>http://libraryisopen.com/2020/12/10/r-david-lankes.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://libraryisopen.com/players/r-david-lankes"/>
-            <comments>http://libraryisopen.com/2020/12/10/r-david-lankes.html#disqus_thread</comments>
+            <link>https://libraryisopen.com/2020/12/10/r-david-lankes.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://libraryisopen.com/players/r-david-lankes"/>
+            <comments>https://libraryisopen.com/2020/12/10/r-david-lankes.html#disqus_thread</comments>
             <pubDate>Thu, 10 Dec 2020 13:48:00 +0000</pubDate>
             
-            <guid isPermaLink="false">http://libraryisopen.com/2020/12/10/r-david-lankes.html</guid>
+            <guid isPermaLink="false">https://libraryisopen.com/2020/12/10/r-david-lankes.html</guid>
             <description><![CDATA[<p>We are pleased to announce our newest session of The Library is Open Podcast! This session features an interview with R. David Lankes, he is the director of the University of South Carolina’s School of Information Science, and recipient of the American Library Association’s 2016 Ken Haycock Award for Promoting Librarianship.</p>
 
 
@@ -139,7 +139,7 @@
 <p>Read more about David on his <a href="https://davidlankes.org/" title="website">website</a>!</p>
 ]]></content:encoded>
             
-            <enclosure url="http://libraryisopen.com/episodes/2020-12-10-r-david-lankes.mp3" length="42306388" type="audio/mpeg" />
+            <enclosure url="https://libraryisopen.com/episodes/2020-12-10-r-david-lankes.mp3" length="42306388" type="audio/mpeg" />
             <itunes:keywords></itunes:keywords>
             <itunes:subtitle></itunes:subtitle>
             <itunes:summary></itunes:summary>
@@ -159,12 +159,12 @@
         
           <item>
             <title>Jessamyn West - The Library is Open ep. 25 - </title>
-            <link>http://libraryisopen.com/2020/11/10/jessamyn-west.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://libraryisopen.com/players/jessamyn-west"/>
-            <comments>http://libraryisopen.com/2020/11/10/jessamyn-west.html#disqus_thread</comments>
+            <link>https://libraryisopen.com/2020/11/10/jessamyn-west.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://libraryisopen.com/players/jessamyn-west"/>
+            <comments>https://libraryisopen.com/2020/11/10/jessamyn-west.html#disqus_thread</comments>
             <pubDate>Tue, 10 Nov 2020 15:06:00 +0000</pubDate>
             
-            <guid isPermaLink="false">http://libraryisopen.com/2020/11/10/jessamyn-west.html</guid>
+            <guid isPermaLink="false">https://libraryisopen.com/2020/11/10/jessamyn-west.html</guid>
             <description><![CDATA[
 
 <p>We are pleased to announce our newest session of The Library is Open Podcast! This session features an interview with Jessamyn West, a librarian and community technologist living in central Vermont. Jessamyn returns to the Library is Open Podcast to chat about how librarians are adapting during the pandemic, tools she uses to help with technology needs in her community, what skills librarians need to adapt to the environment we are currently living in, and finding your personal center.</p>
@@ -212,7 +212,7 @@
 
 ]]></content:encoded>
             
-            <enclosure url="http://libraryisopen.com/episodes/2020-11-12-jessamyn-lio.mp3" length="43803723" type="audio/mpeg" />
+            <enclosure url="https://libraryisopen.com/episodes/2020-11-12-jessamyn-lio.mp3" length="43803723" type="audio/mpeg" />
             <itunes:keywords></itunes:keywords>
             <itunes:subtitle></itunes:subtitle>
             <itunes:summary></itunes:summary>
@@ -232,12 +232,12 @@
         
           <item>
             <title>The Do Space Team - The Library is Open ep. 24 - </title>
-            <link>http://libraryisopen.com/2020/06/15/the-dospace-team.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://libraryisopen.com/players/the-dospace-team"/>
-            <comments>http://libraryisopen.com/2020/06/15/the-dospace-team.html#disqus_thread</comments>
+            <link>https://libraryisopen.com/2020/06/15/the-dospace-team.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://libraryisopen.com/players/the-dospace-team"/>
+            <comments>https://libraryisopen.com/2020/06/15/the-dospace-team.html#disqus_thread</comments>
             <pubDate>Mon, 15 Jun 2020 14:33:00 +0000</pubDate>
             
-            <guid isPermaLink="false">http://libraryisopen.com/2020/06/15/the-dospace-team.html</guid>
+            <guid isPermaLink="false">https://libraryisopen.com/2020/06/15/the-dospace-team.html</guid>
             <description><![CDATA[
 
 <p>We are pleased to announce our newest session of The Library is Open Podcast! This session features an interview with Michael Sauers, Director of Technology and Allison Sillik, Director of Community Learning at Do Space, a community technology library in Omaha, Nebraska. Listen as Michael, Allison and Jessie discuss their digital presence and how they are spreading the technology learning experience to their community.</p>
@@ -255,7 +255,7 @@
 <p>The future belongs to those who understand technology, and the only way to ensure we’ll be part of this future is to dramatically change technology access and education in Omaha. Do Space is a one-of-a-kind concept: It’s a community technology library, a digital workshop, and an innovation playground filled with new opportunities to learn, grow, explore and create. Explore more at https://dospace.org/about/.</p>
 ]]></content:encoded>
             
-            <enclosure url="http://libraryisopen.com/episodes/2020-06-11-the-dospace-team.mp3" length="36019235" type="audio/mpeg" />
+            <enclosure url="https://libraryisopen.com/episodes/2020-06-11-the-dospace-team.mp3" length="36019235" type="audio/mpeg" />
             <itunes:keywords></itunes:keywords>
             <itunes:subtitle></itunes:subtitle>
             <itunes:summary></itunes:summary>
@@ -275,12 +275,12 @@
         
           <item>
             <title>David Lee King - The Library is Open ep. 23 - </title>
-            <link>http://libraryisopen.com/2020/05/05/david-lee-king.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://libraryisopen.com/players/david-lee-king"/>
-            <comments>http://libraryisopen.com/2020/05/05/david-lee-king.html#disqus_thread</comments>
+            <link>https://libraryisopen.com/2020/05/05/david-lee-king.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://libraryisopen.com/players/david-lee-king"/>
+            <comments>https://libraryisopen.com/2020/05/05/david-lee-king.html#disqus_thread</comments>
             <pubDate>Tue, 05 May 2020 20:18:00 +0000</pubDate>
             
-            <guid isPermaLink="false">http://libraryisopen.com/2020/05/05/david-lee-king.html</guid>
+            <guid isPermaLink="false">https://libraryisopen.com/2020/05/05/david-lee-king.html</guid>
             <description><![CDATA[
 
 <p>We are pleased to announce our newest session of The Library is Open Podcast! Today’s session features an interview with David Lee King. David is the Digital Services Director at Topeka &amp; Shawnee County Public Library. Listen as David and Jessie discuss digital experiences during the pandemic, emerging technologies and what they see the library digital experience being in 2030.</p>
@@ -298,7 +298,7 @@
 <p>David Lee King is the Digital Services Director at Topeka &amp; Shawnee County Public Library, where he plans, implements, and experiments with emerging technology trends. He speaks internationally about emerging trends, website management, digital experience, and social media, and has been published in many library-related journals. David is a Library Journal Mover and Shaker. His newest book is Face2Face: Using Facebook, Twitter, and Other Social Media Tools to Create Great Customer Connections. David blogs at http://www.davidleeking.com.</p>
 ]]></content:encoded>
             
-            <enclosure url="http://libraryisopen.com/episodes/2020-04-29-david-lee-king.mp3" length="27914484" type="audio/mpeg" />
+            <enclosure url="https://libraryisopen.com/episodes/2020-04-29-david-lee-king.mp3" length="27914484" type="audio/mpeg" />
             <itunes:keywords></itunes:keywords>
             <itunes:subtitle></itunes:subtitle>
             <itunes:summary></itunes:summary>
@@ -318,12 +318,12 @@
         
           <item>
             <title>Cheryl Gould - The Library is Open ep. 22 - </title>
-            <link>http://libraryisopen.com/2020/04/24/cheryl-gould.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://libraryisopen.com/players/cheryl-gould"/>
-            <comments>http://libraryisopen.com/2020/04/24/cheryl-gould.html#disqus_thread</comments>
+            <link>https://libraryisopen.com/2020/04/24/cheryl-gould.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://libraryisopen.com/players/cheryl-gould"/>
+            <comments>https://libraryisopen.com/2020/04/24/cheryl-gould.html#disqus_thread</comments>
             <pubDate>Fri, 24 Apr 2020 11:54:00 +0000</pubDate>
             
-            <guid isPermaLink="false">http://libraryisopen.com/2020/04/24/cheryl-gould.html</guid>
+            <guid isPermaLink="false">https://libraryisopen.com/2020/04/24/cheryl-gould.html</guid>
             <description><![CDATA[
 
 <p>We are happy to announce our newest session of The Library is Open Podcast! Today’s session features an interview with Cheryl Gould, learning facilitator and training consultant with Fully Engaged Libraries. Listen as Jessie, Nate and Cheryl discuss change management, communication methods, invigorating organizational culture and preparing for the unexpected.</p>
@@ -345,7 +345,7 @@
 <p>You can read more about Cheryl through her website, <a href="http://www.fullyengagedlibraries.com/" title="FEL">Fully Engaged Libraries</a></p>
 ]]></content:encoded>
             
-            <enclosure url="http://libraryisopen.com/episodes/2020-04-24-cheryl-gould.mp3" length="28555002" type="audio/mpeg" />
+            <enclosure url="https://libraryisopen.com/episodes/2020-04-24-cheryl-gould.mp3" length="28555002" type="audio/mpeg" />
             <itunes:keywords></itunes:keywords>
             <itunes:subtitle></itunes:subtitle>
             <itunes:summary></itunes:summary>
@@ -365,12 +365,12 @@
         
           <item>
             <title>Nancy Pearl - The Library is Open ep. 21 - </title>
-            <link>http://libraryisopen.com/2020/03/09/nancy-pearl.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://libraryisopen.com/players/nancy-pearl"/>
-            <comments>http://libraryisopen.com/2020/03/09/nancy-pearl.html#disqus_thread</comments>
+            <link>https://libraryisopen.com/2020/03/09/nancy-pearl.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://libraryisopen.com/players/nancy-pearl"/>
+            <comments>https://libraryisopen.com/2020/03/09/nancy-pearl.html#disqus_thread</comments>
             <pubDate>Mon, 09 Mar 2020 15:57:00 +0000</pubDate>
             
-            <guid isPermaLink="false">http://libraryisopen.com/2020/03/09/nancy-pearl.html</guid>
+            <guid isPermaLink="false">https://libraryisopen.com/2020/03/09/nancy-pearl.html</guid>
             <description><![CDATA[
 
 <p>We are happy to announce our newest session of The Library is Open Podcast! Today’s session features an interview with Nancy Pearl, a best-selling author, librarian, literary critic and READING ENTHUSIAST. Listen as Jessie and Nancy discuss the different facets of reading, why libraries matter, and of course her love of books.</p>
@@ -392,7 +392,7 @@
 <p>Read more about Nancy Pearl at <a href="https://www.nancypearl.com/about-nancy" title="Nancy Pearl">About Nancy</a></p>
 ]]></content:encoded>
             
-            <enclosure url="http://libraryisopen.com/episodes/2020-03-09-nancy-pearl.mp3" length="32683399" type="audio/mpeg" />
+            <enclosure url="https://libraryisopen.com/episodes/2020-03-09-nancy-pearl.mp3" length="32683399" type="audio/mpeg" />
             <itunes:keywords></itunes:keywords>
             <itunes:subtitle></itunes:subtitle>
             <itunes:summary></itunes:summary>
@@ -412,12 +412,12 @@
         
           <item>
             <title>Marshall Breeding - The Library is Open ep. 20 - </title>
-            <link>http://libraryisopen.com/2020/02/10/marshall-breeding.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://libraryisopen.com/players/marshall-breeding"/>
-            <comments>http://libraryisopen.com/2020/02/10/marshall-breeding.html#disqus_thread</comments>
+            <link>https://libraryisopen.com/2020/02/10/marshall-breeding.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://libraryisopen.com/players/marshall-breeding"/>
+            <comments>https://libraryisopen.com/2020/02/10/marshall-breeding.html#disqus_thread</comments>
             <pubDate>Mon, 10 Feb 2020 15:24:00 +0000</pubDate>
             
-            <guid isPermaLink="false">http://libraryisopen.com/2020/02/10/marshall-breeding.html</guid>
+            <guid isPermaLink="false">https://libraryisopen.com/2020/02/10/marshall-breeding.html</guid>
             <description><![CDATA[
 
 <p>We are happy to announce our newest session of The Library is Open Podcast! Today’s session features an interview with Marshall Breeding, an independent consultant, speaker, and the author of Library Technology Guides. Listen as Jessie and Marshall discuss the current ILS landscape and the Open Source Community.</p>
@@ -439,7 +439,7 @@
 <p>Read more about Marshall Breeding at <a href="https://librarytechnology.org/" title="Library Technology Guides">Library Technology Guides</a></p>
 ]]></content:encoded>
             
-            <enclosure url="http://libraryisopen.com/episodes/2020-02-10-marshall-breeding.mp3" length="34858347" type="audio/mpeg" />
+            <enclosure url="https://libraryisopen.com/episodes/2020-02-10-marshall-breeding.mp3" length="34858347" type="audio/mpeg" />
             <itunes:keywords></itunes:keywords>
             <itunes:subtitle></itunes:subtitle>
             <itunes:summary></itunes:summary>
@@ -459,12 +459,12 @@
         
           <item>
             <title>WOLFcon20 - The Library is Open ep. 19 - </title>
-            <link>http://libraryisopen.com/2020/01/29/1-24-2020-wolfcon20.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://libraryisopen.com/players/1-24-2020-wolfcon20"/>
-            <comments>http://libraryisopen.com/2020/01/29/1-24-2020-wolfcon20.html#disqus_thread</comments>
+            <link>https://libraryisopen.com/2020/01/29/1-24-2020-wolfcon20.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://libraryisopen.com/players/1-24-2020-wolfcon20"/>
+            <comments>https://libraryisopen.com/2020/01/29/1-24-2020-wolfcon20.html#disqus_thread</comments>
             <pubDate>Wed, 29 Jan 2020 14:28:00 +0000</pubDate>
             
-            <guid isPermaLink="false">http://libraryisopen.com/2020/01/29/1-24-2020-wolfcon20.html</guid>
+            <guid isPermaLink="false">https://libraryisopen.com/2020/01/29/1-24-2020-wolfcon20.html</guid>
             <description><![CDATA[
 
 <p>We are happy to announce our newest session of The Library is Open Podcast! Today’s session features a LIVE interview with Ian Walls, from WOLFcon20 at Texas A&amp;M University. Ian Walls and host, Jessie Zairo, discuss the OLF Community, the current state of FOLIO and Ian’s role in the community.</p>
@@ -522,7 +522,7 @@
 <p>For more information please visit: <a href="https://bywatersolutions.com/" title="ByWater Solutions">ByWater Solutions</a></p>
 ]]></content:encoded>
             
-            <enclosure url="http://libraryisopen.com/episodes/2020-01-29-1-24-2020-wolfcon20.mp3" length="10424977" type="audio/mpeg" />
+            <enclosure url="https://libraryisopen.com/episodes/2020-01-29-1-24-2020-wolfcon20.mp3" length="10424977" type="audio/mpeg" />
             <itunes:keywords></itunes:keywords>
             <itunes:subtitle></itunes:subtitle>
             <itunes:summary></itunes:summary>
@@ -542,12 +542,12 @@
         
           <item>
             <title>Thomas More University - The Library is Open ep. 18 - </title>
-            <link>http://libraryisopen.com/2019/11/18/tmu-lio.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://libraryisopen.com/players/tmu-lio"/>
-            <comments>http://libraryisopen.com/2019/11/18/tmu-lio.html#disqus_thread</comments>
+            <link>https://libraryisopen.com/2019/11/18/tmu-lio.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://libraryisopen.com/players/tmu-lio"/>
+            <comments>https://libraryisopen.com/2019/11/18/tmu-lio.html#disqus_thread</comments>
             <pubDate>Mon, 18 Nov 2019 14:12:00 +0000</pubDate>
             
-            <guid isPermaLink="false">http://libraryisopen.com/2019/11/18/tmu-lio.html</guid>
+            <guid isPermaLink="false">https://libraryisopen.com/2019/11/18/tmu-lio.html</guid>
             <description><![CDATA[
 
 <p>We are happy to announce our newest session of The Library is Open Podcast! Today’s session features an interview with Mike Wells, Library Director at Benedictine Library at Thomas More University and The Salus Data Consulting team which consists of Hrusto Selimovic, Jared Nelson, Corey Zamrik, Jash Patel, and Spencer White. The group talks to us about their involvement with a library website analytics project and how that grew into a consulting company.  Listen as the group discusses taking the project from start to finish and how the library helped them build their new venture.</p>
@@ -597,7 +597,7 @@
 <p>Watch a quick video from Thomas More University: <a href="https://www.youtube.com/watch?v=OWf7cUWciNo">Thankful Thursday - Library Project</a></p>
 ]]></content:encoded>
             
-            <enclosure url="http://libraryisopen.com/episodes/2019-11-18-tmu-lio.mp3" length="30626517" type="audio/mpeg" />
+            <enclosure url="https://libraryisopen.com/episodes/2019-11-18-tmu-lio.mp3" length="30626517" type="audio/mpeg" />
             <itunes:keywords></itunes:keywords>
             <itunes:subtitle></itunes:subtitle>
             <itunes:summary></itunes:summary>
@@ -617,12 +617,12 @@
         
           <item>
             <title>Laura Wright - Cornell University - The Library is Open ep. 17 - </title>
-            <link>http://libraryisopen.com/2019/09/27/2019-09-27-laura-wright-md.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://libraryisopen.com/players/2019-09-27-laura-wright-md"/>
-            <comments>http://libraryisopen.com/2019/09/27/2019-09-27-laura-wright-md.html#disqus_thread</comments>
+            <link>https://libraryisopen.com/2019/09/27/2019-09-27-laura-wright-md.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://libraryisopen.com/players/2019-09-27-laura-wright-md"/>
+            <comments>https://libraryisopen.com/2019/09/27/2019-09-27-laura-wright-md.html#disqus_thread</comments>
             <pubDate>Fri, 27 Sep 2019 14:14:00 +0000</pubDate>
             
-            <guid isPermaLink="false">http://libraryisopen.com/2019/09/27/2019-09-27-laura-wright-md.html</guid>
+            <guid isPermaLink="false">https://libraryisopen.com/2019/09/27/2019-09-27-laura-wright-md.html</guid>
             <description><![CDATA[
 
 <p>We are happy to announce our newest session for The Library is Open Podcast! Today’s session features an interview with Laura Wright, Assistant Director, Metadata Production at Cornell University. Laura talks to us about why she is so passionate about the FOLIO Open Source Platform.</p>
@@ -660,7 +660,7 @@
 <p>FOLIO is a collaboration of libraries, developers and vendors building an open source library services platform. It supports traditional resource management functionality and can be extended into other institutional areas. Read more at: <a href="https://www.folio.org/about/" title="FOLIO">https://www.folio.org/about/</a></p>
 ]]></content:encoded>
             
-            <enclosure url="http://libraryisopen.com/episodes/2019-09-27-laura-wright.mp3" length="28657404" type="audio/mpeg" />
+            <enclosure url="https://libraryisopen.com/episodes/2019-09-27-laura-wright.mp3" length="28657404" type="audio/mpeg" />
             <itunes:keywords></itunes:keywords>
             <itunes:subtitle></itunes:subtitle>
             <itunes:summary></itunes:summary>
@@ -680,12 +680,12 @@
         
           <item>
             <title>SimplyE - Amigos - Christine - The Library is Open ep. 16 - </title>
-            <link>http://libraryisopen.com/2019/08/30/simplye.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://libraryisopen.com/players/simplye"/>
-            <comments>http://libraryisopen.com/2019/08/30/simplye.html#disqus_thread</comments>
+            <link>https://libraryisopen.com/2019/08/30/simplye.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://libraryisopen.com/players/simplye"/>
+            <comments>https://libraryisopen.com/2019/08/30/simplye.html#disqus_thread</comments>
             <pubDate>Fri, 30 Aug 2019 09:20:00 +0000</pubDate>
             
-            <guid isPermaLink="false">http://libraryisopen.com/2019/08/30/simplye.html</guid>
+            <guid isPermaLink="false">https://libraryisopen.com/2019/08/30/simplye.html</guid>
             <description><![CDATA[
 
 <p>We are happy to announce our newest session for The Library is Open Podcast! Today’s session features an interview with Christine Peterson, Engagement and Emerging Technologies Coordinator at Amigos Library Services. Christine talks to us today about their involvement in the SimplyE project developed by the New York Public Library. SimplyE was developed as an open source project that allows libraries to provide a single platform for their ebook collections. Listen as Christine discusses hosting, marketing and their support of the SimplyE platform.</p>
@@ -739,7 +739,7 @@
 <p>She is also known for her technology training throughout the Southwest, making complicated topics easy for librarians to understand. Prior to joining Amigos, she was the Manager for Continuing Education &amp; Consulting at the Texas State Library &amp; Archives Commission, guiding and supporting libraries statewide. She also worked for both San Antonio College and the Florida Institute of Technology as their systems librarian, converting their library catalogs to automated systems.</p>
 ]]></content:encoded>
             
-            <enclosure url="http://libraryisopen.com/episodes/2019-08-30-simplye.mp3" length="15237775" type="audio/mpeg" />
+            <enclosure url="https://libraryisopen.com/episodes/2019-08-30-simplye.mp3" length="15237775" type="audio/mpeg" />
             <itunes:keywords></itunes:keywords>
             <itunes:subtitle></itunes:subtitle>
             <itunes:summary></itunes:summary>
@@ -759,12 +759,12 @@
         
           <item>
             <title>FOLIO - Lisa - The Library is Open ep. 15 - </title>
-            <link>http://libraryisopen.com/2019/07/23/folio-lisa-from-chalmers.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://libraryisopen.com/players/folio-lisa-from-chalmers"/>
-            <comments>http://libraryisopen.com/2019/07/23/folio-lisa-from-chalmers.html#disqus_thread</comments>
+            <link>https://libraryisopen.com/2019/07/23/folio-lisa-from-chalmers.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://libraryisopen.com/players/folio-lisa-from-chalmers"/>
+            <comments>https://libraryisopen.com/2019/07/23/folio-lisa-from-chalmers.html#disqus_thread</comments>
             <pubDate>Tue, 23 Jul 2019 14:39:00 +0000</pubDate>
             
-            <guid isPermaLink="false">http://libraryisopen.com/2019/07/23/folio-lisa-from-chalmers.html</guid>
+            <guid isPermaLink="false">https://libraryisopen.com/2019/07/23/folio-lisa-from-chalmers.html</guid>
             <description><![CDATA[
 
 <p>We are happy to announce our newest session for The Library is Open Podcast! Today’s session features an interview with  Lisa Sjögren, Librarian at Chalmers University of Technology, Department of Communication and Learning in Science. Lisa pours her energy into why their Library has chosen the FOLIO Open Source Platform for their new LSP.</p>
@@ -814,7 +814,7 @@
 <p>FOLIO is a collaboration of libraries, developers and vendors building an open source library services platform. It supports traditional resource management functionality and can be extended into other institutional areas. Read more at: <a href="https://www.folio.org/about/" title="FOLIO">https://www.folio.org/about/</a></p>
 ]]></content:encoded>
             
-            <enclosure url="http://libraryisopen.com/episodes/2019-07-23-lisa-chalmers-folio.mp3" length="25832007" type="audio/mpeg" />
+            <enclosure url="https://libraryisopen.com/episodes/2019-07-23-lisa-chalmers-folio.mp3" length="25832007" type="audio/mpeg" />
             <itunes:keywords></itunes:keywords>
             <itunes:subtitle></itunes:subtitle>
             <itunes:summary></itunes:summary>
@@ -834,12 +834,12 @@
         
           <item>
             <title>Intercept - The Library is Open ep. 14 - </title>
-            <link>http://libraryisopen.com/2019/04/19/Intercept.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://libraryisopen.com/players/Intercept"/>
-            <comments>http://libraryisopen.com/2019/04/19/Intercept.html#disqus_thread</comments>
+            <link>https://libraryisopen.com/2019/04/19/Intercept.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://libraryisopen.com/players/Intercept"/>
+            <comments>https://libraryisopen.com/2019/04/19/Intercept.html#disqus_thread</comments>
             <pubDate>Fri, 19 Apr 2019 00:00:00 +0000</pubDate>
             
-            <guid isPermaLink="false">http://libraryisopen.com/2019/04/19/Intercept.html</guid>
+            <guid isPermaLink="false">https://libraryisopen.com/2019/04/19/Intercept.html</guid>
             <description><![CDATA[
 
 <p>We are happy to announce our newest session for The Library is Open Podcast! Today’s session features an interview with Sarah Sawicki, Planning &amp; Projects Director and Phillip Higgins, Marketing and Digital Strategy Director at the Richland Library in South Carolina. They are joined by Sally Shaughnessy, Director, Project Management at Aten Design Group in Denver, Colorado. In this podcast we discuss <a href="https://www.libraryintercept.com/">Intercept</a>, an open source event, room, equipment management and customer tracking system.</p>
@@ -891,7 +891,7 @@ Libraries are evolving! No longer are they simply a place where books are stored
 <p>When she is not retooling a roadmap or gathering site requirements, Sally is an avid camper and homebrewer. She also sits on the board of Bella Boutique, a unique Denver non-profit providing free prom gowns to teens in financial need.</p>
 ]]></content:encoded>
             
-            <enclosure url="http://libraryisopen.com/episodes/2019-04-19-intercept.mp3" length="33247121" type="audio/mpeg" />
+            <enclosure url="https://libraryisopen.com/episodes/2019-04-19-intercept.mp3" length="33247121" type="audio/mpeg" />
             <itunes:keywords></itunes:keywords>
             <itunes:subtitle></itunes:subtitle>
             <itunes:summary></itunes:summary>
@@ -911,12 +911,12 @@ Libraries are evolving! No longer are they simply a place where books are stored
         
           <item>
             <title>Brian Pichman - The Library is Open ep. 13 - </title>
-            <link>http://libraryisopen.com/2018/09/25/brian-pichman.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://libraryisopen.com/players/brian-pichman"/>
-            <comments>http://libraryisopen.com/2018/09/25/brian-pichman.html#disqus_thread</comments>
+            <link>https://libraryisopen.com/2018/09/25/brian-pichman.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://libraryisopen.com/players/brian-pichman"/>
+            <comments>https://libraryisopen.com/2018/09/25/brian-pichman.html#disqus_thread</comments>
             <pubDate>Tue, 25 Sep 2018 00:00:00 +0000</pubDate>
             
-            <guid isPermaLink="false">http://libraryisopen.com/2018/09/25/brian-pichman.html</guid>
+            <guid isPermaLink="false">https://libraryisopen.com/2018/09/25/brian-pichman.html</guid>
             <description><![CDATA[
 
 <p>We are happy to announce our newest session for The Library is Open Podcast! Today’s session features an interview with Brian Pichman, the Director of Strategic Innovation at the Evolve Project. He speaks a lot about innovative technology within libraries and loves collaborating with both libraries and companies.</p>
@@ -934,7 +934,7 @@ Libraries are evolving! No longer are they simply a place where books are stored
 <p>Brian Pichman is an entrepreneur, innovator, and collaborator.As Director of Strategic Innovation at the Evolve Project, he works with libraries to create makerspaces and fab labs, and provides the coaching and guidance needed to take their environments to the next level. Brian speaks a lot about innovative technology as a presenter and loves collaborating with both libraries and companies.  He is dedicated to bringing libraries into the future using cost effective measures and strategies.  Much of Evolve’s work includes bridging the digital divide, breaking away from “traditional library views”, becoming trend setters and finding or building innovative works geared towards interaction and collaboration.  He has also been working with start-up companies across the country, promoting libraries and encouraging people to work closer with libraries in developing new ideas and concepts.</p>
 ]]></content:encoded>
             
-            <enclosure url="http://libraryisopen.com/episodes/2018-09-25-brian-pichman.mp3" length="17482228" type="audio/mpeg" />
+            <enclosure url="https://libraryisopen.com/episodes/2018-09-25-brian-pichman.mp3" length="17482228" type="audio/mpeg" />
             <itunes:keywords></itunes:keywords>
             <itunes:subtitle></itunes:subtitle>
             <itunes:summary></itunes:summary>
@@ -954,12 +954,12 @@ Libraries are evolving! No longer are they simply a place where books are stored
         
           <item>
             <title>Michael Kucsak - The Library is Open ep. 12 - </title>
-            <link>http://libraryisopen.com/2018/03/13/michael-kucsak.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://libraryisopen.com/players/michael-kucsak"/>
-            <comments>http://libraryisopen.com/2018/03/13/michael-kucsak.html#disqus_thread</comments>
+            <link>https://libraryisopen.com/2018/03/13/michael-kucsak.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://libraryisopen.com/players/michael-kucsak"/>
+            <comments>https://libraryisopen.com/2018/03/13/michael-kucsak.html#disqus_thread</comments>
             <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
             
-            <guid isPermaLink="false">http://libraryisopen.com/2018/03/13/michael-kucsak.html</guid>
+            <guid isPermaLink="false">https://libraryisopen.com/2018/03/13/michael-kucsak.html</guid>
             <description><![CDATA[
 
 <p>We are happy to announce our newest session for The Library is Open Podcast! Today’s session features an interview with Michael Kucsak, Assistant Dean and Chief of Staff at Virginia Tech University Libraries. In this session Michael discuses why the freedom, flexibility and support system offered by ByWater and Koha was the best choice for the University Libraries. He also talks about managing change, setting the stage for a migration, successful communication and other aspects that prepared them for a migration from a propriety ILS to open source.</p>
@@ -981,7 +981,7 @@ Libraries are evolving! No longer are they simply a place where books are stored
 <p>You can watch the video version of this conversation on our <a href="https://www.youtube.com/playlist?list=PLV_OXyJ1D3Bi8zmgDWnaDz2d35FkC6j-v">YouTube channel</a>, listen right here, subscribe to our podcast, or all of the above. Enjoy!</p>
 ]]></content:encoded>
             
-            <enclosure url="http://libraryisopen.com/episodes/2018-03-13-michael-kucsak.mp3" length="39032725" type="audio/mpeg" />
+            <enclosure url="https://libraryisopen.com/episodes/2018-03-13-michael-kucsak.mp3" length="39032725" type="audio/mpeg" />
             <itunes:keywords></itunes:keywords>
             <itunes:subtitle></itunes:subtitle>
             <itunes:summary></itunes:summary>
@@ -1001,12 +1001,12 @@ Libraries are evolving! No longer are they simply a place where books are stored
         
           <item>
             <title>Trey Gordner - The Library is Open ep. 11 - </title>
-            <link>http://libraryisopen.com/2018/01/31/trey-gordner.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://libraryisopen.com/players/trey-gordner"/>
-            <comments>http://libraryisopen.com/2018/01/31/trey-gordner.html#disqus_thread</comments>
+            <link>https://libraryisopen.com/2018/01/31/trey-gordner.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://libraryisopen.com/players/trey-gordner"/>
+            <comments>https://libraryisopen.com/2018/01/31/trey-gordner.html#disqus_thread</comments>
             <pubDate>Wed, 31 Jan 2018 00:00:00 +0000</pubDate>
             
-            <guid isPermaLink="false">http://libraryisopen.com/2018/01/31/trey-gordner.html</guid>
+            <guid isPermaLink="false">https://libraryisopen.com/2018/01/31/trey-gordner.html</guid>
             <description><![CDATA[
 
 <p>We are happy to announce our newest session for The Library is Open Podcast! Today’s session features an interview with Trey Gordner, Founder and CEO of <a href="https://www.koios.co/">Koios</a>. Trey’s goal is to help libraries fulfill their mission in the digital age. In this session of The Library is Open Podcast, Trey discusses Koios, working with libraries, and what is on the horizon.</p>
@@ -1036,7 +1036,7 @@ Libraries are evolving! No longer are they simply a place where books are stored
 <p>Looking for more information about Koios to get your library started? <a href="https://www.koios.co/contact-us/">Contact</a> them today.</p>
 ]]></content:encoded>
             
-            <enclosure url="http://libraryisopen.com/episodes/2018-01-31-trey-gordner.mp3" length="18460761" type="audio/mpeg" />
+            <enclosure url="https://libraryisopen.com/episodes/2018-01-31-trey-gordner.mp3" length="18460761" type="audio/mpeg" />
             <itunes:keywords></itunes:keywords>
             <itunes:subtitle></itunes:subtitle>
             <itunes:summary></itunes:summary>
@@ -1056,12 +1056,12 @@ Libraries are evolving! No longer are they simply a place where books are stored
         
           <item>
             <title>Spencer Smith - The Library is Open ep. 10 - </title>
-            <link>http://libraryisopen.com/2017/12/31/spencer-smith.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://libraryisopen.com/players/spencer-smith"/>
-            <comments>http://libraryisopen.com/2017/12/31/spencer-smith.html#disqus_thread</comments>
+            <link>https://libraryisopen.com/2017/12/31/spencer-smith.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://libraryisopen.com/players/spencer-smith"/>
+            <comments>https://libraryisopen.com/2017/12/31/spencer-smith.html#disqus_thread</comments>
             <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
             
-            <guid isPermaLink="false">http://libraryisopen.com/2017/12/31/spencer-smith.html</guid>
+            <guid isPermaLink="false">https://libraryisopen.com/2017/12/31/spencer-smith.html</guid>
             <description><![CDATA[
 
 <p>We are happy to announce our newest session for The Library is Open Podcast! Today’s session features an interview with Spencer Smith, McKinney Public Library. Spencer Smith is currently the <a href="https://mckinney.bywatersolutions.com/cgi-bin/koha/opac-main.pl">Director of Libraries at City of McKinney</a>. As a library leader, Spencer’s goal is to provide top quality service to his citizens.</p>
@@ -1083,7 +1083,7 @@ Libraries are evolving! No longer are they simply a place where books are stored
 <p>You can watch the video version of this conversation on our <a href="https://www.youtube.com/playlist?list=PLV_OXyJ1D3Bi8zmgDWnaDz2d35FkC6j-v">YouTube channel</a>, listen right here, subscribe to our podcast, or all of the above. Enjoy!</p>
 ]]></content:encoded>
             
-            <enclosure url="http://libraryisopen.com/episodes/2017-12-31-spencer-smith.mp3" length="25882674" type="audio/mpeg" />
+            <enclosure url="https://libraryisopen.com/episodes/2017-12-31-spencer-smith.mp3" length="25882674" type="audio/mpeg" />
             <itunes:keywords></itunes:keywords>
             <itunes:subtitle></itunes:subtitle>
             <itunes:summary></itunes:summary>
@@ -1103,12 +1103,12 @@ Libraries are evolving! No longer are they simply a place where books are stored
         
           <item>
             <title>Michael Sauers - The Library is Open ep. 9 - </title>
-            <link>http://libraryisopen.com/2017/11/27/michael-sauers.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://libraryisopen.com/players/michael-sauers"/>
-            <comments>http://libraryisopen.com/2017/11/27/michael-sauers.html#disqus_thread</comments>
+            <link>https://libraryisopen.com/2017/11/27/michael-sauers.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://libraryisopen.com/players/michael-sauers"/>
+            <comments>https://libraryisopen.com/2017/11/27/michael-sauers.html#disqus_thread</comments>
             <pubDate>Mon, 27 Nov 2017 00:00:00 +0000</pubDate>
             
-            <guid isPermaLink="false">http://libraryisopen.com/2017/11/27/michael-sauers.html</guid>
+            <guid isPermaLink="false">https://libraryisopen.com/2017/11/27/michael-sauers.html</guid>
             <description><![CDATA[
 
 <p>We are happy to announce our newest session for The Library is Open Podcast! Today’s session features an interview with Michael Sauers from Do Space in Omaha, Nebraska. Michael Sauers is currently the Director of Technology for <a href="http://dospace.org/">Do Space</a>. Michael has been training librarians in technology for the past twenty years and has also been a public library trustee, a bookstore manager for a library friends group, a reference librarian, serials cataloger, technology consultant, and bookseller since earning his MLS in 1995 from the University at Albany’s School of Information Science and Policy.</p>
@@ -1130,7 +1130,7 @@ Libraries are evolving! No longer are they simply a place where books are stored
 <p>You can watch the video version of this conversation on our <a href="https://www.youtube.com/playlist?list=PLV_OXyJ1D3Bi8zmgDWnaDz2d35FkC6j-v">YouTube channel</a>, listen right here, subscribe to our podcast, or all of the above. Enjoy!</p>
 ]]></content:encoded>
             
-            <enclosure url="http://libraryisopen.com/episodes/2017-11-27-michael-sauers.mp3" length="25260969" type="audio/mpeg" />
+            <enclosure url="https://libraryisopen.com/episodes/2017-11-27-michael-sauers.mp3" length="25260969" type="audio/mpeg" />
             <itunes:keywords></itunes:keywords>
             <itunes:subtitle></itunes:subtitle>
             <itunes:summary></itunes:summary>
@@ -1150,12 +1150,12 @@ Libraries are evolving! No longer are they simply a place where books are stored
         
           <item>
             <title>Rob Hilliker - The Library is Open ep. 8 - </title>
-            <link>http://libraryisopen.com/2017/09/06/rob-hilliker.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://libraryisopen.com/players/rob-hilliker"/>
-            <comments>http://libraryisopen.com/2017/09/06/rob-hilliker.html#disqus_thread</comments>
+            <link>https://libraryisopen.com/2017/09/06/rob-hilliker.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://libraryisopen.com/players/rob-hilliker"/>
+            <comments>https://libraryisopen.com/2017/09/06/rob-hilliker.html#disqus_thread</comments>
             <pubDate>Wed, 06 Sep 2017 00:00:00 +0000</pubDate>
             
-            <guid isPermaLink="false">http://libraryisopen.com/2017/09/06/rob-hilliker.html</guid>
+            <guid isPermaLink="false">https://libraryisopen.com/2017/09/06/rob-hilliker.html</guid>
             <description><![CDATA[
 
 <p>We are happy to announce our newest session for The Library is Open Podcast! Today’s session features an interview with Robert Hilliker from <a href="https://www.hotchkiss.org/">the Hotchkiss School</a> in Lakeville, Connecticut. Rob is the Director of the Edsel Ford Memorial Library. He joined the School in 2013 and set the stage by rolling out the new ILS for students by switching to Koha.</p>
@@ -1177,7 +1177,7 @@ Libraries are evolving! No longer are they simply a place where books are stored
 <p>You can watch the video version of this conversation on our <a href="https://www.youtube.com/playlist?list=PLV_OXyJ1D3Bi8zmgDWnaDz2d35FkC6j-v">YouTube channel</a>, listen right here, subscribe to our podcast, or all of the above. Enjoy!</p>
 ]]></content:encoded>
             
-            <enclosure url="http://libraryisopen.com/episodes/2017-09-06-rob-hilliker.mp3" length="34843203" type="audio/mpeg" />
+            <enclosure url="https://libraryisopen.com/episodes/2017-09-06-rob-hilliker.mp3" length="34843203" type="audio/mpeg" />
             <itunes:keywords></itunes:keywords>
             <itunes:subtitle></itunes:subtitle>
             <itunes:summary></itunes:summary>
@@ -1197,12 +1197,12 @@ Libraries are evolving! No longer are they simply a place where books are stored
         
           <item>
             <title>Kyle Hall - The Library is Open ep. 7 - </title>
-            <link>http://libraryisopen.com/2017/06/09/kyle-hall.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://libraryisopen.com/players/kyle-hall"/>
-            <comments>http://libraryisopen.com/2017/06/09/kyle-hall.html#disqus_thread</comments>
+            <link>https://libraryisopen.com/2017/06/09/kyle-hall.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://libraryisopen.com/players/kyle-hall"/>
+            <comments>https://libraryisopen.com/2017/06/09/kyle-hall.html#disqus_thread</comments>
             <pubDate>Fri, 09 Jun 2017 00:00:00 +0000</pubDate>
             
-            <guid isPermaLink="false">http://libraryisopen.com/2017/06/09/kyle-hall.html</guid>
+            <guid isPermaLink="false">https://libraryisopen.com/2017/06/09/kyle-hall.html</guid>
             <description><![CDATA[
 
 <p>We are happy to announce our newest session for The Library is Open Podcast! Today’s session features question and answer with Kyle Hall, Lead Developer or otherwise known as Lord of the Code for ByWater Solutions. Join us as we discuss the 17.05 release for Koha Open Source ILS where Kyle volunteered as Release Manager. Listen to what is on the horizon and what we will see in <a href="https://koha-community.org/">Koha 17.05</a>.</p>
@@ -1220,7 +1220,7 @@ Libraries are evolving! No longer are they simply a place where books are stored
 <p>You can watch the video version of this conversation on our <a href="https://www.youtube.com/playlist?list=PLV_OXyJ1D3Bi8zmgDWnaDz2d35FkC6j-v">YouTube channel</a>, listen right here, subscribe to our Library is Open Podcast, or all of the above. Enjoy!</p>
 ]]></content:encoded>
             
-            <enclosure url="http://libraryisopen.com/episodes/2017-06-09-kyle-hall.mp3" length="16300968" type="audio/mpeg" />
+            <enclosure url="https://libraryisopen.com/episodes/2017-06-09-kyle-hall.mp3" length="16300968" type="audio/mpeg" />
             <itunes:keywords></itunes:keywords>
             <itunes:subtitle></itunes:subtitle>
             <itunes:summary></itunes:summary>
@@ -1240,12 +1240,12 @@ Libraries are evolving! No longer are they simply a place where books are stored
         
           <item>
             <title>Myka Kennedy Stephens - The Library is Open ep. 6 - </title>
-            <link>http://libraryisopen.com/2017/05/08/myka-kennedy.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://libraryisopen.com/players/myka-kennedy"/>
-            <comments>http://libraryisopen.com/2017/05/08/myka-kennedy.html#disqus_thread</comments>
+            <link>https://libraryisopen.com/2017/05/08/myka-kennedy.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://libraryisopen.com/players/myka-kennedy"/>
+            <comments>https://libraryisopen.com/2017/05/08/myka-kennedy.html#disqus_thread</comments>
             <pubDate>Mon, 08 May 2017 00:00:00 +0000</pubDate>
             
-            <guid isPermaLink="false">http://libraryisopen.com/2017/05/08/myka-kennedy.html</guid>
+            <guid isPermaLink="false">https://libraryisopen.com/2017/05/08/myka-kennedy.html</guid>
             <description><![CDATA[
 
 <p>We are happy to announce our newest session for The Library is Open Podcast! Today’s session features an interview with Myka Kennedy Stephens, Seminary Librarian and Assistant Professor at the <a href="https://lancasterseminary.edu/">Lancaster Theological Seminary</a> in Lancaster, Pennsylvania. Myka has been working in libraries for more than a decade and has a strong background in library leadership and open source information systems.</p>
@@ -1263,7 +1263,7 @@ Libraries are evolving! No longer are they simply a place where books are stored
 <p>You can watch the video version of this conversation on our <a href="https://www.youtube.com/playlist?list=PLV_OXyJ1D3Bi8zmgDWnaDz2d35FkC6j-v">YouTube channel</a>, listen right here, subscribe to our podcast, or all of the above. Enjoy!</p>
 ]]></content:encoded>
             
-            <enclosure url="http://libraryisopen.com/episodes/2017-05-08-myka-kennedy.mp3" length="34641537" type="audio/mpeg" />
+            <enclosure url="https://libraryisopen.com/episodes/2017-05-08-myka-kennedy.mp3" length="34641537" type="audio/mpeg" />
             <itunes:keywords></itunes:keywords>
             <itunes:subtitle></itunes:subtitle>
             <itunes:summary></itunes:summary>
@@ -1283,12 +1283,12 @@ Libraries are evolving! No longer are they simply a place where books are stored
         
           <item>
             <title>Lori Ayre and Jessamyn West - The Library is Open ep. 5 - </title>
-            <link>http://libraryisopen.com/2017/03/17/lori-ayre-and-jessamyn-west.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://libraryisopen.com/players/lori-ayre-and-jessamyn-west"/>
-            <comments>http://libraryisopen.com/2017/03/17/lori-ayre-and-jessamyn-west.html#disqus_thread</comments>
+            <link>https://libraryisopen.com/2017/03/17/lori-ayre-and-jessamyn-west.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://libraryisopen.com/players/lori-ayre-and-jessamyn-west"/>
+            <comments>https://libraryisopen.com/2017/03/17/lori-ayre-and-jessamyn-west.html#disqus_thread</comments>
             <pubDate>Fri, 17 Mar 2017 00:00:00 +0000</pubDate>
             
-            <guid isPermaLink="false">http://libraryisopen.com/2017/03/17/lori-ayre-and-jessamyn-west.html</guid>
+            <guid isPermaLink="false">https://libraryisopen.com/2017/03/17/lori-ayre-and-jessamyn-west.html</guid>
             <description><![CDATA[
 
 <p>In this week’s podcast are guests Lori Ayre, Library Technology Consultant at Galecia Group, and Jessamyn West, Librarian and Community Technologist.  Lori works with libraries to optimize their operations and find ways to leverage state-of-the-art technologies to reduce operating expenses without reducing service quality to library patrons. Jessamyn can teach anyone to use a computer and enjoys using free and open source tools to help libraries better serve their patrons.</p>
@@ -1310,7 +1310,7 @@ Libraries are evolving! No longer are they simply a place where books are stored
 <p>Interested in Learning more about Bookpoints? Check out <a href="http://readingbydesign.org/">Reading By Design</a> for more information.</p>
 ]]></content:encoded>
             
-            <enclosure url="http://libraryisopen.com/episodes/2017-03-17-lori-ayre-and-jessamyn-west.mp3" length="17726466" type="audio/mpeg" />
+            <enclosure url="https://libraryisopen.com/episodes/2017-03-17-lori-ayre-and-jessamyn-west.mp3" length="17726466" type="audio/mpeg" />
             <itunes:keywords></itunes:keywords>
             <itunes:subtitle></itunes:subtitle>
             <itunes:summary></itunes:summary>
@@ -1330,12 +1330,12 @@ Libraries are evolving! No longer are they simply a place where books are stored
         
           <item>
             <title>Henry Bankhead - The Library is Open ep. 4 - </title>
-            <link>http://libraryisopen.com/2017/02/13/henry-bankhead.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://libraryisopen.com/players/henry-bankhead"/>
-            <comments>http://libraryisopen.com/2017/02/13/henry-bankhead.html#disqus_thread</comments>
+            <link>https://libraryisopen.com/2017/02/13/henry-bankhead.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://libraryisopen.com/players/henry-bankhead"/>
+            <comments>https://libraryisopen.com/2017/02/13/henry-bankhead.html#disqus_thread</comments>
             <pubDate>Mon, 13 Feb 2017 00:00:00 +0000</pubDate>
             
-            <guid isPermaLink="false">http://libraryisopen.com/2017/02/13/henry-bankhead.html</guid>
+            <guid isPermaLink="false">https://libraryisopen.com/2017/02/13/henry-bankhead.html</guid>
             <description><![CDATA[
 
 <p>We are happy to announce our newest podcast for The Library is Open! Today’s session features an interview with Henry Bankhead, Assistant Library Director at the <a href="https://srpubliclibrary.org/">City San Rafael</a> in California. Henry has been working in libraries for more than a decade. His degrees in Art and Library Science have added a creative twist to his career, broadened his outlook, and given him the energy to be a risk taker. Hear his views on embracing change in the library world through the use of open source, as well as his outlook on providing outstanding customer service to the public, colleagues and partners.</p>
@@ -1349,7 +1349,7 @@ Libraries are evolving! No longer are they simply a place where books are stored
 <p>You can watch the video version of this conversation on our <a href="https://www.youtube.com/playlist?list=PLV_OXyJ1D3Bi8zmgDWnaDz2d35FkC6j-v">YouTube channel</a>, listen right here, subscribe to our podcast, or all of the above. Enjoy!</p>
 ]]></content:encoded>
             
-            <enclosure url="http://libraryisopen.com/episodes/2017-02-13-henry-bankhead.mp3" length="19056619" type="audio/mpeg" />
+            <enclosure url="https://libraryisopen.com/episodes/2017-02-13-henry-bankhead.mp3" length="19056619" type="audio/mpeg" />
             <itunes:keywords></itunes:keywords>
             <itunes:subtitle></itunes:subtitle>
             <itunes:summary></itunes:summary>
@@ -1369,12 +1369,12 @@ Libraries are evolving! No longer are they simply a place where books are stored
         
           <item>
             <title>EveryLibrary - The Library is Open ep. 3 - Featuring John Chrastka and Patrick Sweeney</title>
-            <link>http://libraryisopen.com/2017/01/12/everylibrary.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://libraryisopen.com/players/everylibrary"/>
-            <comments>http://libraryisopen.com/2017/01/12/everylibrary.html#disqus_thread</comments>
+            <link>https://libraryisopen.com/2017/01/12/everylibrary.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://libraryisopen.com/players/everylibrary"/>
+            <comments>https://libraryisopen.com/2017/01/12/everylibrary.html#disqus_thread</comments>
             <pubDate>Thu, 12 Jan 2017 00:00:00 +0000</pubDate>
             
-            <guid isPermaLink="false">http://libraryisopen.com/2017/01/12/everylibrary.html</guid>
+            <guid isPermaLink="false">https://libraryisopen.com/2017/01/12/everylibrary.html</guid>
             <description><![CDATA[
 
 <p>We are happy to announce the third of our monthly podcast series titled The Library is Open! It features an interview with John Chrastka, Executive Director and Patrick Sweeney, Political Director of EveryLibrary.  Your hosts Nate Curulla and Jessica Zairo discuss the current political climate affecting libraries in 2017, advocating for libraries and “get out and vote” techniques with John and Patrick. EveryLibrary is the first and only national organization dedicated to building voter support for libraries. Learn more about about what they do and how they support libraries at <a href="http://action.everylibrary.org/">Action</a>. Enjoy!</p>
@@ -1384,7 +1384,7 @@ Libraries are evolving! No longer are they simply a place where books are stored
 <p>We are happy to announce the third of our monthly podcast series titled The Library is Open! It features an interview with John Chrastka, Executive Director and Patrick Sweeney, Political Director of EveryLibrary.  Your hosts Nate Curulla and Jessica Zairo discuss the current political climate affecting libraries in 2017, advocating for libraries and “get out and vote” techniques with John and Patrick. EveryLibrary is the first and only national organization dedicated to building voter support for libraries. Learn more about about what they do and how they support libraries at <a href="http://action.everylibrary.org/">Action</a>. Enjoy!</p>
 ]]></content:encoded>
             
-            <enclosure url="http://libraryisopen.com/episodes/2017-01-12-everylibrary.mp3" length="27107092" type="audio/mpeg" />
+            <enclosure url="https://libraryisopen.com/episodes/2017-01-12-everylibrary.mp3" length="27107092" type="audio/mpeg" />
             <itunes:keywords></itunes:keywords>
             <itunes:subtitle>Featuring John Chrastka and Patrick Sweeney</itunes:subtitle>
             <itunes:summary></itunes:summary>
@@ -1404,12 +1404,12 @@ Libraries are evolving! No longer are they simply a place where books are stored
         
           <item>
             <title>Brendan Gallagher and Nate Curulla - The Library is Open ep. 2 - </title>
-            <link>http://libraryisopen.com/2016/12/14/nate-brendan.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://libraryisopen.com/players/nate-brendan"/>
-            <comments>http://libraryisopen.com/2016/12/14/nate-brendan.html#disqus_thread</comments>
+            <link>https://libraryisopen.com/2016/12/14/nate-brendan.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://libraryisopen.com/players/nate-brendan"/>
+            <comments>https://libraryisopen.com/2016/12/14/nate-brendan.html#disqus_thread</comments>
             <pubDate>Wed, 14 Dec 2016 00:00:00 +0000</pubDate>
             
-            <guid isPermaLink="false">http://libraryisopen.com/2016/12/14/nate-brendan.html</guid>
+            <guid isPermaLink="false">https://libraryisopen.com/2016/12/14/nate-brendan.html</guid>
             <description><![CDATA[
 
 <p>We are happy to announce the second of our monthly podcast series titled The Library is Open! It features an interview with Brendan Gallagher, Co-Owner and Chief Executive Officer and Nate Curulla, Co-Owner and Chief Revenue Officer.  Join us as we talk through the journey of friendship, librarianship and starting the ByWater Solutions Company. You can see our pretty faces on the video version of this conversation on our <a href="https://www.youtube.com/user/bywatersolutions">YouTube</a> channel, listen right here, subscribe to our podcast, or all of the above. Enjoy!</p>
@@ -1419,7 +1419,7 @@ Libraries are evolving! No longer are they simply a place where books are stored
 <p>We are happy to announce the second of our monthly podcast series titled The Library is Open! It features an interview with Brendan Gallagher, Co-Owner and Chief Executive Officer and Nate Curulla, Co-Owner and Chief Revenue Officer.  Join us as we talk through the journey of friendship, librarianship and starting the ByWater Solutions Company. You can see our pretty faces on the video version of this conversation on our <a href="https://www.youtube.com/user/bywatersolutions">YouTube</a> channel, listen right here, subscribe to our podcast, or all of the above. Enjoy!</p>
 ]]></content:encoded>
             
-            <enclosure url="http://libraryisopen.com/episodes/2016-12-14-nate-brendan.mp3" length="10670821" type="audio/mpeg" />
+            <enclosure url="https://libraryisopen.com/episodes/2016-12-14-nate-brendan.mp3" length="10670821" type="audio/mpeg" />
             <itunes:keywords></itunes:keywords>
             <itunes:subtitle></itunes:subtitle>
             <itunes:summary></itunes:summary>
@@ -1439,12 +1439,12 @@ Libraries are evolving! No longer are they simply a place where books are stored
         
           <item>
             <title>Joann Ransom - The Library is Open ep. 1 - </title>
-            <link>http://libraryisopen.com/2016/11/14/joann-ransom.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://libraryisopen.com/players/joann-ransom"/>
-            <comments>http://libraryisopen.com/2016/11/14/joann-ransom.html#disqus_thread</comments>
+            <link>https://libraryisopen.com/2016/11/14/joann-ransom.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://libraryisopen.com/players/joann-ransom"/>
+            <comments>https://libraryisopen.com/2016/11/14/joann-ransom.html#disqus_thread</comments>
             <pubDate>Mon, 14 Nov 2016 00:00:00 +0000</pubDate>
             
-            <guid isPermaLink="false">http://libraryisopen.com/2016/11/14/joann-ransom.html</guid>
+            <guid isPermaLink="false">https://libraryisopen.com/2016/11/14/joann-ransom.html</guid>
             <description><![CDATA[
 
 <p>Welcome to our new podcast. We are happy to announce the first of our 30 minute monthly series titled The Library is Open! This first session features an interview with Joann Ransom, who was integral in the initial funding and development of Koha, the first web based and open source integrated library system. Hear about the challenges she faced when spearheading this monumental task and learn what she has been up to since, including her world tour of Koha libraries! You can see our pretty faces on the video version of this conversation on our <a href="https://www.youtube.com/user/bywatersolutions">YouTube</a> channel, listen right here, subscribe to our podcast, or all of the above. Enjoy!</p>
@@ -1454,7 +1454,7 @@ Libraries are evolving! No longer are they simply a place where books are stored
 <p>Welcome to our new podcast. We are happy to announce the first of our 30 minute monthly series titled The Library is Open! This first session features an interview with Joann Ransom, who was integral in the initial funding and development of Koha, the first web based and open source integrated library system. Hear about the challenges she faced when spearheading this monumental task and learn what she has been up to since, including her world tour of Koha libraries! You can see our pretty faces on the video version of this conversation on our <a href="https://www.youtube.com/user/bywatersolutions">YouTube</a> channel, listen right here, subscribe to our podcast, or all of the above. Enjoy!</p>
 ]]></content:encoded>
             
-            <enclosure url="http://libraryisopen.com/episodes/2016-11-14-joann-ransom.mp3" length="18857978" type="audio/mpeg" />
+            <enclosure url="https://libraryisopen.com/episodes/2016-11-14-joann-ransom.mp3" length="18857978" type="audio/mpeg" />
             <itunes:keywords></itunes:keywords>
             <itunes:subtitle></itunes:subtitle>
             <itunes:summary></itunes:summary>

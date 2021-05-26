@@ -4,7 +4,7 @@
   <title>The Library is Open</title>
   <link href="https://libraryisopen.com/general_feed.xml" rel="self"/>
   <link href="https://libraryisopen.com"/>
-  <updated>2021-05-26T16:38:47+00:00</updated>
+  <updated>2021-05-26T17:26:53+00:00</updated>
   <id>https://libraryisopen.com/</id>
   <author>
     <name>ByWater Solutions</name>
@@ -14,10 +14,17 @@
   
     <entry>
       <title>Angie Drobnic Holan - The Library is Open ep. 28</title>
-      <link href="https://libraryisopen.com/2021/05/26/angie-drobnic-holan-the-library-is-open-ep-28.html"/>
+      <link href="https://libraryisopen.com/2021/05/26/angie-drobnic-holan.html"/>
       <updated>2021-05-26T16:11:00+00:00</updated>
-      <id>https://libraryisopen.com/2021/05/26/angie-drobnic-holan-the-library-is-open-ep-28</id>
+      <id>https://libraryisopen.com/2021/05/26/angie-drobnic-holan</id>
       <content type="html">&lt;p&gt;We are pleased to announce our newest session of The Library is Open Podcast! This session features an interview with Angie Drobnic Holan, editor-in-chief at PolitiFact. Angie and Jessie talk about misinformation, tools to organize and keep accurate records, partnerships to help stop the spread of misinformation online, and educating people to distinguish between truth and rumors.&lt;/p&gt;
+
+&lt;script&gt;
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://libraryisopen.com/episodes/2021-05-26-angie-drobnic-holan.mp3&quot;},&quot;coverUrl&quot;:&quot;https://libraryisopen.com/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Angie Drobnic Holan - The Library is Open ep. 28&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;https://libraryisopen.com/2021/05/26/angie-drobnic-holan.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+&lt;/script&gt;
+
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://libraryisopen.com/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;/script&gt;
 
 &lt;h2 id=&quot;about-angie-drobnic-holan&quot;&gt;About Angie Drobnic Holan&lt;/h2&gt;
 
@@ -33,6 +40,8 @@
 
 &lt;p&gt;Read more about &lt;a href=&quot;https://www.politifact.com/&quot; title=&quot;Politifact&quot;&gt;Politifact&lt;/a&gt;.&lt;/p&gt;
 </content>
+      
+        <link rel="enclosure" type="audio/mpeg" length="33303018" href="https://libraryisopen.com/episodes/2021-05-26-angie-drobnic-holan.mp3"/>
       
       
     </entry>

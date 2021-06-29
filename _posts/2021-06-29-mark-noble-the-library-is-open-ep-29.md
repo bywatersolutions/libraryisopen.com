@@ -15,4 +15,4 @@ Mark graduated with a degree in Architectural Engineering, but moved immediately
 
 Aspen is a full-featured Discovery System that integrates with e-content and other 3rd party providers, giving your patrons comprehensive access to all of your materials in one place. Aspen combines your library catalog with e-content, digital archives and enrichment from all major third-party providers, improves relevancy and ease of use, provides native reading recommendations, displays all formats of titles within one result (FRBR) and much more. Aspen was created to give users an improved experience over other Discovery systems with less of an impact on library budgets. 
 
-For more information about Aspen please visit: https://bywatersolutions.com/projects/aspen-discovery.
+Learn more about [Aspen Discovery](https://bywatersolutions.com/projects/aspen-discovery "Aspen Discovery").

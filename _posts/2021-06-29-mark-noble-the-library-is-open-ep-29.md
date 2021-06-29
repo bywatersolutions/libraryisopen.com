@@ -5,7 +5,7 @@ published: true
 explicit: 'no'
 title: Mark Noble - The Library is Open ep. 29
 ---
-We are pleased to announce our newest session of The Library is Open Podcast! This session features an interview with Marke Noble, Aspen Discovery Team Lead at ByWater Solutions. Mark and Jessie talk about the future of open-source discovery, the global community and what's on the roadmap for Aspen Discovery in this episode!
+We are pleased to announce our newest session of The Library is Open Podcast! This session features an interview with Mark Noble, Aspen Discovery Team Lead at ByWater Solutions. Mark and Jessie talk about the future of open-source discovery, the global community and what's on the roadmap for Aspen Discovery in this episode!
 
 ## About Mark Noble 
 

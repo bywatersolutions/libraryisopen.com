@@ -21,7 +21,7 @@
 <atom:link rel="alternate" href="https://itunes.apple.com/us/podcast/the-library-is-open/id1176554216?mt=2" type="application/rss+xml" title="itunes"/>
     <description>A podcast for libraries interested in Koha and Open Source Software
 </description>
-    <lastBuildDate>Tue, 29 Jun 2021 17:41:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Jun 2021 15:28:35 +0000</lastBuildDate>
     <language>en</language>
     <generator>Jekyll-Octopod 0.9.10</generator>
 
@@ -48,6 +48,59 @@
     
     
     
+      
+        
+        
+          <item>
+            <title>Mark Noble - The Library is Open ep. 29 - </title>
+            <link>https://libraryisopen.com/2021/06/29/mark-noble.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://libraryisopen.com/players/mark-noble"/>
+            <comments>https://libraryisopen.com/2021/06/29/mark-noble.html#disqus_thread</comments>
+            <pubDate>Tue, 29 Jun 2021 16:36:00 +0000</pubDate>
+            
+            <guid isPermaLink="false">https://libraryisopen.com/2021/06/29/mark-noble.html</guid>
+            <description><![CDATA[<p>We are pleased to announce our newest session of The Library is Open Podcast! This session features an interview with Mark Noble, Aspen Discovery Team Lead at ByWater Solutions. Mark and Jessie talk about the future of open-source discovery, the global community and what’s on the roadmap for Aspen Discovery in this episode!</p>
+
+
+
+<h2 id="about-mark-noble">About Mark Noble</h2>
+
+<p>Mark graduated with a degree in Architectural Engineering, but moved immediately into software development. More than half his career has been spent building software for libraries with the majority of the time spent working on Discovery software. He enjoys creating innovative new functionality to make library software work better for patrons and staff. In his spare time, Mark enjoys being outdoors running and hiking, traveling, and hanging out with his kids.</p>
+
+<h2 id="about-aspen-discovery">About Aspen Discovery</h2>
+
+<p>Aspen is a full-featured Discovery System that integrates with e-content and other 3rd party providers, giving your patrons comprehensive access to all of your materials in one place. Aspen combines your library catalog with e-content, digital archives and enrichment from all major third-party providers, improves relevancy and ease of use, provides native reading recommendations, displays all formats of titles within one result (FRBR) and much more. Aspen was created to give users an improved experience over other Discovery systems with less of an impact on library budgets.</p>
+
+<p>Learn more about <a href="https://bywatersolutions.com/projects/aspen-discovery" title="Aspen Discovery">Aspen Discovery</a>.</p>
+]]></description>
+            <content:encoded><![CDATA[<p>We are pleased to announce our newest session of The Library is Open Podcast! This session features an interview with Mark Noble, Aspen Discovery Team Lead at ByWater Solutions. Mark and Jessie talk about the future of open-source discovery, the global community and what’s on the roadmap for Aspen Discovery in this episode!</p>
+
+
+
+<h2 id="about-mark-noble">About Mark Noble</h2>
+
+<p>Mark graduated with a degree in Architectural Engineering, but moved immediately into software development. More than half his career has been spent building software for libraries with the majority of the time spent working on Discovery software. He enjoys creating innovative new functionality to make library software work better for patrons and staff. In his spare time, Mark enjoys being outdoors running and hiking, traveling, and hanging out with his kids.</p>
+
+<h2 id="about-aspen-discovery">About Aspen Discovery</h2>
+
+<p>Aspen is a full-featured Discovery System that integrates with e-content and other 3rd party providers, giving your patrons comprehensive access to all of your materials in one place. Aspen combines your library catalog with e-content, digital archives and enrichment from all major third-party providers, improves relevancy and ease of use, provides native reading recommendations, displays all formats of titles within one result (FRBR) and much more. Aspen was created to give users an improved experience over other Discovery systems with less of an impact on library budgets.</p>
+
+<p>Learn more about <a href="https://bywatersolutions.com/projects/aspen-discovery" title="Aspen Discovery">Aspen Discovery</a>.</p>
+]]></content:encoded>
+            
+            <enclosure url="https://libraryisopen.com/episodes/2021-06-29-mark-noble.mp3" length="27943754" type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>ByWater Solutions</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>0:24:03</itunes:duration>
+            
+            
+            
+            
+          </item>
+        
       
     
       

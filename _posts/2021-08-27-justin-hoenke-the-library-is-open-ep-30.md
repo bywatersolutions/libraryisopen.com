@@ -5,7 +5,7 @@ published: true
 explicit: 'no'
 title: Justin Hoenke- The Library is Open ep. 30
 ---
-We are pleased to announce our newest session of The Library is Open Podcast! This session features an interview with Justin Hoenke. Justin is the Team Leader: Libraries & Community Spaces at Wellington City Council in New Zealand. Justin and Jessie talk about libraries, communities and most importantly kidness. 
+We are pleased to announce our newest session of The Library is Open Podcast! This session features an interview with Justin Hoenke. Justin is the Team Leader: Libraries & Community Spaces at Wellington City Council in New Zealand. Justin and Jessie talk about libraries, communities and most importantly kindness. 
 
 ## About Justin Hoenke
 
